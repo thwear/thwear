@@ -7,6 +7,7 @@ const state = {
   groups: [],
   visible: [],
   cart: new Map(),
+  selections: new Map(),
   filters: {
     query: "",
     category: "all",
@@ -150,8 +151,32 @@ function renderCatalog() {
 
   els.grid.innerHTML = state.visible.map(renderProduct).join("");
 
-  els.grid.querySelectorAll("[data-add]").forEach((button) => {
-    button.addEventListener("click", () => addToCart(button.dataset.add));
+  els.grid.querySelectorAll("[data-select-size]").forEach((button) => {
+    button.addEventListener("click", () => selectVariant(button.dataset.productId, { size: button.dataset.selectSize }));
+  });
+
+  els.grid.querySelectorAll("[data-select-color]").forEach((button) => {
+    button.addEventListener("click", () => selectVariant(button.dataset.productId, { color: button.dataset.selectColor }));
+  });
+
+  els.grid.querySelectorAll("[data-preview]").forEach((button) => {
+    button.addEventListener("click", () => selectVariant(button.dataset.productId, {
+      size: button.dataset.previewSize,
+      color: button.dataset.previewColor,
+      itemId: button.dataset.preview
+    }));
+  });
+
+  els.grid.querySelectorAll("[data-add-selected]").forEach((button) => {
+    button.addEventListener("click", () => addSelectedToCart(button.dataset.addSelected));
+  });
+
+  els.grid.querySelectorAll("[data-whatsapp-selected]").forEach((link) => {
+    link.addEventListener("click", (event) => {
+      const product = state.groups.find((item) => item.id === link.dataset.whatsappSelected);
+      if (!product) return;
+      link.href = whatsappUrl(buildProductMessage(product));
+    });
   });
 
   if (window.lucide) {
@@ -160,41 +185,50 @@ function renderCatalog() {
 }
 
 function renderProduct(product) {
-  const cover = product.items[0];
+  const selection = getSelection(product);
+  const cover = selection.item;
   const price = product.price === null
     ? `<strong class="pending">Consultar preco</strong>`
     : `<strong>${money.format(product.price)}</strong>`;
-  const priceMessage = product.price === null ? "Consultar preco" : money.format(product.price);
 
   const sizes = product.sizes.map((size) => {
-    const item = product.items.find((variant) => variant.size === size);
-    const selected = state.cart.has(item.id) ? " selected" : "";
+    const selected = selection.size === size ? " selected" : "";
     return `
-      <button class="size-pill${selected}" type="button" data-add="${item.id}" title="Separar tamanho ${escapeHtml(size)}">
+      <button class="size-pill${selected}" type="button" data-product-id="${escapeHtml(product.id)}" data-select-size="${escapeHtml(size)}" title="Escolher tamanho ${escapeHtml(size)}">
         ${escapeHtml(size)}
       </button>
     `;
   }).join("");
   const colors = product.colors.map((color) => {
-    const item = product.items.find((variant) => variant.color === color) || cover;
+    const selected = selection.color === color ? " selected" : "";
     const swatch = colorSwatch(color);
     return `
-      <button class="color-pill" type="button" data-add="${item.id}" title="Separar cor ${escapeHtml(color)}">
+      <button class="color-pill${selected}" type="button" data-product-id="${escapeHtml(product.id)}" data-select-color="${escapeHtml(color)}" title="Escolher cor ${escapeHtml(color)}">
         <span class="swatch" style="${swatch}"></span>
         ${escapeHtml(color)}
       </button>
     `;
   }).join("");
-
-  const message = encodeURIComponent(
-    `Oi! Tenho interesse neste item:\n\n${product.title}\nCategoria: ${product.category}\nPreco: ${priceMessage}\nTamanhos disponiveis: ${product.sizes.join(", ")}\nCores: ${product.colors.join(", ")}\nMarca: ${product.brand}\nLink: ${cover.driveUrl}`
-  );
+  const gallery = product.gallery.map((item) => {
+    const selected = item.id === cover.id || item.color === selection.color ? " selected" : "";
+    const swatch = colorSwatch(item.color || "Cor a identificar");
+    return `
+      <button class="thumb${selected}" type="button" data-product-id="${escapeHtml(product.id)}" data-preview="${escapeHtml(item.id)}" data-preview-size="${escapeHtml(item.size)}" data-preview-color="${escapeHtml(item.color || "Cor a identificar")}" title="${escapeHtml(item.color || "Cor a identificar")} ${escapeHtml(item.size)}">
+        <img src="${item.image}" alt="${escapeHtml(product.title)} ${escapeHtml(item.color || "")}" loading="lazy" />
+        <span class="thumb-swatch" style="${swatch}"></span>
+      </button>
+    `;
+  }).join("");
+  const selectedSummary = `${selection.size} · ${selection.color || "Cor a identificar"}`;
 
   return `
-    <article class="product">
+    <article class="product" data-product-id="${escapeHtml(product.id)}">
       <div class="image-wrap">
         <img src="${cover.image}" alt="${escapeHtml(product.title)}" loading="lazy" />
         <span class="badge">${product.items.length} peca${product.items.length === 1 ? "" : "s"}</span>
+      </div>
+      <div class="thumb-row" aria-label="Fotos do produto">
+        ${gallery}
       </div>
       <div class="product-body">
         <h3>${escapeHtml(product.title)}</h3>
@@ -209,16 +243,17 @@ function renderProduct(product) {
         <div class="colors" aria-label="Cores disponiveis">
           ${colors}
         </div>
+        <p class="selection-line">Selecionado: ${escapeHtml(selectedSummary)}</p>
         <div class="price">
           ${price}
           <span class="chip">${product.sizes.length} tam. · ${product.colors.length} cor${product.colors.length === 1 ? "" : "es"}</span>
         </div>
         <div class="actions">
-          <a class="primary" href="${whatsappUrl(message)}" target="_blank" rel="noreferrer">
+          <a class="primary" href="${whatsappUrl(buildProductMessage(product))}" data-whatsapp-selected="${escapeHtml(product.id)}" target="_blank" rel="noreferrer">
             <i data-lucide="message-circle"></i>
             WhatsApp
           </a>
-          <button class="secondary" type="button" data-add="${cover.id}" title="Separar primeira opcao">
+          <button class="secondary" type="button" data-add-selected="${escapeHtml(product.id)}" title="Adicionar tamanho e cor escolhidos">
             <i data-lucide="plus"></i>
           </button>
         </div>
@@ -248,7 +283,8 @@ function groupProducts(products) {
         price: product.price,
         items: [],
         sizes: [],
-        colors: []
+        colors: [],
+        gallery: []
       });
     }
 
@@ -264,8 +300,98 @@ function groupProducts(products) {
     group.sizes = [...new Set(group.items.map((item) => item.size || "Unico"))].sort(compareSizes);
     group.colors = [...new Set(group.items.map((item) => item.color || "Cor a identificar"))]
       .sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
+    group.gallery = galleryItems(group.items);
     return group;
   }).sort((a, b) => a.title.localeCompare(b.title, "pt-BR", { numeric: true }));
+}
+
+function galleryItems(items) {
+  const byColor = new Map();
+
+  for (const item of items) {
+    const color = item.color || "Cor a identificar";
+    if (!byColor.has(color)) {
+      byColor.set(color, item);
+    }
+  }
+
+  return [...byColor.values()].sort((a, b) => {
+    const colorSort = String(a.color || "").localeCompare(String(b.color || ""), "pt-BR", { numeric: true });
+    if (colorSort !== 0) return colorSort;
+    return compareSizes(a.size, b.size);
+  });
+}
+
+function getSelection(product) {
+  const saved = state.selections.get(product.id) || {};
+  let item = saved.itemId ? product.items.find((variant) => variant.id === saved.itemId) : null;
+
+  if (!item) {
+    item = findVariant(product, { size: saved.size, color: saved.color });
+  }
+
+  if (!item && saved.size) {
+    item = product.items.find((variant) => variant.size === saved.size);
+  }
+
+  if (!item && saved.color) {
+    item = product.items.find((variant) => variant.color === saved.color);
+  }
+
+  item ||= product.items[0];
+
+  return {
+    size: item.size || "Unico",
+    color: item.color || "Cor a identificar",
+    item
+  };
+}
+
+function findVariant(product, { size, color }) {
+  return product.items.find((item) => {
+    const sizeMatches = !size || item.size === size;
+    const colorMatches = !color || (item.color || "Cor a identificar") === color;
+    return sizeMatches && colorMatches;
+  });
+}
+
+function selectVariant(productId, changes) {
+  const product = state.groups.find((item) => item.id === productId);
+  if (!product) return;
+
+  const current = getSelection(product);
+  const next = {
+    size: changes.size || current.size,
+    color: changes.color || current.color,
+    itemId: changes.itemId || ""
+  };
+
+  let item = next.itemId ? product.items.find((variant) => variant.id === next.itemId) : null;
+  item ||= findVariant(product, next);
+  item ||= changes.size ? product.items.find((variant) => variant.size === next.size) : null;
+  item ||= changes.color ? product.items.find((variant) => (variant.color || "Cor a identificar") === next.color) : null;
+  item ||= current.item;
+
+  state.selections.set(productId, {
+    size: item.size || "Unico",
+    color: item.color || "Cor a identificar",
+    itemId: item.id
+  });
+
+  renderCatalog();
+}
+
+function addSelectedToCart(productId) {
+  const product = state.groups.find((item) => item.id === productId);
+  if (!product) return;
+  addToCart(getSelection(product).item.id);
+}
+
+function buildProductMessage(product) {
+  const selection = getSelection(product);
+  const priceMessage = product.price === null ? "Consultar preco" : money.format(product.price);
+  const text = `Oi! Tenho interesse neste item:\n\n${product.title}\nCategoria: ${product.category}\nPreco: ${priceMessage}\nTamanho: ${selection.size}\nCor: ${selection.color}\nMarca: ${product.brand}\nLink: ${selection.item.driveUrl}`;
+  return encodeURIComponent(text);
 }
 
 function folderLabel(product) {
