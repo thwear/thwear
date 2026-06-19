@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-06-19T00:03:56.111Z",
+    "syncedAt": "2026-06-19T00:09:29.773Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -12,11 +12,31 @@
       "price": null
     },
     {
+      "category": "Camisa premium",
+      "price": null
+    },
+    {
       "category": "Camisa polo",
       "price": null
     },
     {
+      "category": "Camisa social",
+      "price": null
+    },
+    {
+      "category": "Camisa feminina",
+      "price": null
+    },
+    {
       "category": "Calca jeans",
+      "price": null
+    },
+    {
+      "category": "Calca sarja",
+      "price": null
+    },
+    {
+      "category": "Calca alfaiataria",
       "price": null
     },
     {
@@ -30,13 +50,17 @@
     {
       "category": "Cueca premium",
       "price": null
+    },
+    {
+      "category": "Perfume",
+      "price": null
     }
   ],
   "products": [
     {
-      "id": "camiseta-camisa-premium-gg-18uhl67uzhwzsq0luibhxdp67-yhb6un9",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-18uhl67uzhwzsq0luibhxdp67-yhb6un9",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -130,9 +154,9 @@
       "modifiedTime": "2026-06-18T17:31:33.116Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1qqtz7wdm22-6qll2wil7xn01-xqguxqy",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1qqtz7wdm22-6qll2wil7xn01-xqguxqy",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -146,9 +170,9 @@
       "modifiedTime": "2026-06-18T17:22:07.816Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1n9ecz1ggp5gwj8rr2yz59x1augt-fsx",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1n9ecz1ggp5gwj8rr2yz59x1augt-fsx",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -162,9 +186,9 @@
       "modifiedTime": "2026-06-18T17:25:22.342Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1-e0bfiuhyqz2cxuppiwsbvnqk2dpkuzr",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1-e0bfiuhyqz2cxuppiwsbvnqk2dpkuzr",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -178,9 +202,9 @@
       "modifiedTime": "2026-06-18T17:23:35.929Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1uc8lreaxjdutiwdtvdfu5glktatugdo1",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1uc8lreaxjdutiwdtvdfu5glktatugdo1",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -194,9 +218,9 @@
       "modifiedTime": "2026-06-18T17:19:02.992Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1ssccbmf7rxzf8lfllgavzmfplr8ann6q",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1ssccbmf7rxzf8lfllgavzmfplr8ann6q",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -210,9 +234,9 @@
       "modifiedTime": "2026-06-18T17:21:32.409Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-16q6elnijqapt5ebqfgiu9sg7ais8evsi",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-16q6elnijqapt5ebqfgiu9sg7ais8evsi",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -226,9 +250,9 @@
       "modifiedTime": "2026-06-18T17:20:51.791Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1wxt3vtypzng4ck0nyf37fvgjzxaon8cs",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1wxt3vtypzng4ck0nyf37fvgjzxaon8cs",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -242,9 +266,9 @@
       "modifiedTime": "2026-06-18T17:20:06.220Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1elypmfvuk2mw7cp-vgz2hoajw1cq0ppu",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1elypmfvuk2mw7cp-vgz2hoajw1cq0ppu",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -258,9 +282,9 @@
       "modifiedTime": "2026-06-18T17:19:33.983Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1oxhg4xix-vplndhixi-n3ibspsa-mzxs",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1oxhg4xix-vplndhixi-n3ibspsa-mzxs",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -274,9 +298,9 @@
       "modifiedTime": "2026-06-18T17:23:12.337Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1nclivqwhtas-n0qlgmv83alpblfa-pkq",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1nclivqwhtas-n0qlgmv83alpblfa-pkq",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -290,9 +314,9 @@
       "modifiedTime": "2026-06-18T17:22:34.114Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1vwwazrkbgd2wiufaspfkhhh8r1rhivfq",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1vwwazrkbgd2wiufaspfkhhh8r1rhivfq",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -306,9 +330,9 @@
       "modifiedTime": "2026-06-18T17:24:32.246Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-18nyc0iwntzte3gug7je99l7vffur3kea",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-18nyc0iwntzte3gug7je99l7vffur3kea",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -322,9 +346,9 @@
       "modifiedTime": "2026-06-18T17:12:44.282Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1rpid4y2-eg96wwbbbdduwvforumbnfnt",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1rpid4y2-eg96wwbbbdduwvforumbnfnt",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -466,9 +490,9 @@
       "modifiedTime": "2026-06-17T16:37:28.775Z"
     },
     {
-      "id": "calca-a-identificar-48-1lnf8j2dicotwyiwwdef-brwgjkf-lirq",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-48-1lnf8j2dicotwyiwwdef-brwgjkf-lirq",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -482,9 +506,9 @@
       "modifiedTime": "2026-06-17T10:35:40.154Z"
     },
     {
-      "id": "calca-a-identificar-48-1ernbaxskkzenjtdhmufmtbwkj7ads16l",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-48-1ernbaxskkzenjtdhmufmtbwkj7ads16l",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -498,9 +522,9 @@
       "modifiedTime": "2026-06-17T10:35:40.136Z"
     },
     {
-      "id": "calca-a-identificar-48-1ptmktuuglqtiy3gsi3mdrk9nhudlfgrp",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-48-1ptmktuuglqtiy3gsi3mdrk9nhudlfgrp",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -514,9 +538,9 @@
       "modifiedTime": "2026-06-17T10:35:40.118Z"
     },
     {
-      "id": "calca-a-identificar-48-1erzmhqhzsl6sahb4qtubfkgpwuzyht16",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-48-1erzmhqhzsl6sahb4qtubfkgpwuzyht16",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -530,9 +554,9 @@
       "modifiedTime": "2026-06-17T10:35:40.097Z"
     },
     {
-      "id": "calca-a-identificar-48-1-mgfgdvlr1sfvavghoee1eunimpb-fga",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-48-1-mgfgdvlr1sfvavghoee1eunimpb-fga",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -546,9 +570,9 @@
       "modifiedTime": "2026-06-17T10:35:40.067Z"
     },
     {
-      "id": "calca-a-identificar-46-1grezbvhcqg7zl0xujmhzpjipf1zjegwb",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-46-1grezbvhcqg7zl0xujmhzpjipf1zjegwb",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -562,9 +586,9 @@
       "modifiedTime": "2026-06-17T10:35:25.514Z"
     },
     {
-      "id": "calca-a-identificar-46-1a6vagwen4xiopdxee36tmbohrghmz84u",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-46-1a6vagwen4xiopdxee36tmbohrghmz84u",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -578,9 +602,9 @@
       "modifiedTime": "2026-06-17T10:35:25.499Z"
     },
     {
-      "id": "calca-a-identificar-46-1m0kfg6adbezyka5juyl3oacnpwxpnhuc",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-46-1m0kfg6adbezyka5juyl3oacnpwxpnhuc",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -594,9 +618,9 @@
       "modifiedTime": "2026-06-17T10:35:25.484Z"
     },
     {
-      "id": "calca-a-identificar-46-1u5hzeacqwdz-zq5yshjm4-krt7eo97iy",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-46-1u5hzeacqwdz-zq5yshjm4-krt7eo97iy",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -610,9 +634,9 @@
       "modifiedTime": "2026-06-17T10:35:25.468Z"
     },
     {
-      "id": "calca-a-identificar-46-12diy7kkbjosquw3nbono71hvmp9tzvk1",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-46-12diy7kkbjosquw3nbono71hvmp9tzvk1",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -626,9 +650,9 @@
       "modifiedTime": "2026-06-17T10:35:25.433Z"
     },
     {
-      "id": "calca-a-identificar-44-1zllzn3jjfz0tqj0bgyqtrx50dp7nbsmx",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-44-1zllzn3jjfz0tqj0bgyqtrx50dp7nbsmx",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -642,9 +666,9 @@
       "modifiedTime": "2026-06-17T10:35:17.567Z"
     },
     {
-      "id": "calca-a-identificar-44-1xbfiggptpti83inc6dqq8kcsr7nqgl71",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-44-1xbfiggptpti83inc6dqq8kcsr7nqgl71",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -658,9 +682,9 @@
       "modifiedTime": "2026-06-17T10:35:17.555Z"
     },
     {
-      "id": "calca-a-identificar-44-1jkzkwfbmx-s5jpl5kwytrc-brjnkkoxb",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-44-1jkzkwfbmx-s5jpl5kwytrc-brjnkkoxb",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -674,9 +698,9 @@
       "modifiedTime": "2026-06-17T10:35:17.542Z"
     },
     {
-      "id": "calca-a-identificar-44-1jcdrhu6v-4-shwlnpsnri7akotrfqip3",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-44-1jcdrhu6v-4-shwlnpsnri7akotrfqip3",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -690,9 +714,9 @@
       "modifiedTime": "2026-06-17T10:35:17.517Z"
     },
     {
-      "id": "calca-a-identificar-44-1uvtaax0iqmle9yewkyogvppwygetbedn",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-44-1uvtaax0iqmle9yewkyogvppwygetbedn",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -706,9 +730,9 @@
       "modifiedTime": "2026-06-17T10:35:17.497Z"
     },
     {
-      "id": "calca-a-identificar-42-18twxthhzlgyv-j5546e9gy4xh5nnmsp0",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-42-18twxthhzlgyv-j5546e9gy4xh5nnmsp0",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -722,9 +746,9 @@
       "modifiedTime": "2026-06-17T10:35:10.003Z"
     },
     {
-      "id": "calca-a-identificar-42-1hbbyjw71zs2xttchqcevupkxj9cjww2m",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-42-1hbbyjw71zs2xttchqcevupkxj9cjww2m",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -738,9 +762,9 @@
       "modifiedTime": "2026-06-17T10:35:09.977Z"
     },
     {
-      "id": "calca-a-identificar-42-14zvsdoqen4kpjajfuhkn9r6lnipp2mt7",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-42-14zvsdoqen4kpjajfuhkn9r6lnipp2mt7",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -754,9 +778,9 @@
       "modifiedTime": "2026-06-17T10:35:09.939Z"
     },
     {
-      "id": "calca-a-identificar-42-1wcf-amjqgntd21ej9ujvlawj5urez8yn",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-42-1wcf-amjqgntd21ej9ujvlawj5urez8yn",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -770,9 +794,9 @@
       "modifiedTime": "2026-06-17T10:35:09.916Z"
     },
     {
-      "id": "calca-a-identificar-42-1hcf6uvkd7ufdkgdoltwckhvcsjyieus6",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-42-1hcf6uvkd7ufdkgdoltwckhvcsjyieus6",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -786,9 +810,9 @@
       "modifiedTime": "2026-06-17T10:35:09.878Z"
     },
     {
-      "id": "calca-a-identificar-40-1th3medmj1fh938svj-prcoi2xdkvvwul",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-40-1th3medmj1fh938svj-prcoi2xdkvvwul",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -802,9 +826,9 @@
       "modifiedTime": "2026-06-17T10:35:01.297Z"
     },
     {
-      "id": "calca-a-identificar-40-1ydk1hkddbb9fkwwhonpjv9kmuerm7k8m",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-40-1ydk1hkddbb9fkwwhonpjv9kmuerm7k8m",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -818,9 +842,9 @@
       "modifiedTime": "2026-06-17T10:35:01.279Z"
     },
     {
-      "id": "calca-a-identificar-40-1l5l443qxrbmrupecwxgazfo2khmjdfkt",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-40-1l5l443qxrbmrupecwxgazfo2khmjdfkt",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -834,9 +858,9 @@
       "modifiedTime": "2026-06-17T10:35:01.264Z"
     },
     {
-      "id": "calca-a-identificar-40-1htwqoubbs3b1zlr7vp8oyverkg1gzke8",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-40-1htwqoubbs3b1zlr7vp8oyverkg1gzke8",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -850,9 +874,9 @@
       "modifiedTime": "2026-06-17T10:35:01.248Z"
     },
     {
-      "id": "calca-a-identificar-40-1afjxnfcjrleauiyg7qlhysv4chdlziog",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-40-1afjxnfcjrleauiyg7qlhysv4chdlziog",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -866,9 +890,9 @@
       "modifiedTime": "2026-06-17T10:35:01.209Z"
     },
     {
-      "id": "calca-a-identificar-38-1o4fr0hz-ajxrkcgmjtwrzxhkyysrixyp",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1o4fr0hz-ajxrkcgmjtwrzxhkyysrixyp",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -882,9 +906,9 @@
       "modifiedTime": "2026-06-17T10:34:50.914Z"
     },
     {
-      "id": "calca-a-identificar-38-1nrar9pzobkipalojmrkq-lkcniuu7dzj",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1nrar9pzobkipalojmrkq-lkcniuu7dzj",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -898,9 +922,9 @@
       "modifiedTime": "2026-06-17T10:34:50.901Z"
     },
     {
-      "id": "calca-a-identificar-38-1j-v06oxjubutlodsteexovy2s4dodpaj",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1j-v06oxjubutlodsteexovy2s4dodpaj",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -914,9 +938,9 @@
       "modifiedTime": "2026-06-17T10:34:50.888Z"
     },
     {
-      "id": "calca-a-identificar-38-1mh-wempib25wz8gcl5iumwfhjbhaaeiq",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1mh-wempib25wz8gcl5iumwfhjbhaaeiq",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -930,9 +954,9 @@
       "modifiedTime": "2026-06-17T10:34:50.858Z"
     },
     {
-      "id": "calca-a-identificar-38-1hdymn7i6ybuxquwj8jzmn1wwrcgc8vin",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1hdymn7i6ybuxquwj8jzmn1wwrcgc8vin",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -1442,9 +1466,9 @@
       "modifiedTime": "2026-06-15T18:44:01.195Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1chlp9oxq-twzor7rpnv-v2jru5rphqii",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1chlp9oxq-twzor7rpnv-v2jru5rphqii",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -1522,9 +1546,9 @@
       "modifiedTime": "2026-06-11T20:33:41.835Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1ty5g8hbkuenzineipwowf0mcfn6xmnpn",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1ty5g8hbkuenzineipwowf0mcfn6xmnpn",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -2050,9 +2074,9 @@
       "modifiedTime": "2026-06-10T22:54:05.333Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1umth-kaxwhtypy0w3dixzv38opc5u-vh",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1umth-kaxwhtypy0w3dixzv38opc5u-vh",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -2114,9 +2138,9 @@
       "modifiedTime": "2026-06-10T15:32:30.822Z"
     },
     {
-      "id": "calca-a-identificar-46-1e000kntoobv0k5v05antxbcxfbhedat",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-46-1e000kntoobv0k5v05antxbcxfbhedat",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -2130,9 +2154,9 @@
       "modifiedTime": "2026-06-10T10:07:59.701Z"
     },
     {
-      "id": "calca-a-identificar-46-1qvgbcui1lmzy9orutwzzsag0xo1t7tf1",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-46-1qvgbcui1lmzy9orutwzzsag0xo1t7tf1",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -2146,9 +2170,9 @@
       "modifiedTime": "2026-06-10T10:07:59.680Z"
     },
     {
-      "id": "calca-a-identificar-46-13p04etwdcj99ztrbynprxxcpzyqjbcbt",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-46-13p04etwdcj99ztrbynprxxcpzyqjbcbt",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -2162,9 +2186,9 @@
       "modifiedTime": "2026-06-10T10:07:59.656Z"
     },
     {
-      "id": "calca-a-identificar-46-1njdb-0zf3unx-pt-x6js6gcayg0ejdx",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-46-1njdb-0zf3unx-pt-x6js6gcayg0ejdx",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -2178,9 +2202,9 @@
       "modifiedTime": "2026-06-10T10:07:59.634Z"
     },
     {
-      "id": "calca-a-identificar-46-10-vi7gbqmll-hyta0pqv-ilbt8etrrza",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-46-10-vi7gbqmll-hyta0pqv-ilbt8etrrza",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -2194,9 +2218,9 @@
       "modifiedTime": "2026-06-10T10:07:59.613Z"
     },
     {
-      "id": "calca-a-identificar-46-1srel1m5u-4jldoadmhc8guplbkvlluqk",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-46-1srel1m5u-4jldoadmhc8guplbkvlluqk",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -2210,9 +2234,9 @@
       "modifiedTime": "2026-06-10T10:07:59.571Z"
     },
     {
-      "id": "calca-a-identificar-44-1ttrptup5mi60ztzphx-enlclmuyzpo17",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-44-1ttrptup5mi60ztzphx-enlclmuyzpo17",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -2226,9 +2250,9 @@
       "modifiedTime": "2026-06-10T10:07:47.730Z"
     },
     {
-      "id": "calca-a-identificar-44-1nulijfrztdb4bxir7oryti-f2q7bqts",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-44-1nulijfrztdb4bxir7oryti-f2q7bqts",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -2242,9 +2266,9 @@
       "modifiedTime": "2026-06-10T10:07:47.707Z"
     },
     {
-      "id": "calca-a-identificar-44-1dldq-r0itf57xwi8z8wmmxqibxwksk6g",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-44-1dldq-r0itf57xwi8z8wmmxqibxwksk6g",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -2258,9 +2282,9 @@
       "modifiedTime": "2026-06-10T10:07:47.683Z"
     },
     {
-      "id": "calca-a-identificar-44-1vr31vxvfqw-qsadhawhlxyipypun5nfe",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-44-1vr31vxvfqw-qsadhawhlxyipypun5nfe",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -2274,9 +2298,9 @@
       "modifiedTime": "2026-06-10T10:07:47.660Z"
     },
     {
-      "id": "calca-a-identificar-44-1mqphup8cpmavjaxh4qlc6saeckgc9l11",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-44-1mqphup8cpmavjaxh4qlc6saeckgc9l11",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -2290,9 +2314,9 @@
       "modifiedTime": "2026-06-10T10:07:47.639Z"
     },
     {
-      "id": "calca-a-identificar-44-1tnpcrst8ot0w7m7tdxujbwdpxljgdsaw",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-44-1tnpcrst8ot0w7m7tdxujbwdpxljgdsaw",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "44",
       "price": null,
@@ -2306,9 +2330,9 @@
       "modifiedTime": "2026-06-10T10:07:47.593Z"
     },
     {
-      "id": "calca-a-identificar-42-1t9l6tyz-t7irlkagsbv-g4k84acjz1sb",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-42-1t9l6tyz-t7irlkagsbv-g4k84acjz1sb",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -2322,9 +2346,9 @@
       "modifiedTime": "2026-06-10T10:07:37.203Z"
     },
     {
-      "id": "calca-a-identificar-42-1q9hwtudra2x7dbkduwu-hnvb1fbmy5de",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-42-1q9hwtudra2x7dbkduwu-hnvb1fbmy5de",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -2338,9 +2362,9 @@
       "modifiedTime": "2026-06-10T10:07:37.180Z"
     },
     {
-      "id": "calca-a-identificar-42-1qeokbokrzkqkjkjknyz-dxowr0jgyu4u",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-42-1qeokbokrzkqkjkjknyz-dxowr0jgyu4u",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -2354,9 +2378,9 @@
       "modifiedTime": "2026-06-10T10:07:37.148Z"
     },
     {
-      "id": "calca-a-identificar-42-1altayjngwy-igwtj1xaq9nl1ld4k3m3g",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-42-1altayjngwy-igwtj1xaq9nl1ld4k3m3g",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -2370,9 +2394,9 @@
       "modifiedTime": "2026-06-10T10:07:37.126Z"
     },
     {
-      "id": "calca-a-identificar-42-1wqhj4rzzrtlinkjraqinkyc-wdmg4enw",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-42-1wqhj4rzzrtlinkjraqinkyc-wdmg4enw",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -2386,9 +2410,9 @@
       "modifiedTime": "2026-06-10T10:07:37.105Z"
     },
     {
-      "id": "calca-a-identificar-42-1r80pmb8a1xkopnmemlvhjmpz2cgic3zo",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-42-1r80pmb8a1xkopnmemlvhjmpz2cgic3zo",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -2402,9 +2426,9 @@
       "modifiedTime": "2026-06-10T10:07:37.065Z"
     },
     {
-      "id": "calca-a-identificar-40-1qrtipvnwbfp0unmdzmfelu8fss0ecvnc",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-40-1qrtipvnwbfp0unmdzmfelu8fss0ecvnc",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -2418,9 +2442,9 @@
       "modifiedTime": "2026-06-10T10:07:26.157Z"
     },
     {
-      "id": "calca-a-identificar-40-14b-zbp-pn39l-4tw4elq2gtkenerpsz0",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-40-14b-zbp-pn39l-4tw4elq2gtkenerpsz0",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -2434,9 +2458,9 @@
       "modifiedTime": "2026-06-10T10:07:26.136Z"
     },
     {
-      "id": "calca-a-identificar-40-1zsb8w02g1lykfcntqwgzdm0e7n-mgzdg",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-40-1zsb8w02g1lykfcntqwgzdm0e7n-mgzdg",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -2450,9 +2474,9 @@
       "modifiedTime": "2026-06-10T10:07:26.114Z"
     },
     {
-      "id": "calca-a-identificar-40-1hwigwysnfz-fknmlbwq6tcno34njbg6e",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-40-1hwigwysnfz-fknmlbwq6tcno34njbg6e",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -2466,9 +2490,9 @@
       "modifiedTime": "2026-06-10T10:07:26.093Z"
     },
     {
-      "id": "calca-a-identificar-40-1olxpczg0wnebi9lhlgismbgfu6yqcrbb",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-40-1olxpczg0wnebi9lhlgismbgfu6yqcrbb",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -2482,9 +2506,9 @@
       "modifiedTime": "2026-06-10T10:07:26.070Z"
     },
     {
-      "id": "calca-a-identificar-40-1v2petmeuqtu1ckcsobydsrevpdcsvk7k",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-40-1v2petmeuqtu1ckcsobydsrevpdcsvk7k",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "40",
       "price": null,
@@ -2498,9 +2522,9 @@
       "modifiedTime": "2026-06-10T10:07:26.028Z"
     },
     {
-      "id": "calca-a-identificar-38-1vkmcamres4em2tb5rlp8suoa57knkqah",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-38-1vkmcamres4em2tb5rlp8suoa57knkqah",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -2514,9 +2538,9 @@
       "modifiedTime": "2026-06-10T10:07:12.887Z"
     },
     {
-      "id": "calca-a-identificar-38-1ao7jrdlsm7oplrb9le2xwmp9plrax-k0",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-38-1ao7jrdlsm7oplrb9le2xwmp9plrax-k0",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -2530,9 +2554,9 @@
       "modifiedTime": "2026-06-10T10:07:12.861Z"
     },
     {
-      "id": "calca-a-identificar-38-1zczqejb6v54wmhaleppcwt0fdps-wgiq",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-38-1zczqejb6v54wmhaleppcwt0fdps-wgiq",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -2546,9 +2570,9 @@
       "modifiedTime": "2026-06-10T10:07:12.836Z"
     },
     {
-      "id": "calca-a-identificar-38-1xh97rezst2jcdwl2-olzxom8aihmo8e6",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-38-1xh97rezst2jcdwl2-olzxom8aihmo8e6",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -2562,9 +2586,9 @@
       "modifiedTime": "2026-06-10T10:07:12.812Z"
     },
     {
-      "id": "calca-a-identificar-38-1x-0hr9-rn8tpcroitctfv3hace76lmjo",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-38-1x-0hr9-rn8tpcroitctfv3hace76lmjo",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -2578,9 +2602,9 @@
       "modifiedTime": "2026-06-10T10:07:12.753Z"
     },
     {
-      "id": "calca-a-identificar-38-1dhlyih9icpqmew0u6blh5ss6-iucm-c",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-38-1dhlyih9icpqmew0u6blh5ss6-iucm-c",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -3586,9 +3610,9 @@
       "modifiedTime": "2026-06-08T01:48:19.248Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1l1bvrjqey7s7ywiidv-tmujiscfh4tgy",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1l1bvrjqey7s7ywiidv-tmujiscfh4tgy",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -3602,9 +3626,9 @@
       "modifiedTime": "2026-06-01T01:08:32.342Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1-msb25ogkxho-g3qeldpluiaspjvc5af",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1-msb25ogkxho-g3qeldpluiaspjvc5af",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -3618,9 +3642,9 @@
       "modifiedTime": "2026-06-01T01:08:32.319Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1olgcue4nts3eeij65l2gna9caczo1jib",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1olgcue4nts3eeij65l2gna9caczo1jib",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -3634,9 +3658,9 @@
       "modifiedTime": "2026-06-01T01:08:32.294Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1xuywrwaxmed2n8ka8udjnbhmmhkzqd7c",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1xuywrwaxmed2n8ka8udjnbhmmhkzqd7c",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -3650,9 +3674,9 @@
       "modifiedTime": "2026-06-01T01:08:32.270Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1ej1q9zm3nulaivxd8fa6woe-gvjbyqgr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1ej1q9zm3nulaivxd8fa6woe-gvjbyqgr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -3666,9 +3690,9 @@
       "modifiedTime": "2026-06-01T01:08:32.205Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1tjt4yy7yns95qjcfxbpk91joakyk6fh8",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1tjt4yy7yns95qjcfxbpk91joakyk6fh8",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -3682,9 +3706,9 @@
       "modifiedTime": "2026-06-01T01:08:21.311Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-14eeipv1shyeovr5juqjxwftvne-mwmgx",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-14eeipv1shyeovr5juqjxwftvne-mwmgx",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -3698,9 +3722,9 @@
       "modifiedTime": "2026-06-01T01:08:21.266Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1jxf9vnw1ihums8wok8yiluvsw9fx60d4",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1jxf9vnw1ihums8wok8yiluvsw9fx60d4",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -3714,9 +3738,9 @@
       "modifiedTime": "2026-06-01T01:08:21.241Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1uvr-5w-vedkah-zlvhfgtz67-xcsqiav",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1uvr-5w-vedkah-zlvhfgtz67-xcsqiav",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -3730,9 +3754,9 @@
       "modifiedTime": "2026-06-01T01:08:21.214Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-14dzv-vd9ymovtsoececlf3qrcp6fdp7z",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-14dzv-vd9ymovtsoececlf3qrcp6fdp7z",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -3746,9 +3770,9 @@
       "modifiedTime": "2026-06-01T01:08:09.598Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1tdxmhguzas4lowmxcgx9cgwja0cspms9",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1tdxmhguzas4lowmxcgx9cgwja0cspms9",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -3762,9 +3786,9 @@
       "modifiedTime": "2026-06-01T01:08:09.551Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1q8lwz8tvznj-vtri2lm3q574gac2y4u0",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1q8lwz8tvznj-vtri2lm3q574gac2y4u0",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -3778,9 +3802,9 @@
       "modifiedTime": "2026-06-01T01:08:09.522Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1t6fjbxo7u9yi5zoaw3odov54oisqhjah",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1t6fjbxo7u9yi5zoaw3odov54oisqhjah",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -3794,9 +3818,9 @@
       "modifiedTime": "2026-06-01T01:08:09.498Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1jvwbeszhtpadrmjs-xydu-b5wxx-y74e",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1jvwbeszhtpadrmjs-xydu-b5wxx-y74e",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -3810,9 +3834,9 @@
       "modifiedTime": "2026-06-01T01:07:56.953Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-143xd-zxtduzzssfihd2kw4fx6myloni8",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-143xd-zxtduzzssfihd2kw4fx6myloni8",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -3826,9 +3850,9 @@
       "modifiedTime": "2026-06-01T01:07:56.928Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1meye4tcl7xvgltv6zwir5vsirfyvuwmy",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1meye4tcl7xvgltv6zwir5vsirfyvuwmy",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -3842,9 +3866,9 @@
       "modifiedTime": "2026-06-01T01:07:56.905Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1o-8pf4a9tpwnoh65btb190lhzjzhi3qn",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1o-8pf4a9tpwnoh65btb190lhzjzhi3qn",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -3858,9 +3882,9 @@
       "modifiedTime": "2026-06-01T01:07:56.881Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1j6ninipi80qgxnwucybbveysfpqvwhj6",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1j6ninipi80qgxnwucybbveysfpqvwhj6",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -3874,9 +3898,9 @@
       "modifiedTime": "2026-06-01T01:07:56.859Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1oe7jjidt2i-cnjcnyazw9vjvwitigqry",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1oe7jjidt2i-cnjcnyazw9vjvwitigqry",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -3890,9 +3914,9 @@
       "modifiedTime": "2026-06-01T01:07:56.837Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1-azhm6ujriprrq5hzagphwwuzqwxwljc",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1-azhm6ujriprrq5hzagphwwuzqwxwljc",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -3906,9 +3930,9 @@
       "modifiedTime": "2026-06-01T01:07:56.815Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1rhjlb2scaabikhxezw4ry74jlmvhkwic",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1rhjlb2scaabikhxezw4ry74jlmvhkwic",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -3922,9 +3946,9 @@
       "modifiedTime": "2026-05-29T14:07:52.239Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1wbo0k86w33srh49a-lajduebn0h-up2",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1wbo0k86w33srh49a-lajduebn0h-up2",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -3938,9 +3962,9 @@
       "modifiedTime": "2026-05-29T14:07:52.226Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1xtq5wx4seena7kijcgev8znhljsmma1k",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1xtq5wx4seena7kijcgev8znhljsmma1k",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -3954,9 +3978,9 @@
       "modifiedTime": "2026-05-29T14:07:52.214Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1horhthurg8li6zrcyv-xnvmziuxmp8he",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1horhthurg8li6zrcyv-xnvmziuxmp8he",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -4002,9 +4026,9 @@
       "modifiedTime": "2026-05-29T13:25:10.478Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1cadlg-kpcwofieu3rwirhztsnp0xiems",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1cadlg-kpcwofieu3rwirhztsnp0xiems",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4018,9 +4042,9 @@
       "modifiedTime": "2026-06-02T21:38:42.904Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1xtaxfljpdp2mdijbiajfdhbowuypr96s",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1xtaxfljpdp2mdijbiajfdhbowuypr96s",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4034,9 +4058,9 @@
       "modifiedTime": "2026-06-02T21:37:09.366Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1vvucinv9blr-vddfum9-en1y-xmg3qqu",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1vvucinv9blr-vddfum9-en1y-xmg3qqu",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4050,9 +4074,9 @@
       "modifiedTime": "2026-06-02T21:36:35.042Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1nmx-s1fbxiw-pv8j1aemf5dnlakdb0xn",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1nmx-s1fbxiw-pv8j1aemf5dnlakdb0xn",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4066,9 +4090,9 @@
       "modifiedTime": "2026-06-02T21:35:26.243Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1epbdza4lzynrevp6yp8ocbizw54fbfp",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1epbdza4lzynrevp6yp8ocbizw54fbfp",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4082,9 +4106,9 @@
       "modifiedTime": "2026-06-02T21:35:52.424Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1ubdvro7-x55yrzr3ntzep-zvc1ixhhtu",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1ubdvro7-x55yrzr3ntzep-zvc1ixhhtu",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4258,9 +4282,9 @@
       "modifiedTime": "2026-05-24T17:57:00.717Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-11bj-g2madgzokjtygcc-rctip-dpuwku",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-11bj-g2madgzokjtygcc-rctip-dpuwku",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4274,9 +4298,9 @@
       "modifiedTime": "2026-05-22T11:01:56.110Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1e1n2lezopmkxwqljqf75ympwghkdzq6",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1e1n2lezopmkxwqljqf75ympwghkdzq6",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4290,9 +4314,9 @@
       "modifiedTime": "2026-05-22T11:01:56.090Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-15u683egdattrnbiwveh56hab56ms2zvx",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-15u683egdattrnbiwveh56hab56ms2zvx",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4306,9 +4330,9 @@
       "modifiedTime": "2026-05-22T11:01:56.038Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1eub6zxz59orwd9wv-h16okgb8jsxwlcf",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1eub6zxz59orwd9wv-h16okgb8jsxwlcf",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4322,9 +4346,9 @@
       "modifiedTime": "2026-05-22T11:01:55.997Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1km-m5zye-ufcgvywj4ft-8ulc2z8gsr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1km-m5zye-ufcgvywj4ft-8ulc2z8gsr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4338,9 +4362,9 @@
       "modifiedTime": "2026-05-22T11:01:55.973Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1zg57ixjpv2esilxfvwflavuf-huljfze",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1zg57ixjpv2esilxfvwflavuf-huljfze",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4354,9 +4378,9 @@
       "modifiedTime": "2026-05-22T11:01:45.601Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1s5envhrwwaewnoxcooaorsqgcehlofhn",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1s5envhrwwaewnoxcooaorsqgcehlofhn",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4370,9 +4394,9 @@
       "modifiedTime": "2026-05-22T11:01:45.579Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1ojoisyq4kmaayqdquo40ca87btancixq",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1ojoisyq4kmaayqdquo40ca87btancixq",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4386,9 +4410,9 @@
       "modifiedTime": "2026-05-27T19:02:35.170Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1vwrww3lcop-vfnf08hgchq-umngrwnc0",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1vwrww3lcop-vfnf08hgchq-umngrwnc0",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4402,9 +4426,9 @@
       "modifiedTime": "2026-05-21T10:33:44.656Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1oxslycrhblrj2f0z1tz876bdpewaxae4",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1oxslycrhblrj2f0z1tz876bdpewaxae4",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4418,9 +4442,9 @@
       "modifiedTime": "2026-05-21T10:33:44.589Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1haw79vswzyvtoq2p5fukrkrtdnszm1bd",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1haw79vswzyvtoq2p5fukrkrtdnszm1bd",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4434,9 +4458,9 @@
       "modifiedTime": "2026-05-21T10:33:44.556Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1t2vgit7hcybsmapvri8ahfxujzyfw0og",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1t2vgit7hcybsmapvri8ahfxujzyfw0og",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4450,9 +4474,9 @@
       "modifiedTime": "2026-05-21T10:33:44.498Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-159soelyg71zfgxwuswnesmimbuaal4nc",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-159soelyg71zfgxwuswnesmimbuaal4nc",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4466,9 +4490,9 @@
       "modifiedTime": "2026-05-21T10:33:44.472Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1wazdny9g4fdev5uljadgipv4cn-72fbg",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1wazdny9g4fdev5uljadgipv4cn-72fbg",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4482,9 +4506,9 @@
       "modifiedTime": "2026-05-21T10:33:44.423Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1abmcz6gyde8losicft2fimjdw7qhevwd",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1abmcz6gyde8losicft2fimjdw7qhevwd",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4498,9 +4522,9 @@
       "modifiedTime": "2026-05-21T10:33:23.012Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1e-jmtx2h7br7wbtlq50jgmkefaffr1wr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1e-jmtx2h7br7wbtlq50jgmkefaffr1wr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4514,9 +4538,9 @@
       "modifiedTime": "2026-05-21T10:33:22.986Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1qrvry6ucqgal6zsjpbr08fzmqh2f22eg",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1qrvry6ucqgal6zsjpbr08fzmqh2f22eg",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4530,9 +4554,9 @@
       "modifiedTime": "2026-05-21T10:33:22.929Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1yh6ueuihnjv4gecfi1fpgwsgplelpmn2",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1yh6ueuihnjv4gecfi1fpgwsgplelpmn2",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4546,9 +4570,9 @@
       "modifiedTime": "2026-05-21T10:33:22.859Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1cwbd21i57vrbpjy7sdyk-7hwvyioidjk",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1cwbd21i57vrbpjy7sdyk-7hwvyioidjk",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -4562,9 +4586,9 @@
       "modifiedTime": "2026-05-21T10:33:03.935Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1lihe9alktwhgufy3axijvpcaje5mvtxo",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1lihe9alktwhgufy3axijvpcaje5mvtxo",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -4578,9 +4602,9 @@
       "modifiedTime": "2026-05-21T10:33:03.911Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-12vltd76oz5mmt0tqn86vdy5-tbgxdgkh",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-12vltd76oz5mmt0tqn86vdy5-tbgxdgkh",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -4594,9 +4618,9 @@
       "modifiedTime": "2026-05-21T10:33:03.887Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1zkcps9dnet82t0la80foxlhjmd027qoo",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1zkcps9dnet82t0la80foxlhjmd027qoo",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -4610,9 +4634,9 @@
       "modifiedTime": "2026-05-21T10:33:03.840Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1f89co76dwovqgstilsx-hsdrdlfqssfe",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1f89co76dwovqgstilsx-hsdrdlfqssfe",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -4626,9 +4650,9 @@
       "modifiedTime": "2026-05-21T10:33:03.796Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1jfgg-istfkammpfmh6ms3ccoqganw6di",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1jfgg-istfkammpfmh6ms3ccoqganw6di",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4642,9 +4666,9 @@
       "modifiedTime": "2026-05-27T19:00:24.936Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1cmyrsi0oxunzv2q2q3mn9tlnk9eykrin",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1cmyrsi0oxunzv2q2q3mn9tlnk9eykrin",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4658,9 +4682,9 @@
       "modifiedTime": "2026-05-27T18:59:50.292Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-11fq5y9928d7apm-6jdv-7dpafi2tbr7x",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-11fq5y9928d7apm-6jdv-7dpafi2tbr7x",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4674,9 +4698,9 @@
       "modifiedTime": "2026-05-27T18:58:58.456Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-16wj9vriiwhulw0srbdvg31l4c7jrg0my",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-16wj9vriiwhulw0srbdvg31l4c7jrg0my",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4690,9 +4714,9 @@
       "modifiedTime": "2026-05-27T19:01:33.547Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1y9yfzzp-sqkpz1wa5chpp0mckio96ok",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1y9yfzzp-sqkpz1wa5chpp0mckio96ok",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -4706,9 +4730,9 @@
       "modifiedTime": "2026-05-27T19:00:47.399Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1dw2p0fz-hhkziquf5wdmwtjjdsg-jq1k",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1dw2p0fz-hhkziquf5wdmwtjjdsg-jq1k",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4722,9 +4746,9 @@
       "modifiedTime": "2026-05-20T20:02:33.035Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1hwpcmkpwsukkge5-cr3ztk3og-be-pwv",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1hwpcmkpwsukkge5-cr3ztk3og-be-pwv",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4738,9 +4762,9 @@
       "modifiedTime": "2026-05-18T10:16:02.243Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1dyjmnwieugz95ryk1ic5rclihechaqlz",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1dyjmnwieugz95ryk1ic5rclihechaqlz",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4754,9 +4778,9 @@
       "modifiedTime": "2026-05-18T10:16:02.222Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1rko0vjskh94lwvtox-kzatmbg2rz9xaq",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1rko0vjskh94lwvtox-kzatmbg2rz9xaq",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4770,9 +4794,9 @@
       "modifiedTime": "2026-05-18T10:16:02.204Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1wo34rnv1x8uzbiieebocg0xr0obfty3p",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1wo34rnv1x8uzbiieebocg0xr0obfty3p",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4786,9 +4810,9 @@
       "modifiedTime": "2026-05-18T10:16:02.186Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-103-dh2bxqgxllgnczxmfmjpkoniaergd",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-103-dh2bxqgxllgnczxmfmjpkoniaergd",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4802,9 +4826,9 @@
       "modifiedTime": "2026-05-18T10:16:02.168Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1-apex5ev9kq2hmhokbq-87-milx-xv17",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1-apex5ev9kq2hmhokbq-87-milx-xv17",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4818,9 +4842,9 @@
       "modifiedTime": "2026-05-18T10:16:02.104Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1gbtx95xrd9zw1c186a9loa7x-azo5taw",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1gbtx95xrd9zw1c186a9loa7x-azo5taw",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -4834,9 +4858,9 @@
       "modifiedTime": "2026-05-18T10:16:02.054Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1ro-mwq4wlkzvrfii3l4mypgicpx0a67u",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1ro-mwq4wlkzvrfii3l4mypgicpx0a67u",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4850,9 +4874,9 @@
       "modifiedTime": "2026-05-18T10:15:50.654Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-18a8kexbdgigz-5jrr6vvkwvb6htnrrxo",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-18a8kexbdgigz-5jrr6vvkwvb6htnrrxo",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4866,9 +4890,9 @@
       "modifiedTime": "2026-05-18T10:15:50.614Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1z3bhhm2qjs-rmmwtdsqyjjgsr5rmjrdd",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1z3bhhm2qjs-rmmwtdsqyjjgsr5rmjrdd",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4882,9 +4906,9 @@
       "modifiedTime": "2026-05-18T10:15:50.583Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1-i8g4abpcthgwygsxbgck6dymtzsfcx3",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1-i8g4abpcthgwygsxbgck6dymtzsfcx3",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -4898,9 +4922,9 @@
       "modifiedTime": "2026-05-18T10:15:50.481Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1jiyyg-tiseg97zbojc7xcal3zghi1ru",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1jiyyg-tiseg97zbojc7xcal3zghi1ru",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -4914,9 +4938,9 @@
       "modifiedTime": "2026-05-18T10:15:25.438Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1wo30ovwp-wky6htpdjyh-tqwq1u3rq9p",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1wo30ovwp-wky6htpdjyh-tqwq1u3rq9p",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -4930,9 +4954,9 @@
       "modifiedTime": "2026-05-18T10:15:25.403Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1-xjoh262jgwtriiahxzkr2-rsthjeptj",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1-xjoh262jgwtriiahxzkr2-rsthjeptj",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -4946,9 +4970,9 @@
       "modifiedTime": "2026-05-18T10:15:25.384Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1zabvh5mudbh-elcrccumlpkxwquzxuc6",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1zabvh5mudbh-elcrccumlpkxwquzxuc6",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -4962,9 +4986,9 @@
       "modifiedTime": "2026-05-18T10:15:25.363Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-12wwdzj1toeh58896f-2s9k4orysjhtim",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-12wwdzj1toeh58896f-2s9k4orysjhtim",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -4978,9 +5002,9 @@
       "modifiedTime": "2026-05-18T10:15:25.299Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1rgmfi5ai6u9m2q1zebbq-mkzaaovhjls",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1rgmfi5ai6u9m2q1zebbq-mkzaaovhjls",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -4994,9 +5018,9 @@
       "modifiedTime": "2026-05-18T10:15:25.270Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1zna0nolcmc9-dbntgmq1f2f3uo1hvqk6",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1zna0nolcmc9-dbntgmq1f2f3uo1hvqk6",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -5458,9 +5482,9 @@
       "modifiedTime": "2026-05-06T11:05:15.565Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1cte-ndzhr7xd8oldg9l70nwsy4fisls9",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1cte-ndzhr7xd8oldg9l70nwsy4fisls9",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -5826,9 +5850,9 @@
       "modifiedTime": "2026-04-29T23:44:09.905Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1evpjp30e8-u3azfqhc81g-dokcsfzgu6",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1evpjp30e8-u3azfqhc81g-dokcsfzgu6",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -5842,9 +5866,9 @@
       "modifiedTime": "2026-05-08T16:28:32.441Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1krv4hw7zib9oewhvtqvvp7y5m9ceqzhc",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1krv4hw7zib9oewhvtqvvp7y5m9ceqzhc",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -5858,9 +5882,9 @@
       "modifiedTime": "2026-05-08T16:29:29.890Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1ull0klecpf8pqrx-emazw97csvx1jlr8",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1ull0klecpf8pqrx-emazw97csvx1jlr8",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -5874,9 +5898,9 @@
       "modifiedTime": "2026-04-20T00:26:42.829Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-12titomdt3amkkorhylc5sqvv9245xig6",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-12titomdt3amkkorhylc5sqvv9245xig6",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -5890,9 +5914,9 @@
       "modifiedTime": "2026-04-20T00:26:42.808Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1qqfu4r2nn7qmfm1plo3wjggvkzodquc7",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1qqfu4r2nn7qmfm1plo3wjggvkzodquc7",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -5906,9 +5930,9 @@
       "modifiedTime": "2026-04-20T00:26:42.784Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1nzaknixqujyycfmckg-3kpyjn8azbuvt",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1nzaknixqujyycfmckg-3kpyjn8azbuvt",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -5922,9 +5946,9 @@
       "modifiedTime": "2026-04-20T00:26:42.763Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1ncpstoqh1mfqzqrhx6kip-kdv5hhfg-z",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1ncpstoqh1mfqzqrhx6kip-kdv5hhfg-z",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -5938,9 +5962,9 @@
       "modifiedTime": "2026-04-20T00:26:42.724Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1hu5whghgxhmawuufurvn7rx4owmuuc82",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1hu5whghgxhmawuufurvn7rx4owmuuc82",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -5954,9 +5978,9 @@
       "modifiedTime": "2026-04-20T00:26:42.697Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1x9zd64kcj3qdkoqxiwvmptvmlacxzq5q",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1x9zd64kcj3qdkoqxiwvmptvmlacxzq5q",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -5970,9 +5994,9 @@
       "modifiedTime": "2026-04-20T00:26:32.651Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1xwosaciqqoip4-fezmhphiavhcwgbw-x",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1xwosaciqqoip4-fezmhphiavhcwgbw-x",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -5986,9 +6010,9 @@
       "modifiedTime": "2026-04-20T00:26:32.605Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-18idwk3rq-azftwdpiqzdp6ngcetn-ak6",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-18idwk3rq-azftwdpiqzdp6ngcetn-ak6",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -6002,9 +6026,9 @@
       "modifiedTime": "2026-04-20T00:26:32.584Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1k-bovrxsz4wohnxylmgprxwoddqmixff",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1k-bovrxsz4wohnxylmgprxwoddqmixff",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -6018,9 +6042,9 @@
       "modifiedTime": "2026-04-20T00:26:32.538Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1-z9zupqvicb1yff3wyerjxux8qcgh6o2",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1-z9zupqvicb1yff3wyerjxux8qcgh6o2",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -6034,9 +6058,9 @@
       "modifiedTime": "2026-04-20T00:26:32.513Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1qz2e-pwzl6vcj8obkffga-xzeswp1lgz",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1qz2e-pwzl6vcj8obkffga-xzeswp1lgz",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -6050,9 +6074,9 @@
       "modifiedTime": "2026-04-20T00:26:22.018Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1waj4sy5qwstynbwzzsp6ouhahxyf2o9f",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1waj4sy5qwstynbwzzsp6ouhahxyf2o9f",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -6066,9 +6090,9 @@
       "modifiedTime": "2026-04-20T00:26:21.997Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1sodwpdlaitdtv-ooaifsrtqdjh-zy7ie",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1sodwpdlaitdtv-ooaifsrtqdjh-zy7ie",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -6082,9 +6106,9 @@
       "modifiedTime": "2026-04-20T00:26:21.975Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1cnnuh3cqy5vsgvhx5mshjlusx-3magum",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1cnnuh3cqy5vsgvhx5mshjlusx-3magum",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -6098,9 +6122,9 @@
       "modifiedTime": "2026-04-20T00:26:21.956Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1ex7pdefgglq5eoum-phyykqmjaaa-ll1",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1ex7pdefgglq5eoum-phyykqmjaaa-ll1",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -6114,9 +6138,9 @@
       "modifiedTime": "2026-04-20T00:26:21.914Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1up-tihjekyfi3qqoinrnyshtlkmb01mr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1up-tihjekyfi3qqoinrnyshtlkmb01mr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -6130,9 +6154,9 @@
       "modifiedTime": "2026-04-20T00:26:21.887Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1-ziyfl9mvjt7xhaqd2vrvozbfcs93dob",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1-ziyfl9mvjt7xhaqd2vrvozbfcs93dob",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -6146,9 +6170,9 @@
       "modifiedTime": "2026-04-20T00:26:11.210Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1fo3-mqxebno49zbt9cket8o4r2hhd9sz",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1fo3-mqxebno49zbt9cket8o4r2hhd9sz",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -6162,9 +6186,9 @@
       "modifiedTime": "2026-04-20T00:26:11.189Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-12wcu43xm3he9kixzpkr5jgi6g8gwa2ea",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-12wcu43xm3he9kixzpkr5jgi6g8gwa2ea",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -6178,9 +6202,9 @@
       "modifiedTime": "2026-04-20T00:26:11.168Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1fzl34ziqmeozr-gnxxldmn-9fjfw7rjh",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1fzl34ziqmeozr-gnxxldmn-9fjfw7rjh",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -6194,9 +6218,9 @@
       "modifiedTime": "2026-04-20T00:26:11.146Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1k3mdw86xu3x7zewk-zm0swmwp6i-nyog",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1k3mdw86xu3x7zewk-zm0swmwp6i-nyog",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -6210,9 +6234,9 @@
       "modifiedTime": "2026-04-20T00:26:11.125Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1qy94xzquv81gpk-4rly2qjfyf-za72fp",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1qy94xzquv81gpk-4rly2qjfyf-za72fp",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -6242,9 +6266,9 @@
       "modifiedTime": "2026-04-17T15:49:50.050Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1wtigzwxvw2cabvwsairtyxgn7k5cvxfd",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1wtigzwxvw2cabvwsairtyxgn7k5cvxfd",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -6498,9 +6522,9 @@
       "modifiedTime": "2026-04-05T21:55:04.249Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1swc0nz2z89ypudblytq6zqssnxyrm7x2",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1swc0nz2z89ypudblytq6zqssnxyrm7x2",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6514,9 +6538,9 @@
       "modifiedTime": "2026-04-02T02:19:02.308Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1opebmlfe1srhqq6ywtncxi9s48k2ajso",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1opebmlfe1srhqq6ywtncxi9s48k2ajso",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6530,9 +6554,9 @@
       "modifiedTime": "2026-04-02T02:19:02.285Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1bxehii-u0rcje-1exgooximieje94eah",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1bxehii-u0rcje-1exgooximieje94eah",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6546,9 +6570,9 @@
       "modifiedTime": "2026-04-02T02:19:02.245Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1m0klac-u-0cotfzi8ycyxm8lzgdwbebu",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1m0klac-u-0cotfzi8ycyxm8lzgdwbebu",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6562,9 +6586,9 @@
       "modifiedTime": "2026-04-02T02:19:02.226Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1-lbuyjlx6unv4eicw82sk-5rgxbfdugg",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1-lbuyjlx6unv4eicw82sk-5rgxbfdugg",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6578,9 +6602,9 @@
       "modifiedTime": "2026-04-02T02:19:02.204Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1gul4gxotgchh1c4sp-zlqmowvmfkvqkd",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1gul4gxotgchh1c4sp-zlqmowvmfkvqkd",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6594,9 +6618,9 @@
       "modifiedTime": "2026-04-02T02:19:02.184Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1fqdfyeg1c4rqhhym8go6hcakoaiiam8o",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1fqdfyeg1c4rqhhym8go6hcakoaiiam8o",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6610,9 +6634,9 @@
       "modifiedTime": "2026-04-02T02:19:02.163Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1v9juaygq8toyjbvm6qnfkz5sntuqyqyq",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1v9juaygq8toyjbvm6qnfkz5sntuqyqyq",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6626,9 +6650,9 @@
       "modifiedTime": "2026-04-02T02:19:02.141Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1jbfmoppmtg8ku16rhv3i8ydvghzrsj7k",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1jbfmoppmtg8ku16rhv3i8ydvghzrsj7k",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6642,9 +6666,9 @@
       "modifiedTime": "2026-04-02T02:19:02.119Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1tyn0xzrzpt1hcnjkxqzbrntivmsau-pk",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1tyn0xzrzpt1hcnjkxqzbrntivmsau-pk",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6658,9 +6682,9 @@
       "modifiedTime": "2026-04-02T02:19:02.096Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1yylsnzawxeaqtnymx4ws9l0gy-aa3bjl",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1yylsnzawxeaqtnymx4ws9l0gy-aa3bjl",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6674,9 +6698,9 @@
       "modifiedTime": "2026-04-02T02:19:02.076Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1-g1nbbfrwdo9d7cpfenmtnlwclj-r1af",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1-g1nbbfrwdo9d7cpfenmtnlwclj-r1af",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6690,9 +6714,9 @@
       "modifiedTime": "2026-04-02T02:19:02.057Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1la-cqvtx-n8wwbgp8-utcv633mjrirqy",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1la-cqvtx-n8wwbgp8-utcv633mjrirqy",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6706,9 +6730,9 @@
       "modifiedTime": "2026-04-02T02:19:02.038Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1weeuhjlwww6tmrdg3c8j8kpofbuoloeh",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1weeuhjlwww6tmrdg3c8j8kpofbuoloeh",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6722,9 +6746,9 @@
       "modifiedTime": "2026-04-02T02:19:02.019Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1p371whgzgnt54xaejsbl8hc3ebdxqggy",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1p371whgzgnt54xaejsbl8hc3ebdxqggy",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6738,9 +6762,9 @@
       "modifiedTime": "2026-04-02T02:19:01.979Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1iddtgapssih-hj5xwtqby0nfqmxckiom",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1iddtgapssih-hj5xwtqby0nfqmxckiom",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6754,9 +6778,9 @@
       "modifiedTime": "2026-04-02T02:19:01.961Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1tmbgay5dfrwtrngxjt-9pg3xvfjn7bly",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1tmbgay5dfrwtrngxjt-9pg3xvfjn7bly",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6770,9 +6794,9 @@
       "modifiedTime": "2026-04-02T02:19:01.944Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1gg8rmpefk-mtd5-fcju-qgmhq7glhn0g",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1gg8rmpefk-mtd5-fcju-qgmhq7glhn0g",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -6786,9 +6810,9 @@
       "modifiedTime": "2026-04-02T02:19:01.908Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1iw89afqejtqvq-ahsfhypv-az2gjsbts",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1iw89afqejtqvq-ahsfhypv-az2gjsbts",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6802,9 +6826,9 @@
       "modifiedTime": "2026-04-02T02:18:41.952Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1e1xrthpuapvysli3t1erkdfacpsrrt0n",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1e1xrthpuapvysli3t1erkdfacpsrrt0n",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6818,9 +6842,9 @@
       "modifiedTime": "2026-04-02T02:18:41.932Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1svddlizkrmwtlm34pps2pdh83fwt5rzn",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1svddlizkrmwtlm34pps2pdh83fwt5rzn",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6834,9 +6858,9 @@
       "modifiedTime": "2026-04-02T02:18:41.888Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1om-ksh0fmwm1oggup87jvbehsvm8ktvg",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1om-ksh0fmwm1oggup87jvbehsvm8ktvg",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6850,9 +6874,9 @@
       "modifiedTime": "2026-04-02T02:18:41.865Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1l03luuaeidvran-qey5bqip-hvamcepb",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1l03luuaeidvran-qey5bqip-hvamcepb",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6866,9 +6890,9 @@
       "modifiedTime": "2026-04-02T02:18:41.841Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1vchhd3rl2qgk7vdpqdagzsmh2nmklbx8",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1vchhd3rl2qgk7vdpqdagzsmh2nmklbx8",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6882,9 +6906,9 @@
       "modifiedTime": "2026-04-02T02:18:41.817Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1nec9xnupk8nyzf9frbza5us3iuuopkkx",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1nec9xnupk8nyzf9frbza5us3iuuopkkx",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6898,9 +6922,9 @@
       "modifiedTime": "2026-04-02T02:18:41.795Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1qx5d-2vdug3r-jcdu1wlhbp4a-5olzwu",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1qx5d-2vdug3r-jcdu1wlhbp4a-5olzwu",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6914,9 +6938,9 @@
       "modifiedTime": "2026-04-02T02:18:41.774Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1pczplqcpi61nh2bkwlbhsyopuosg8ye0",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1pczplqcpi61nh2bkwlbhsyopuosg8ye0",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6930,9 +6954,9 @@
       "modifiedTime": "2026-04-02T02:18:41.752Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1qsaiwgl3ok53dlkohs9tccox6tirrmoa",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1qsaiwgl3ok53dlkohs9tccox6tirrmoa",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6946,9 +6970,9 @@
       "modifiedTime": "2026-04-02T02:18:41.729Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1hd8cobvoxmojrtsll2bdiguxwmanpjkm",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1hd8cobvoxmojrtsll2bdiguxwmanpjkm",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6962,9 +6986,9 @@
       "modifiedTime": "2026-04-02T02:18:41.707Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-12bwbbymy-37wh8t60loq3ckmfzh0cvtk",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-12bwbbymy-37wh8t60loq3ckmfzh0cvtk",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6978,9 +7002,9 @@
       "modifiedTime": "2026-04-02T02:18:41.686Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1vqoden5bh-0j6fbhjkjehr-jmv2hijib",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1vqoden5bh-0j6fbhjkjehr-jmv2hijib",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -6994,9 +7018,9 @@
       "modifiedTime": "2026-04-02T02:18:41.662Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1o0k-k-g-9te5zersdftwzgycyhwsaetv",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1o0k-k-g-9te5zersdftwzgycyhwsaetv",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -7010,9 +7034,9 @@
       "modifiedTime": "2026-04-02T02:18:41.642Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1qkgfiskhcw1vvxp1bt-1tsyoombw0we6",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1qkgfiskhcw1vvxp1bt-1tsyoombw0we6",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -7026,9 +7050,9 @@
       "modifiedTime": "2026-04-02T02:18:41.623Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1khsgd-0ihpejjueu-2ibxagqxsfjuvpu",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1khsgd-0ihpejjueu-2ibxagqxsfjuvpu",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -7042,9 +7066,9 @@
       "modifiedTime": "2026-04-02T02:18:41.602Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1owexqacmwhp-szdqjjg7p3vidjkvom93",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1owexqacmwhp-szdqjjg7p3vidjkvom93",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -7058,9 +7082,9 @@
       "modifiedTime": "2026-04-02T02:18:41.583Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1e4wzqveyur8g7xviqcn3cmaeypyw2cu7",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1e4wzqveyur8g7xviqcn3cmaeypyw2cu7",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -7074,9 +7098,9 @@
       "modifiedTime": "2026-04-02T02:18:41.518Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-1foq8h4ibncrp4zdhzc4h5tsaliwvikcn",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-1foq8h4ibncrp4zdhzc4h5tsaliwvikcn",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7090,9 +7114,9 @@
       "modifiedTime": "2026-04-02T02:18:20.217Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-1mwy-8bfbgghqoqaxnatqrwbhega-jdpj",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-1mwy-8bfbgghqoqaxnatqrwbhega-jdpj",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7106,9 +7130,9 @@
       "modifiedTime": "2026-04-02T02:18:20.173Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-1qrzwnr-xkd41jcpidoala1ha8d6ym1o4",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-1qrzwnr-xkd41jcpidoala1ha8d6ym1o4",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7122,9 +7146,9 @@
       "modifiedTime": "2026-04-02T02:18:20.147Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-1ulnudazamsmy1pwyxd2kelo9py-o-cmn",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-1ulnudazamsmy1pwyxd2kelo9py-o-cmn",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7138,9 +7162,9 @@
       "modifiedTime": "2026-04-02T02:18:20.058Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-13b-hfijmrnbzyqbvix2nbl0fcii9fntq",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-13b-hfijmrnbzyqbvix2nbl0fcii9fntq",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7154,9 +7178,9 @@
       "modifiedTime": "2026-04-02T02:18:19.998Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-1pmd3f8-u8vcrvd5rgec5cr9gop4voh6m",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-1pmd3f8-u8vcrvd5rgec5cr9gop4voh6m",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7170,9 +7194,9 @@
       "modifiedTime": "2026-04-02T02:18:19.932Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-1l0akwm3pm7qtzgznrj-pdkzsipazij-o",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-1l0akwm3pm7qtzgznrj-pdkzsipazij-o",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7186,9 +7210,9 @@
       "modifiedTime": "2026-04-02T02:18:19.912Z"
     },
     {
-      "id": "camiseta-camisa-farm-p-1biey3yltqn4ht0hwifyyokvnjtdnbd0z",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-p-1biey3yltqn4ht0hwifyyokvnjtdnbd0z",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
       "price": null,
@@ -7234,9 +7258,9 @@
       "modifiedTime": "2026-04-01T20:03:17.166Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1zhwn55o8fsssqb4oxzhy-5-7gxk-bbsq",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1zhwn55o8fsssqb4oxzhy-5-7gxk-bbsq",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -7250,9 +7274,9 @@
       "modifiedTime": "2026-03-26T11:12:20.064Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1bhr1avlltz1n5y1acclu6jisj26wu-7m",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1bhr1avlltz1n5y1acclu6jisj26wu-7m",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -7266,9 +7290,9 @@
       "modifiedTime": "2026-03-26T11:12:20.014Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-19bhgqc4cmqw29omito7mt01iabnldbke",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-19bhgqc4cmqw29omito7mt01iabnldbke",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -7282,9 +7306,9 @@
       "modifiedTime": "2026-03-26T11:11:39.772Z"
     },
     {
-      "id": "calca-a-identificar-48-1dbuxvx-e9v3i3scjfvblwomaenrd1vg7",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-48-1dbuxvx-e9v3i3scjfvblwomaenrd1vg7",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -7298,9 +7322,9 @@
       "modifiedTime": "2026-03-22T23:25:45.372Z"
     },
     {
-      "id": "calca-a-identificar-48-1gnxsyjssqoer5bdy2luphrixbauwqpdx",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-48-1gnxsyjssqoer5bdy2luphrixbauwqpdx",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -7314,9 +7338,9 @@
       "modifiedTime": "2026-03-22T23:25:45.339Z"
     },
     {
-      "id": "calca-a-identificar-48-1v8qww14-ztofg4bp9dsaidz3yapv58yj",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-48-1v8qww14-ztofg4bp9dsaidz3yapv58yj",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -7330,9 +7354,9 @@
       "modifiedTime": "2026-03-22T23:25:45.305Z"
     },
     {
-      "id": "calca-a-identificar-48-1c0ok2mac4iofonjvhubsljvwxnwdtjia",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-48-1c0ok2mac4iofonjvhubsljvwxnwdtjia",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -7346,9 +7370,9 @@
       "modifiedTime": "2026-03-22T23:25:45.273Z"
     },
     {
-      "id": "calca-a-identificar-48-17rgg44w-nvax-hmmcvlcgcyekrji6gc2",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-48-17rgg44w-nvax-hmmcvlcgcyekrji6gc2",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -7362,9 +7386,9 @@
       "modifiedTime": "2026-03-22T23:25:45.241Z"
     },
     {
-      "id": "calca-a-identificar-48-1i9-ecdqschlu4heubbab5ffeu-dhdnt7",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-48-1i9-ecdqschlu4heubbab5ffeu-dhdnt7",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -8178,9 +8202,9 @@
       "modifiedTime": "2026-02-20T15:01:32.828Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1-z05n06tcrnc3hah1tgnenkjq3jyadyt",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1-z05n06tcrnc3hah1tgnenkjq3jyadyt",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8194,9 +8218,9 @@
       "modifiedTime": "2026-02-18T20:14:05.112Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1raspi7rnc5uugvvrdyjk-rlmtnc2ofz",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1raspi7rnc5uugvvrdyjk-rlmtnc2ofz",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8210,9 +8234,9 @@
       "modifiedTime": "2026-02-18T20:14:05.074Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-128wrjqcna5ot0jt1fzxvdes7c4v7gekm",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-128wrjqcna5ot0jt1fzxvdes7c4v7gekm",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8226,9 +8250,9 @@
       "modifiedTime": "2026-02-18T20:14:05.040Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1afmnd-ttht7igfdqv9llwm6n1fnczuvp",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1afmnd-ttht7igfdqv9llwm6n1fnczuvp",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8242,9 +8266,9 @@
       "modifiedTime": "2026-02-18T20:14:05.015Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1mguwpkbcxzzna1dj4hwvv-zuzxwm9e3t",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1mguwpkbcxzzna1dj4hwvv-zuzxwm9e3t",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8258,9 +8282,9 @@
       "modifiedTime": "2026-02-18T20:14:04.989Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1ugld4dqjlupfvkxnew4wu6pgp-b-0gid",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1ugld4dqjlupfvkxnew4wu6pgp-b-0gid",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -8274,9 +8298,9 @@
       "modifiedTime": "2026-02-18T20:13:52.391Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1lhic9dto-j-mz6ktewc-rg-mgcxxj9eg",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1lhic9dto-j-mz6ktewc-rg-mgcxxj9eg",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8290,9 +8314,9 @@
       "modifiedTime": "2026-02-18T20:13:41.886Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1-1u7cqundsdvbsfta-qgsfjrfgparmkg",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1-1u7cqundsdvbsfta-qgsfjrfgparmkg",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8306,9 +8330,9 @@
       "modifiedTime": "2026-02-18T20:13:29.075Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1krk6tlsi-yeiejjpntaplxfdli5vycdp",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1krk6tlsi-yeiejjpntaplxfdli5vycdp",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8322,9 +8346,9 @@
       "modifiedTime": "2026-02-18T20:13:28.994Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-18eov8fywvmv8pfuc8mtbjaz2giyx6lbo",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-18eov8fywvmv8pfuc8mtbjaz2giyx6lbo",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8338,9 +8362,9 @@
       "modifiedTime": "2026-02-09T04:08:24.266Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1alggu-awtiwntxqv5zzqzjeulx-vp-me",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1alggu-awtiwntxqv5zzqzjeulx-vp-me",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8354,9 +8378,9 @@
       "modifiedTime": "2026-02-09T04:08:24.242Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1g0ds89tvs-sxtvuulbzqir16eij7flhn",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1g0ds89tvs-sxtvuulbzqir16eij7flhn",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8370,9 +8394,9 @@
       "modifiedTime": "2026-02-09T04:08:24.220Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1snjlinwxrgfsqibdlodvy-aipekhfnbd",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1snjlinwxrgfsqibdlodvy-aipekhfnbd",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8386,9 +8410,9 @@
       "modifiedTime": "2026-02-09T04:08:24.199Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1nvqxu7jwbufxcrdpcyfaexfcactyljrf",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1nvqxu7jwbufxcrdpcyfaexfcactyljrf",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8402,9 +8426,9 @@
       "modifiedTime": "2026-02-09T04:08:24.164Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1dubnw9ruhms-z7hyfdm6y50qsx1apk2c",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1dubnw9ruhms-z7hyfdm6y50qsx1apk2c",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -8418,9 +8442,9 @@
       "modifiedTime": "2026-02-09T04:08:07.484Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1llvujz43z-1se0qpf3qaizspcywcux4p",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1llvujz43z-1se0qpf3qaizspcywcux4p",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -8434,9 +8458,9 @@
       "modifiedTime": "2026-02-09T04:08:07.430Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1zsmrubuiq4pna-il40yspwpbkq-lvpbw",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1zsmrubuiq4pna-il40yspwpbkq-lvpbw",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -8450,9 +8474,9 @@
       "modifiedTime": "2026-02-09T04:08:07.386Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1ykj5okzmovdjqgjihjfboll4ojteikdq",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1ykj5okzmovdjqgjihjfboll4ojteikdq",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8466,9 +8490,9 @@
       "modifiedTime": "2026-02-09T04:07:54.461Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1hygatocizllolu-0fkjhuzybyijnwchr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1hygatocizllolu-0fkjhuzybyijnwchr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8482,9 +8506,9 @@
       "modifiedTime": "2026-02-09T04:07:54.438Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1f8uejjoezzsvuwsltxpuo2qjm9h0cmhu",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1f8uejjoezzsvuwsltxpuo2qjm9h0cmhu",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8498,9 +8522,9 @@
       "modifiedTime": "2026-02-09T04:07:54.405Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1wzi3cyy13hs12lh4tz7shs-7-uaqc-m2",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1wzi3cyy13hs12lh4tz7shs-7-uaqc-m2",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8514,9 +8538,9 @@
       "modifiedTime": "2026-02-09T04:07:54.383Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1knw8pnxvuum7b-bfb09gtamdstnfocab",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1knw8pnxvuum7b-bfb09gtamdstnfocab",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8530,9 +8554,9 @@
       "modifiedTime": "2026-02-09T04:07:54.345Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-13hplugwj7qrszlr4i03vfhi6twv3ur-5",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-13hplugwj7qrszlr4i03vfhi6twv3ur-5",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8546,9 +8570,9 @@
       "modifiedTime": "2026-02-09T04:07:54.318Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-14rtqkmeiwtxi04wnszuwcthze3lihucd",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-14rtqkmeiwtxi04wnszuwcthze3lihucd",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8562,9 +8586,9 @@
       "modifiedTime": "2026-02-09T04:07:43.339Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-163ov0f5099oeqmowo5ww3pn1q3v4ejel",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-163ov0f5099oeqmowo5ww3pn1q3v4ejel",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8578,9 +8602,9 @@
       "modifiedTime": "2026-02-09T04:07:43.315Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1e4isogya-r8mefg15brpbfnncbshok5z",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1e4isogya-r8mefg15brpbfnncbshok5z",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8594,9 +8618,9 @@
       "modifiedTime": "2026-02-09T04:07:43.287Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1gnun4ovn3e8oxga4f-fuaeaqirb8xsyo",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1gnun4ovn3e8oxga4f-fuaeaqirb8xsyo",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8610,9 +8634,9 @@
       "modifiedTime": "2026-02-09T04:07:43.262Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1ofpm5e7gxjem9wlqkmr99k7kbhrbp0qv",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1ofpm5e7gxjem9wlqkmr99k7kbhrbp0qv",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8626,9 +8650,9 @@
       "modifiedTime": "2026-02-09T04:07:43.213Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-18ydw-hygp3h0ldegrbdg0wd8m-tgy3kn",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-18ydw-hygp3h0ldegrbdg0wd8m-tgy3kn",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8642,9 +8666,9 @@
       "modifiedTime": "2026-02-09T04:07:43.184Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1xtj7kah4mkdn-ozixxvnh8u98dyvimiq",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1xtj7kah4mkdn-ozixxvnh8u98dyvimiq",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -8658,9 +8682,9 @@
       "modifiedTime": "2026-05-08T16:26:51.806Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1crev7zcn54w6jwyhksc605afisxwppa6",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1crev7zcn54w6jwyhksc605afisxwppa6",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -8674,9 +8698,9 @@
       "modifiedTime": "2026-05-08T16:27:16.167Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-171cgx0l-auy2vyvdmshm0x8jmzn43zma",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-171cgx0l-auy2vyvdmshm0x8jmzn43zma",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -8690,9 +8714,9 @@
       "modifiedTime": "2026-05-08T16:27:59.277Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1vabkfgir8ho7fp1xspu9wsobgmsvpsvd",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1vabkfgir8ho7fp1xspu9wsobgmsvpsvd",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -8706,9 +8730,9 @@
       "modifiedTime": "2026-05-08T16:27:43.520Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-14r9m5h3iiqkqj6lok0wmg7r3tfciqu0a",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-14r9m5h3iiqkqj6lok0wmg7r3tfciqu0a",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -8722,9 +8746,9 @@
       "modifiedTime": "2026-05-08T16:25:53.272Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1aiftcx-25ocgrhvtmxapcsedh2zqkr-a",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1aiftcx-25ocgrhvtmxapcsedh2zqkr-a",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8738,9 +8762,9 @@
       "modifiedTime": "2026-01-31T02:34:35.815Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1lskqscp-ak3mt5vzrhbgx-mlyojbrfjr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1lskqscp-ak3mt5vzrhbgx-mlyojbrfjr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8754,9 +8778,9 @@
       "modifiedTime": "2026-01-31T02:34:35.787Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1dxrxk9t4fhxv19wkygosfl2l39sqvam",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1dxrxk9t4fhxv19wkygosfl2l39sqvam",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8770,9 +8794,9 @@
       "modifiedTime": "2026-01-31T02:34:35.767Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-10mnwqwypqonqo5vljxcpu30sfeuvuq6b",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-10mnwqwypqonqo5vljxcpu30sfeuvuq6b",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8786,9 +8810,9 @@
       "modifiedTime": "2026-01-31T02:34:35.728Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1ksnwnfvkbnirgnvjiw8gvivy92qxgyvr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1ksnwnfvkbnirgnvjiw8gvivy92qxgyvr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8802,9 +8826,9 @@
       "modifiedTime": "2026-01-31T02:34:35.644Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1jlkrykhnoopz54k70abssuzput79imz0",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1jlkrykhnoopz54k70abssuzput79imz0",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -8818,9 +8842,9 @@
       "modifiedTime": "2026-01-31T02:34:35.622Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1-exp7zgeii2-gk9q8frgzpceh9whjutw",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1-exp7zgeii2-gk9q8frgzpceh9whjutw",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -8834,9 +8858,9 @@
       "modifiedTime": "2026-01-31T02:33:59.317Z"
     },
     {
-      "id": "camiseta-camisa-premium-g-1pjwmwnzxgj9p3hmygqbphuaf8nnbgqi",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-g-1pjwmwnzxgj9p3hmygqbphuaf8nnbgqi",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
       "price": null,
@@ -8850,9 +8874,9 @@
       "modifiedTime": "2026-01-31T02:33:59.232Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1hf3dxfng1ahcbouenaa541ecylsdcufl",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1hf3dxfng1ahcbouenaa541ecylsdcufl",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8866,9 +8890,9 @@
       "modifiedTime": "2026-01-31T02:33:37.943Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1hclravydk-5gutib8gumhmiosdozqq8f",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1hclravydk-5gutib8gumhmiosdozqq8f",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8882,9 +8906,9 @@
       "modifiedTime": "2026-01-31T02:33:37.920Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1zfvhdcr8vqlxgemevjtbqjoqrdard1bj",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1zfvhdcr8vqlxgemevjtbqjoqrdard1bj",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8898,9 +8922,9 @@
       "modifiedTime": "2026-01-31T02:33:37.850Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1njzbt4asz9enve-rfmj0-4jogcltssfu",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1njzbt4asz9enve-rfmj0-4jogcltssfu",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -8914,9 +8938,9 @@
       "modifiedTime": "2026-01-31T02:33:37.779Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-17xhohoxq34oefflx8kcw7suotklzrkaz",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-17xhohoxq34oefflx8kcw7suotklzrkaz",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8930,9 +8954,9 @@
       "modifiedTime": "2026-01-31T02:33:16.355Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1ndd4jp3udz4-4-xryn0svsxpd89w9eqk",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1ndd4jp3udz4-4-xryn0svsxpd89w9eqk",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8946,9 +8970,9 @@
       "modifiedTime": "2026-01-31T02:33:16.288Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1oveebobybpt-npwug3qw8hfsa6z7jtzx",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1oveebobybpt-npwug3qw8hfsa6z7jtzx",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8962,9 +8986,9 @@
       "modifiedTime": "2026-01-31T02:33:16.261Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1jkzxfyfww4vatifqqafzumwzo3c9acpi",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1jkzxfyfww4vatifqqafzumwzo3c9acpi",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8978,9 +9002,9 @@
       "modifiedTime": "2026-01-31T02:33:16.233Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1md4hkbr32pz0u9ibizuy74ojr8w-cm4",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1md4hkbr32pz0u9ibizuy74ojr8w-cm4",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -8994,9 +9018,9 @@
       "modifiedTime": "2026-01-31T02:33:16.209Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1nxeewriy6esorf67q05gadgnngk8l-o7",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1nxeewriy6esorf67q05gadgnngk8l-o7",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9010,9 +9034,9 @@
       "modifiedTime": "2026-01-31T02:33:16.183Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1ahoswemuyqv7-qthwpqnhrsse-gxtrfp",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1ahoswemuyqv7-qthwpqnhrsse-gxtrfp",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9026,9 +9050,9 @@
       "modifiedTime": "2026-01-31T02:33:16.158Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1wnla527btmja9muylone1cvlt3itfsg0",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1wnla527btmja9muylone1cvlt3itfsg0",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9042,9 +9066,9 @@
       "modifiedTime": "2026-01-31T02:33:16.132Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1mnvbwnbr2qzhix0kwh-cmo-hjypbsgrb",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1mnvbwnbr2qzhix0kwh-cmo-hjypbsgrb",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9058,9 +9082,9 @@
       "modifiedTime": "2026-01-31T02:33:16.074Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1jriellpvus3ybe5xobdo0mauejniyiom",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1jriellpvus3ybe5xobdo0mauejniyiom",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9074,9 +9098,9 @@
       "modifiedTime": "2026-01-31T02:33:16.048Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1iftrqzgkkx19hrnma8ek5tpizmgr45st",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1iftrqzgkkx19hrnma8ek5tpizmgr45st",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9090,9 +9114,9 @@
       "modifiedTime": "2026-01-31T02:33:16.022Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1yukeqoyfhaap-nuivezh9zo-old8kg",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1yukeqoyfhaap-nuivezh9zo-old8kg",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9106,9 +9130,9 @@
       "modifiedTime": "2026-01-31T02:33:15.992Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-19aswxxg7xd-izhm5hivuqhgfbjtk1mk1",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-19aswxxg7xd-izhm5hivuqhgfbjtk1mk1",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -9490,9 +9514,9 @@
       "modifiedTime": "2026-01-30T03:53:16.939Z"
     },
     {
-      "id": "calca-a-identificar-46-16wfajbx5zxnfzfjj-mfmrzvs0avgtzud",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-alfaiataria-a-identificar-46-16wfajbx5zxnfzfjj-mfmrzvs0avgtzud",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -9938,9 +9962,9 @@
       "modifiedTime": "2026-01-26T11:22:52.317Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-10vlxejtq7lwq-9kou76n6xgx1bjunnlx",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-10vlxejtq7lwq-9kou76n6xgx1bjunnlx",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -9954,9 +9978,9 @@
       "modifiedTime": "2025-12-18T10:31:38.905Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1w8bovqafqp2qk1zc-7gn246br7h8xfzn",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1w8bovqafqp2qk1zc-7gn246br7h8xfzn",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -9970,9 +9994,9 @@
       "modifiedTime": "2025-12-18T10:31:38.889Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1dwzlcmvtmsd4p3fafz-x8cj6g2nobgle",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1dwzlcmvtmsd4p3fafz-x8cj6g2nobgle",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -9986,9 +10010,9 @@
       "modifiedTime": "2025-12-18T10:31:38.868Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-18toj9yfph-iisqnqjmnm7eex3geya-lz",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-18toj9yfph-iisqnqjmnm7eex3geya-lz",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10002,9 +10026,9 @@
       "modifiedTime": "2025-12-18T10:31:38.851Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1us9szk2vmcpmbsa-txz15xoq1q9uwub6",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1us9szk2vmcpmbsa-txz15xoq1q9uwub6",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10018,9 +10042,9 @@
       "modifiedTime": "2025-12-18T10:31:38.835Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1ixvcwotjnzyh3shazba2c7rkfhod7nt4",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1ixvcwotjnzyh3shazba2c7rkfhod7nt4",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10034,9 +10058,9 @@
       "modifiedTime": "2025-12-18T10:31:38.785Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1l9yo5ykct-czsyeeq2vcfkfqnccljcuy",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1l9yo5ykct-czsyeeq2vcfkfqnccljcuy",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10050,9 +10074,9 @@
       "modifiedTime": "2025-12-18T10:31:38.767Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1ucqg-ysm1jgbuexldtjwv0owybjldcgk",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1ucqg-ysm1jgbuexldtjwv0owybjldcgk",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10066,9 +10090,9 @@
       "modifiedTime": "2025-12-18T10:31:38.747Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1ailtlgncncg-tnkvgwbtor1bj-jfc0ye",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1ailtlgncncg-tnkvgwbtor1bj-jfc0ye",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10082,9 +10106,9 @@
       "modifiedTime": "2025-12-18T10:31:38.714Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1heb-iunp-djaamnweae6zbv66ueufyl",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1heb-iunp-djaamnweae6zbv66ueufyl",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10098,9 +10122,9 @@
       "modifiedTime": "2025-12-18T10:31:38.697Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1kc2pgtvcd3oqwljdbqbtxxtwbavzw978",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1kc2pgtvcd3oqwljdbqbtxxtwbavzw978",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10114,9 +10138,9 @@
       "modifiedTime": "2025-12-18T10:31:38.682Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-132hrq9nmxl8ejjh5pe5dagh2fe8mbuys",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-132hrq9nmxl8ejjh5pe5dagh2fe8mbuys",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10130,9 +10154,9 @@
       "modifiedTime": "2025-12-18T10:31:38.666Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1odw-vz-jlrmdwp2xnbwy-r8piyb4q07e",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1odw-vz-jlrmdwp2xnbwy-r8piyb4q07e",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10146,9 +10170,9 @@
       "modifiedTime": "2025-12-18T10:31:38.650Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1phmqs9fpofivsmayoqdgixto0xemodwb",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1phmqs9fpofivsmayoqdgixto0xemodwb",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10162,9 +10186,9 @@
       "modifiedTime": "2025-12-18T10:31:38.635Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-17xvwfne8k1kld-s6tr16hbe-i558yzn3",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-17xvwfne8k1kld-s6tr16hbe-i558yzn3",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10178,9 +10202,9 @@
       "modifiedTime": "2025-12-18T10:31:38.618Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1qxrp3weq-4dpmoij0xvxzvirwkrm3djr",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1qxrp3weq-4dpmoij0xvxzvirwkrm3djr",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10194,9 +10218,9 @@
       "modifiedTime": "2025-12-18T10:31:38.600Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1ivocfhqptkr3fmqcdygccivm1o19alor",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1ivocfhqptkr3fmqcdygccivm1o19alor",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10210,9 +10234,9 @@
       "modifiedTime": "2025-12-18T10:31:38.584Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-120bxuooheas-dgglcu4sgjn81k7r2ufd",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-120bxuooheas-dgglcu4sgjn81k7r2ufd",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10226,9 +10250,9 @@
       "modifiedTime": "2025-12-18T10:31:38.566Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1zanob5ea-0pko2ywim-heq-2semlkcvh",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1zanob5ea-0pko2ywim-heq-2semlkcvh",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10242,9 +10266,9 @@
       "modifiedTime": "2025-12-18T10:31:38.549Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1rfw7tcdzix4esrvexf7enuerceqebs9r",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1rfw7tcdzix4esrvexf7enuerceqebs9r",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10258,9 +10282,9 @@
       "modifiedTime": "2025-12-18T10:31:38.507Z"
     },
     {
-      "id": "camiseta-camisa-farm-g-1ycesdwzx65bvzu37yjtaxmhqth4floam",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-g-1ycesdwzx65bvzu37yjtaxmhqth4floam",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
       "price": null,
@@ -10274,9 +10298,9 @@
       "modifiedTime": "2025-12-18T10:31:38.471Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1j5zjv1vrvy1t-hi9kbcc6xv2dvbhgqkp",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1j5zjv1vrvy1t-hi9kbcc6xv2dvbhgqkp",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -10290,9 +10314,9 @@
       "modifiedTime": "2025-12-18T10:31:20.305Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1i6irsnj1lvx5ucy6acwcruvz34kgn-ev",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1i6irsnj1lvx5ucy6acwcruvz34kgn-ev",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -10306,9 +10330,9 @@
       "modifiedTime": "2025-12-18T10:31:20.258Z"
     },
     {
-      "id": "camiseta-camisa-farm-m-1qkqlro9gp-kehjumcbtv6gnvz6lvtknu",
-      "title": "Camiseta / Camisa Farm",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-feminina-farm-m-1qkqlro9gp-kehjumcbtv6gnvz6lvtknu",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
       "brand": "Farm",
       "size": "M",
       "price": null,
@@ -10338,9 +10362,9 @@
       "modifiedTime": "2025-12-16T02:03:54.878Z"
     },
     {
-      "id": "camiseta-camisa-a-identificar-m-1uklyvzz2cu2ezisp3j3xreuadgipy6lb",
-      "title": "Camiseta / Camisa",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-social-a-identificar-m-1uklyvzz2cu2ezisp3j3xreuadgipy6lb",
+      "title": "Camisa social",
+      "category": "Camisa social",
       "brand": "A identificar",
       "size": "M",
       "price": null,
@@ -10354,9 +10378,9 @@
       "modifiedTime": "2025-12-14T16:13:09.052Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1skod6dxsau3djfmap1e8vzq1vrtaaozs",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1skod6dxsau3djfmap1e8vzq1vrtaaozs",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10370,9 +10394,9 @@
       "modifiedTime": "2025-12-13T18:16:54.287Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1fafcknjt8xfdoab4v8tioxtew-iis-8m",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1fafcknjt8xfdoab4v8tioxtew-iis-8m",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10402,9 +10426,9 @@
       "modifiedTime": "2025-12-09T00:58:36.314Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1x2tgqajjyjvvaonl3qj2y-y8a4ti4d9l",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1x2tgqajjyjvvaonl3qj2y-y8a4ti4d9l",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10418,9 +10442,9 @@
       "modifiedTime": "2026-05-08T16:25:15.478Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1ohlmr69sxklq7zvj87gwzpzwxud8ybid",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1ohlmr69sxklq7zvj87gwzpzwxud8ybid",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10434,9 +10458,9 @@
       "modifiedTime": "2026-05-08T16:24:04.117Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1hhpuv38sqdoi3e2zzjbgm-ge961qf4yr",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1hhpuv38sqdoi3e2zzjbgm-ge961qf4yr",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10450,9 +10474,9 @@
       "modifiedTime": "2026-05-08T16:23:38.811Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1z9apficyn3wja8wrymaafq40dkiwaovx",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1z9apficyn3wja8wrymaafq40dkiwaovx",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10466,9 +10490,9 @@
       "modifiedTime": "2026-05-08T16:23:28.000Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1xfx5ar7pr-rhkjphh-cwsmnmygysylk0",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1xfx5ar7pr-rhkjphh-cwsmnmygysylk0",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10482,9 +10506,9 @@
       "modifiedTime": "2026-05-08T16:23:18.893Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1szukaxrvvixpayhntefotqslw0rxlkpm",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1szukaxrvvixpayhntefotqslw0rxlkpm",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10498,9 +10522,9 @@
       "modifiedTime": "2026-05-08T16:23:07.260Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1he5rahmnmyfjglt3bz-iquflnqjoiwcj",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1he5rahmnmyfjglt3bz-iquflnqjoiwcj",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10514,9 +10538,9 @@
       "modifiedTime": "2026-05-08T16:21:57.183Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1r7vk4rg0onswjwdrtngdegd5d5j-sp20",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1r7vk4rg0onswjwdrtngdegd5d5j-sp20",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10530,9 +10554,9 @@
       "modifiedTime": "2026-05-08T16:21:02.826Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1fjpj4byxgnokjsobynqp-f4il8gwo00e",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1fjpj4byxgnokjsobynqp-f4il8gwo00e",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10546,9 +10570,9 @@
       "modifiedTime": "2026-05-08T16:20:42.593Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1jde-tjfrq12xm5wfb6c6kuxyq-yfn4ix",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1jde-tjfrq12xm5wfb6c6kuxyq-yfn4ix",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10562,9 +10586,9 @@
       "modifiedTime": "2025-12-03T03:41:38.292Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1tiuftvh42cckftvmnphd9c9rm46qd1uv",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1tiuftvh42cckftvmnphd9c9rm46qd1uv",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10578,9 +10602,9 @@
       "modifiedTime": "2025-12-03T03:41:38.247Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-19uc1mch1yvziiwddzafbgcicwl7dmndn",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-19uc1mch1yvziiwddzafbgcicwl7dmndn",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
@@ -10626,9 +10650,9 @@
       "modifiedTime": "2025-12-01T22:27:59.875Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1-y6vl-hv3qugn1bn7yrifgfiizrilagr",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1-y6vl-hv3qugn1bn7yrifgfiizrilagr",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10642,9 +10666,9 @@
       "modifiedTime": "2025-11-23T01:46:46.533Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-10dv3vrzs-1t1ixdiuimabdawksjj2pkm",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-10dv3vrzs-1t1ixdiuimabdawksjj2pkm",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10658,9 +10682,9 @@
       "modifiedTime": "2025-11-21T02:17:18.440Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1xpbvelqqganpkwruvhj7gjyzdftu-hcw",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1xpbvelqqganpkwruvhj7gjyzdftu-hcw",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10674,9 +10698,9 @@
       "modifiedTime": "2025-11-21T02:17:18.381Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-14hs6ilj9-fjk7no0htaqzalpziuyyqrq",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-14hs6ilj9-fjk7no0htaqzalpziuyyqrq",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10690,9 +10714,9 @@
       "modifiedTime": "2025-11-21T02:17:18.341Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1-m49zi9wjub8j2sifwo1wrzefdyvevot",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1-m49zi9wjub8j2sifwo1wrzefdyvevot",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -10706,9 +10730,9 @@
       "modifiedTime": "2025-11-21T02:17:18.290Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1h23oulcqpaueeopg-xfhocxclbvswddr",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1h23oulcqpaueeopg-xfhocxclbvswddr",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -10722,9 +10746,9 @@
       "modifiedTime": "2025-11-21T02:17:04.932Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1g84ylwywilkot4qemu-dtqo3w9lrnu37",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1g84ylwywilkot4qemu-dtqo3w9lrnu37",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10738,9 +10762,9 @@
       "modifiedTime": "2025-11-18T22:54:06.681Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1o9ssb7hg6cqhhgvo56cqmmlqhkhbvrkr",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1o9ssb7hg6cqhhgvo56cqmmlqhkhbvrkr",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10754,9 +10778,9 @@
       "modifiedTime": "2025-11-18T23:03:31.393Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1bodocz4jasjhdihvs4cxlubigh0ewc3u",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1bodocz4jasjhdihvs4cxlubigh0ewc3u",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10770,9 +10794,9 @@
       "modifiedTime": "2025-11-18T22:40:51.215Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1z7gq8wuwzkm-pfrravdx99il3ckaxk-d",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1z7gq8wuwzkm-pfrravdx99il3ckaxk-d",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10786,9 +10810,9 @@
       "modifiedTime": "2025-11-18T22:40:23.660Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1wk-ggxovr0vngrupbp0-qsmhx5y8rm71",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1wk-ggxovr0vngrupbp0-qsmhx5y8rm71",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10802,9 +10826,9 @@
       "modifiedTime": "2025-11-18T23:09:20.409Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1o4b5w1-z6qdtjb-ffan7mzpw0uhrj91p",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1o4b5w1-z6qdtjb-ffan7mzpw0uhrj91p",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10818,9 +10842,9 @@
       "modifiedTime": "2025-11-18T23:04:18.140Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-11ke1srniaxcsfj8-krgipjwfkvv-lqj1",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-11ke1srniaxcsfj8-krgipjwfkvv-lqj1",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10834,9 +10858,9 @@
       "modifiedTime": "2025-11-18T23:12:13.214Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1n5nkchyuk69vyjdybahrtptnzxcnnmkt",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1n5nkchyuk69vyjdybahrtptnzxcnnmkt",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10850,9 +10874,9 @@
       "modifiedTime": "2025-11-18T23:07:39.788Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1fbjfw6o6tmw-dz22xabx4xadh1wyekxj",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1fbjfw6o6tmw-dz22xabx4xadh1wyekxj",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10866,9 +10890,9 @@
       "modifiedTime": "2025-11-18T23:06:25.113Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-17otc81fgrdxlmwv3fj6j1mdwlfpxwzw5",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-17otc81fgrdxlmwv3fj6j1mdwlfpxwzw5",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10882,9 +10906,9 @@
       "modifiedTime": "2025-11-18T23:04:47.032Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1lbhbjmkuaforgr-1d-b-h6ystx2ux5np",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1lbhbjmkuaforgr-1d-b-h6ystx2ux5np",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10898,9 +10922,9 @@
       "modifiedTime": "2025-11-18T23:09:37.515Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1zj5gqtpwt76zzbvsqi6o-mfjoi7llxv4",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1zj5gqtpwt76zzbvsqi6o-mfjoi7llxv4",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10914,9 +10938,9 @@
       "modifiedTime": "2025-11-18T23:12:35.580Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1sbumfvxgz-68h2ettkyedpa2uwh4piwi",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1sbumfvxgz-68h2ettkyedpa2uwh4piwi",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10930,9 +10954,9 @@
       "modifiedTime": "2025-11-18T23:07:50.920Z"
     },
     {
-      "id": "perfumes-originais-a-identificar-unico-1fnyv0-mewitziagpqqxqxjeqtujm-ttm",
-      "title": "PERFUMES ORIGINAIS ",
-      "category": "PERFUMES ORIGINAIS ",
+      "id": "perfume-a-identificar-unico-1fnyv0-mewitziagpqqxqxjeqtujm-ttm",
+      "title": "Perfume",
+      "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
       "price": null,
@@ -10946,9 +10970,9 @@
       "modifiedTime": "2025-11-18T22:48:34.273Z"
     },
     {
-      "id": "calca-a-identificar-42-1swhspmcvsye4ztwspexezu0uwrxhkofx",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-42-1swhspmcvsye4ztwspexezu0uwrxhkofx",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "42",
       "price": null,
@@ -10962,9 +10986,9 @@
       "modifiedTime": "2025-10-28T10:15:10.469Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1hmj2e0pew6ow0eryomazb1cw1tjyocdv",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1hmj2e0pew6ow0eryomazb1cw1tjyocdv",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -10978,9 +11002,9 @@
       "modifiedTime": "2025-10-22T02:25:53.157Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1wqpjhiajt2su5o752qtav-ds8-cowl4",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1wqpjhiajt2su5o752qtav-ds8-cowl4",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11010,9 +11034,9 @@
       "modifiedTime": "2025-10-17T10:33:29.608Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1cd-f6gzwl9up0f3u19ro-miqxrovp-om",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1cd-f6gzwl9up0f3u19ro-miqxrovp-om",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11026,9 +11050,9 @@
       "modifiedTime": "2025-10-09T01:17:08.025Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1w1oogtlevyydpoq-xmc4m6vtqk-j3p60",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1w1oogtlevyydpoq-xmc4m6vtqk-j3p60",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11042,9 +11066,9 @@
       "modifiedTime": "2025-10-09T01:17:07.974Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1c5wkamfp4yrem2v6ap5sf8wj-fzr6mvv",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1c5wkamfp4yrem2v6ap5sf8wj-fzr6mvv",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11058,9 +11082,9 @@
       "modifiedTime": "2025-10-09T01:17:07.951Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1qtek-3azoyun5wfrobnjnfwjlvyk6c2u",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1qtek-3azoyun5wfrobnjnfwjlvyk6c2u",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11074,9 +11098,9 @@
       "modifiedTime": "2025-10-09T01:17:07.915Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-10iitfuxgmnsg-vy-tq8d-36fims34vm9",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-10iitfuxgmnsg-vy-tq8d-36fims34vm9",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11090,9 +11114,9 @@
       "modifiedTime": "2025-10-09T01:17:07.890Z"
     },
     {
-      "id": "camiseta-camisa-premium-m-1ev27fm3c6kps269udz1fghxy2z0acwmz",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-m-1ev27fm3c6kps269udz1fghxy2z0acwmz",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
       "price": null,
@@ -11106,9 +11130,9 @@
       "modifiedTime": "2025-10-09T01:16:49.918Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1dfu7ho9zoq6j0e8-bglnncrfkrsslmfz",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1dfu7ho9zoq6j0e8-bglnncrfkrsslmfz",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11122,9 +11146,9 @@
       "modifiedTime": "2025-09-22T02:51:03.352Z"
     },
     {
-      "id": "calca-a-identificar-46-1-simlg5sivqtdgtsvnkelf7bp1i3tzvf",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-46-1-simlg5sivqtdgtsvnkelf7bp1i3tzvf",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "46",
       "price": null,
@@ -11138,9 +11162,9 @@
       "modifiedTime": "2025-09-16T09:45:02.199Z"
     },
     {
-      "id": "calca-a-identificar-48-1et86qibyguewq1qiy8l1k1uzlkcetv98",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-48-1et86qibyguewq1qiy8l1k1uzlkcetv98",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "48",
       "price": null,
@@ -11154,9 +11178,9 @@
       "modifiedTime": "2025-08-12T02:40:13.191Z"
     },
     {
-      "id": "calca-a-identificar-38-1d24uk3k7scmryzywssljdpekvtpqilgm",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1d24uk3k7scmryzywssljdpekvtpqilgm",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -11170,9 +11194,9 @@
       "modifiedTime": "2025-08-12T02:39:29.501Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-15bj6jsezrvuys3a8eng6stdoixb3sboj",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-15bj6jsezrvuys3a8eng6stdoixb3sboj",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11186,9 +11210,9 @@
       "modifiedTime": "2025-08-07T13:07:01.564Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-15md-inaodr8qopatgnf9dunilal85fyc",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-15md-inaodr8qopatgnf9dunilal85fyc",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11202,9 +11226,9 @@
       "modifiedTime": "2025-08-07T13:07:01.254Z"
     },
     {
-      "id": "calca-a-identificar-38-1vf5s-j-pr-rz2ae7p3x9amth2by6nwip",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1vf5s-j-pr-rz2ae7p3x9amth2by6nwip",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -11218,9 +11242,9 @@
       "modifiedTime": "2025-07-10T19:26:47.743Z"
     },
     {
-      "id": "camiseta-camisa-premium-gg-1ep0xc1vlqhc4whphhl5x5q6sja5ssvcq",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-gg-1ep0xc1vlqhc4whphhl5x5q6sja5ssvcq",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
       "price": null,
@@ -11234,9 +11258,9 @@
       "modifiedTime": "2025-06-28T22:51:03.623Z"
     },
     {
-      "id": "calca-a-identificar-38-1owx9t4p7lawxnswd3qabevnoxlnskttn",
-      "title": "Calca",
-      "category": "Calca",
+      "id": "calca-sarja-a-identificar-38-1owx9t4p7lawxnswd3qabevnoxlnskttn",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
       "brand": "A identificar",
       "size": "38",
       "price": null,
@@ -11250,9 +11274,9 @@
       "modifiedTime": "2025-06-18T02:35:08.477Z"
     },
     {
-      "id": "camiseta-camisa-premium-p-1yximmbcf0nzecj0oz6szksayi1swf3-m",
-      "title": "Camiseta / Camisa Premium",
-      "category": "Camiseta / Camisa",
+      "id": "camisa-premium-premium-p-1yximmbcf0nzecj0oz6szksayi1swf3-m",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
       "price": null,
