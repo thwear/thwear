@@ -1,0 +1,24 @@
+{
+  "name": "catalog-mvp",
+  "version": "1.0.0",
+  "description": "MVP local para transformar a pasta do fornecedor no Google Drive em um catalogo visual da thwear, com filtros e pedido por WhatsApp.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thwear/thwear.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/thwear/thwear/issues"
+  },
+  "homepage": "https://github.com/thwear/thwear#readme",
+  "dependencies": {
+    "jpeg-js": "^0.4.4"
+  }
+}

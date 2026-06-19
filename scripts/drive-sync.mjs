@@ -1,7 +1,10 @@
 #!/usr/bin/env node
 
+import jpeg from "jpeg-js";
+
 const API = "https://www.googleapis.com/drive/v3/files";
 const IMAGE_MIME_PREFIX = "image/";
+const IMAGE_COLOR_CONCURRENCY = 8;
 
 const args = parseArgs(process.argv.slice(2));
 const token = await getDriveAccessToken();
@@ -28,18 +31,14 @@ console.log(`Synced ${products.length} products to ${outputPath}`);
 
 async function crawlFolder(folderId, path) {
   const children = await listChildren(folderId);
+  const images = children.filter((item) => item.mimeType?.startsWith(IMAGE_MIME_PREFIX));
+  const imageProducts = await mapLimit(images, IMAGE_COLOR_CONCURRENCY, (item) => buildProduct(item, path));
+  products.push(...imageProducts);
 
   for (const item of children) {
     if (item.mimeType === "application/vnd.google-apps.folder") {
       await crawlFolder(item.id, [...path, item.name]);
-      continue;
     }
-
-    if (!item.mimeType?.startsWith(IMAGE_MIME_PREFIX)) {
-      continue;
-    }
-
-    products.push(buildProduct(item, path));
   }
 }
 
@@ -82,11 +81,13 @@ async function listChildren(folderId) {
   return files;
 }
 
-function buildProduct(file, path) {
+async function buildProduct(file, path) {
   const category = inferCategory(path);
   const size = inferSize(path) || "Unico";
   const brand = inferBrand(path) || "A identificar";
-  const color = inferColor([...path, file.name]) || "Cor a identificar";
+  const textColor = inferColor([...path, file.name]);
+  const visualColor = textColor ? "" : await inferVisualColor(file.id);
+  const color = textColor || visualColor || "Cor a identificar";
   const title = inferTitle(category, brand);
 
   return {
@@ -96,6 +97,7 @@ function buildProduct(file, path) {
     brand,
     size,
     color,
+    colorSource: textColor ? "texto" : visualColor ? "imagem" : "indefinida",
     price: null,
     status: "available",
     confidence: "path",
@@ -108,6 +110,22 @@ function buildProduct(file, path) {
     createdTime: file.createdTime,
     modifiedTime: file.modifiedTime
   };
+}
+
+async function mapLimit(items, limit, mapper) {
+  const results = new Array(items.length);
+  let nextIndex = 0;
+
+  async function worker() {
+    while (nextIndex < items.length) {
+      const index = nextIndex;
+      nextIndex += 1;
+      results[index] = await mapper(items[index], index);
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(limit, items.length) }, worker));
+  return results;
 }
 
 function inferCategory(path) {
@@ -181,6 +199,93 @@ function inferColor(parts) {
   }
 
   return "";
+}
+
+async function inferVisualColor(fileId) {
+  try {
+    const response = await fetch(`https://drive.google.com/thumbnail?id=${fileId}&sz=w64`);
+    if (!response.ok || !response.headers.get("content-type")?.includes("jpeg")) return "";
+
+    const bytes = Buffer.from(await response.arrayBuffer());
+    const image = jpeg.decode(bytes, { useTArray: true });
+    const counts = new Map();
+    const x0 = Math.floor(image.width * 0.18);
+    const x1 = Math.ceil(image.width * 0.82);
+    const y0 = Math.floor(image.height * 0.12);
+    const y1 = Math.ceil(image.height * 0.88);
+
+    for (let y = y0; y < y1; y += 1) {
+      for (let x = x0; x < x1; x += 1) {
+        const offset = (y * image.width + x) * 4;
+        const r = image.data[offset];
+        const g = image.data[offset + 1];
+        const b = image.data[offset + 2];
+        const label = classifyColor(r, g, b);
+        if (!label) continue;
+        counts.set(label, (counts.get(label) || 0) + colorWeight(r, g, b));
+      }
+    }
+
+    const ranked = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+    return ranked[0]?.[0] || "";
+  } catch {
+    return "";
+  }
+}
+
+function classifyColor(r, g, b) {
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  const delta = max - min;
+  const avg = (r + g + b) / 3;
+
+  if (avg > 232 && delta < 28) return "Branco";
+  if (avg < 48) return "Preto";
+  if (delta < 22) return "Cinza";
+
+  const hue = rgbHue(r, g, b);
+  const saturation = max === 0 ? 0 : delta / max;
+
+  if (saturation < 0.16) {
+    if (avg > 178) return "Bege";
+    if (avg < 82) return "Preto";
+    return "Cinza";
+  }
+
+  if (hue < 16 || hue >= 346) return avg < 105 ? "Vinho" : "Vermelho";
+  if (hue < 36) return avg < 118 ? "Marrom" : "Laranja";
+  if (hue < 58) return saturation < 0.34 ? "Bege" : "Amarelo";
+  if (hue < 165) return "Verde";
+  if (hue < 250) return "Azul";
+  if (hue < 292) return "Roxo";
+  if (hue < 330) return avg > 150 ? "Rosa" : "Roxo";
+  return "Vinho";
+}
+
+function colorWeight(r, g, b) {
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  const saturation = max === 0 ? 0 : (max - min) / max;
+  const avg = (r + g + b) / 3;
+  const exposurePenalty = avg > 245 || avg < 18 ? 0.15 : 1;
+  return (0.7 + saturation) * exposurePenalty;
+}
+
+function rgbHue(r, g, b) {
+  const nr = r / 255;
+  const ng = g / 255;
+  const nb = b / 255;
+  const max = Math.max(nr, ng, nb);
+  const min = Math.min(nr, ng, nb);
+  const delta = max - min;
+  if (delta === 0) return 0;
+
+  let hue;
+  if (max === nr) hue = 60 * (((ng - nb) / delta) % 6);
+  else if (max === ng) hue = 60 * ((nb - nr) / delta + 2);
+  else hue = 60 * ((nr - ng) / delta + 4);
+
+  return hue < 0 ? hue + 360 : hue;
 }
 
 function inferTitle(category, brand) {
