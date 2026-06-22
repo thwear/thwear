@@ -8,6 +8,7 @@ const state = {
   visible: [],
   cart: new Map(),
   selections: new Map(),
+  openCategory: "",
   filters: {
     query: "",
     category: "all",
@@ -149,7 +150,34 @@ function renderCatalog() {
     return;
   }
 
-  els.grid.innerHTML = categorySections(state.visible).map(renderCategorySection).join("");
+  const sections = categorySections(state.visible);
+  const openSection = sections.find((section) => section.category === state.openCategory);
+  if (state.openCategory && !openSection) {
+    state.openCategory = "";
+  }
+
+  els.grid.innerHTML = `
+    <div class="folder-grid" aria-label="Pastas de categoria">
+      ${sections.map(renderFolderCard).join("")}
+    </div>
+    ${openSection ? renderOpenCategory(openSection) : renderFolderEmpty()}
+  `;
+
+  els.grid.querySelectorAll("[data-toggle-category]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.openCategory = state.openCategory === button.dataset.toggleCategory
+        ? ""
+        : button.dataset.toggleCategory;
+      renderCatalog();
+    });
+  });
+
+  els.grid.querySelectorAll("[data-close-category]").forEach((button) => {
+    button.addEventListener("click", () => {
+      state.openCategory = "";
+      renderCatalog();
+    });
+  });
 
   els.grid.querySelectorAll("[data-select-size]").forEach((button) => {
     button.addEventListener("click", () => selectVariant(button.dataset.productId, { size: button.dataset.selectSize }));
@@ -206,29 +234,62 @@ function categorySections(products) {
   ));
 }
 
-function renderCategorySection(section) {
+function renderFolderCard(section) {
+  const productLabel = section.products.length === 1 ? "modelo" : "modelos";
+  const pieceLabel = section.pieces === 1 ? "peca" : "pecas";
+  const isOpen = state.openCategory === section.category;
+  const cover = section.products[0]?.items[0];
+
+  return `
+    <button class="folder-card${isOpen ? " open" : ""}" type="button" data-toggle-category="${escapeHtml(section.category)}" aria-expanded="${isOpen}">
+      <span class="folder-card-image">
+        ${cover ? `<img src="${cover.image}" alt="" loading="lazy" />` : ""}
+        <span class="folder-card-icon"><i data-lucide="${isOpen ? "folder-open" : "folder"}"></i></span>
+      </span>
+      <span class="folder-card-body">
+        <span class="eyebrow">Pasta</span>
+        <strong>${escapeHtml(section.category)}</strong>
+        <span class="folder-counts">
+          <span>${section.products.length} ${productLabel}</span>
+          <span>${section.pieces} ${pieceLabel}</span>
+        </span>
+      </span>
+    </button>
+  `;
+}
+
+function renderOpenCategory(section) {
   const productLabel = section.products.length === 1 ? "modelo" : "modelos";
   const pieceLabel = section.pieces === 1 ? "peca" : "pecas";
 
   return `
-    <section class="category-folder" aria-label="${escapeHtml(section.category)}">
-      <div class="category-folder-head">
+    <section class="open-folder" aria-label="${escapeHtml(section.category)} aberta">
+      <div class="open-folder-head">
         <div class="category-title">
-          <span class="folder-icon"><i data-lucide="folder"></i></span>
+          <span class="folder-icon"><i data-lucide="folder-open"></i></span>
           <div>
-            <p class="eyebrow">Categoria</p>
+            <p class="eyebrow">Pasta aberta</p>
             <h2>${escapeHtml(section.category)}</h2>
+            <p>${section.products.length} ${productLabel} · ${section.pieces} ${pieceLabel}</p>
           </div>
         </div>
-        <div class="folder-counts">
-          <span>${section.products.length} ${productLabel}</span>
-          <span>${section.pieces} ${pieceLabel}</span>
-        </div>
+        <button class="icon-link" type="button" data-close-category title="Fechar pasta">
+          <i data-lucide="x"></i>
+        </button>
       </div>
       <div class="category-grid">
         ${section.products.map(renderProduct).join("")}
       </div>
     </section>
+  `;
+}
+
+function renderFolderEmpty() {
+  return `
+    <div class="folder-empty">
+      <i data-lucide="folder-open"></i>
+      <span>Abra uma pasta para ver os modelos.</span>
+    </div>
   `;
 }
 
