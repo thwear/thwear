@@ -267,16 +267,12 @@ function groupProducts(products) {
 
   for (const product of products) {
     const folderName = folderLabel(product);
-    const key = [
-      product.category,
-      product.brand,
-      folderName
-    ].join("|");
+    const key = visualGroupKey(product, folderName);
 
     if (!groups.has(key)) {
       groups.set(key, {
         id: key,
-        title: product.title,
+        title: visualTitle(product),
         category: product.category,
         brand: product.brand,
         folderName,
@@ -301,8 +297,29 @@ function groupProducts(products) {
     group.colors = [...new Set(group.items.map((item) => item.color || "Cor a identificar"))]
       .sort((a, b) => a.localeCompare(b, "pt-BR", { numeric: true }));
     group.gallery = galleryItems(group.items);
+    group.price = firstKnownPrice(group.items);
     return group;
   }).sort((a, b) => a.title.localeCompare(b.title, "pt-BR", { numeric: true }));
+}
+
+function visualGroupKey(product, folderName) {
+  return [
+    product.category,
+    product.brand,
+    folderName,
+    product.color || "Cor a identificar",
+    product.fileName || product.driveFileId
+  ].join("|");
+}
+
+function visualTitle(product) {
+  const color = product.color || "Cor a identificar";
+  const brand = product.brand && product.brand !== "A identificar" ? ` ${product.brand}` : "";
+  return `${product.category}${brand} ${color}`.trim();
+}
+
+function firstKnownPrice(items) {
+  return items.find((item) => item.price !== null)?.price ?? null;
 }
 
 function galleryItems(items) {
