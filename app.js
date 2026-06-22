@@ -149,7 +149,7 @@ function renderCatalog() {
     return;
   }
 
-  els.grid.innerHTML = state.visible.map(renderProduct).join("");
+  els.grid.innerHTML = categorySections(state.visible).map(renderCategorySection).join("");
 
   els.grid.querySelectorAll("[data-select-size]").forEach((button) => {
     button.addEventListener("click", () => selectVariant(button.dataset.productId, { size: button.dataset.selectSize }));
@@ -182,6 +182,54 @@ function renderCatalog() {
   if (window.lucide) {
     window.lucide.createIcons();
   }
+}
+
+function categorySections(products) {
+  const sections = new Map();
+
+  for (const product of products) {
+    if (!sections.has(product.category)) {
+      sections.set(product.category, {
+        category: product.category,
+        products: [],
+        pieces: 0
+      });
+    }
+
+    const section = sections.get(product.category);
+    section.products.push(product);
+    section.pieces += product.items.length;
+  }
+
+  return [...sections.values()].sort((a, b) => (
+    a.category.localeCompare(b.category, "pt-BR", { numeric: true })
+  ));
+}
+
+function renderCategorySection(section) {
+  const productLabel = section.products.length === 1 ? "modelo" : "modelos";
+  const pieceLabel = section.pieces === 1 ? "peca" : "pecas";
+
+  return `
+    <section class="category-folder" aria-label="${escapeHtml(section.category)}">
+      <div class="category-folder-head">
+        <div class="category-title">
+          <span class="folder-icon"><i data-lucide="folder"></i></span>
+          <div>
+            <p class="eyebrow">Categoria</p>
+            <h2>${escapeHtml(section.category)}</h2>
+          </div>
+        </div>
+        <div class="folder-counts">
+          <span>${section.products.length} ${productLabel}</span>
+          <span>${section.pieces} ${pieceLabel}</span>
+        </div>
+      </div>
+      <div class="category-grid">
+        ${section.products.map(renderProduct).join("")}
+      </div>
+    </section>
+  `;
 }
 
 function renderProduct(product) {
