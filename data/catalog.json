@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-06-25T13:13:02.173Z",
+    "syncedAt": "2026-06-25T16:17:14.965Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-polo-a-identificar-g-cinza-1po5g9iz37inwsb-swgdqzohmbma3glao",
+      "title": "Camisa polo",
+      "category": "Camisa polo",
+      "brand": "A identificar",
+      "size": "G",
+      "color": "Cinza",
+      "colorSource": "imagem",
+      "price": 99.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1Po5g9iz37InWsb_SwGdQZOhMbma3gLao",
+      "fileName": "20260521_173903.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1Po5g9iz37InWsb_SwGdQZOhMbma3gLao/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1Po5g9iz37InWsb_SwGdQZOhMbma3gLao&sz=w900",
+      "folderName": "CAMISAS POLO ",
+      "folderPath": "CAMISAS POLO  / POLO G",
+      "createdTime": "2026-06-25T15:40:03.425Z",
+      "modifiedTime": "2026-06-25T15:40:03.446Z"
+    },
     {
       "id": "calca-jeans-a-identificar-48-cinza-1ovvbgfpkvunovuqte78xoatnwu26jkhl",
       "title": "Calca jeans",
@@ -3390,26 +3410,6 @@
       "modifiedTime": "2026-06-10T10:07:47.707Z"
     },
     {
-      "id": "calca-alfaiataria-a-identificar-44-preto-1dldq-r0itf57xwi8z8wmmxqibxwksk6g",
-      "title": "Calca alfaiataria",
-      "category": "Calca alfaiataria",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1DLdQ-R0Itf57xwI8Z8wmmXQIbxWksk6g",
-      "fileName": "PhotoGrid_Plus_1765473384164.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1DLdQ-R0Itf57xwI8Z8wmmXQIbxWksk6g/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1DLdQ-R0Itf57xwI8Z8wmmXQIbxWksk6g&sz=w900",
-      "folderName": "CALÇAS DE ALFAIATARIA ",
-      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 44",
-      "createdTime": "2026-06-10T10:07:47.673Z",
-      "modifiedTime": "2026-06-10T10:07:47.683Z"
-    },
-    {
       "id": "calca-alfaiataria-a-identificar-44-preto-1vr31vxvfqw-qsadhawhlxyipypun5nfe",
       "title": "Calca alfaiataria",
       "category": "Calca alfaiataria",
@@ -3548,26 +3548,6 @@
       "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 40",
       "createdTime": "2026-06-10T10:07:26.148Z",
       "modifiedTime": "2026-06-10T10:07:26.157Z"
-    },
-    {
-      "id": "calca-alfaiataria-a-identificar-40-cinza-1olxpczg0wnebi9lhlgismbgfu6yqcrbb",
-      "title": "Calca alfaiataria",
-      "category": "Calca alfaiataria",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1olxPcZg0wneBI9lhLgismBgFu6YQCrbB",
-      "fileName": "PhotoGrid_Plus_1765473785142.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1olxPcZg0wneBI9lhLgismBgFu6YQCrbB/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1olxPcZg0wneBI9lhLgismBgFu6YQCrbB&sz=w900",
-      "folderName": "CALÇAS DE ALFAIATARIA ",
-      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 40",
-      "createdTime": "2026-06-10T10:07:26.045Z",
-      "modifiedTime": "2026-06-10T10:07:26.070Z"
     },
     {
       "id": "calca-alfaiataria-a-identificar-40-preto-1v2petmeuqtu1ckcsobydsrevpdcsvk7k",
@@ -6388,26 +6368,6 @@
       "folderPath": "SHORT DE SARJA / SHORT P",
       "createdTime": "2026-05-06T20:36:08.892Z",
       "modifiedTime": "2026-05-06T20:36:08.917Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-m-preto-1of0baldmmn55zcr7pe-kwfa6c2o-ldm1",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1OF0baLdMMn55zcR7pe-kWFA6C2O_lDM1",
-      "fileName": "20260506_171925.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1OF0baLdMMn55zcR7pe-kWFA6C2O_lDM1/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1OF0baLdMMn55zcR7pe-kWFA6C2O_lDM1&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT M",
-      "createdTime": "2026-05-06T20:35:55.566Z",
-      "modifiedTime": "2026-05-06T20:35:55.578Z"
     },
     {
       "id": "short-bermuda-a-identificar-g-cinza-1zwcxc210lxd5xboyexeiaceximnudwau",
@@ -11448,26 +11408,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 42",
       "createdTime": "2026-01-26T11:27:13.384Z",
       "modifiedTime": "2026-01-26T11:27:13.394Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-42-cinza-1x-myksi9owgm-c1ujcotkkmtqspzhtwq",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1X-MYKsi9OWGm-C1ujcotKkMtqSPzHtwQ",
-      "fileName": "20260123_184405.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1X-MYKsi9OWGm-C1ujcotKkMtqSPzHtwQ/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1X-MYKsi9OWGm-C1ujcotKkMtqSPzHtwQ&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 42",
-      "createdTime": "2026-01-26T11:27:13.355Z",
-      "modifiedTime": "2026-01-26T11:27:13.370Z"
     },
     {
       "id": "short-bermuda-a-identificar-42-preto-1-p3nr99tl6iosdroij-tb-bcl2m7-csx",
