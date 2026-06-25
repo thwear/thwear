@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-06-25T16:17:14.965Z",
+    "syncedAt": "2026-06-25T19:03:32.710Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3870,26 +3870,6 @@
       "modifiedTime": "2026-06-09T07:29:29.386Z"
     },
     {
-      "id": "camisa-polo-a-identificar-gg-vinho-1vxavjp9ecfqxgiptntd0s4xe04gsdd68",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1VxaVJP9ecfQXgipTntD0s4Xe04GSdd68",
-      "fileName": "IMG-20260609-WA0008.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1VxaVJP9ecfQXgipTntD0s4Xe04GSdd68/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1VxaVJP9ecfQXgipTntD0s4Xe04GSdd68&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-06-09T07:29:29.351Z",
-      "modifiedTime": "2026-06-09T07:29:29.360Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-gg-preto-1g-cfunlgm0djdc3c3puwqb-gz4dc95xu",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -4948,26 +4928,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
       "createdTime": "2026-06-01T01:08:32.197Z",
       "modifiedTime": "2026-06-01T01:08:32.205Z"
-    },
-    {
-      "id": "camisa-premium-premium-m-vinho-14dzv-vd9ymovtsoececlf3qrcp6fdp7z",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "M",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "14dZv-vd9ymovTSoEcecLf3QRCP6fDp7z",
-      "fileName": "20260529_170626.jpg",
-      "driveUrl": "https://drive.google.com/file/d/14dZv-vd9ymovTSoEcecLf3QRCP6fDp7z/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=14dZv-vd9ymovTSoEcecLf3QRCP6fDp7z&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
-      "createdTime": "2026-06-01T01:08:09.589Z",
-      "modifiedTime": "2026-06-01T01:08:09.598Z"
     },
     {
       "id": "camisa-premium-premium-m-cinza-1tdxmhguzas4lowmxcgx9cgwja0cspms9",
@@ -11168,26 +11128,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 48",
       "createdTime": "2026-01-29T20:46:04.403Z",
       "modifiedTime": "2026-01-29T20:46:04.413Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-46-cinza-13fydmw10c5q0b9fm-edvolubwwzximpz",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "13FyDmW10c5Q0b9fm-edvOluBWwzxImpz",
-      "fileName": "20251215_185141.jpg",
-      "driveUrl": "https://drive.google.com/file/d/13FyDmW10c5Q0b9fm-edvOluBWwzxImpz/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=13FyDmW10c5Q0b9fm-edvOluBWwzxImpz&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 46",
-      "createdTime": "2026-01-29T20:45:45.264Z",
-      "modifiedTime": "2026-01-29T20:45:45.276Z"
     },
     {
       "id": "short-bermuda-a-identificar-46-cinza-1hdsf9syik6lqtzwfvrgszh46swv8zjgu",
