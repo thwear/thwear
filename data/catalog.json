@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-06-29T14:43:19.007Z",
+    "syncedAt": "2026-06-29T17:29:27.773Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -10330,26 +10330,6 @@
       "modifiedTime": "2026-01-31T02:33:16.048Z"
     },
     {
-      "id": "camisa-premium-premium-p-cinza-1iftrqzgkkx19hrnma8ek5tpizmgr45st",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "P",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1IftRqzGKKx19HrnMA8ek5tPizmGR45ST",
-      "fileName": "20260130_174427.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1IftRqzGKKx19HrnMA8ek5tPizmGR45ST/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1IftRqzGKKx19HrnMA8ek5tPizmGR45ST&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
-      "createdTime": "2026-01-31T02:33:16.007Z",
-      "modifiedTime": "2026-01-31T02:33:16.022Z"
-    },
-    {
       "id": "camisa-premium-premium-p-verde-1yukeqoyfhaap-nuivezh9zo-old8kg",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -10368,26 +10348,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-01-31T02:33:15.942Z",
       "modifiedTime": "2026-01-31T02:33:15.992Z"
-    },
-    {
-      "id": "camisa-premium-premium-p-cinza-19aswxxg7xd-izhm5hivuqhgfbjtk1mk1",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "P",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "19ASWxxG7Xd_izhm5HIvUqHgfbjTk1Mk1",
-      "fileName": "20260130_174831.jpg",
-      "driveUrl": "https://drive.google.com/file/d/19ASWxxG7Xd_izhm5HIvUqHgfbjTk1Mk1/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=19ASWxxG7Xd_izhm5HIvUqHgfbjTk1Mk1&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
-      "createdTime": "2026-01-31T02:33:15.907Z",
-      "modifiedTime": "2026-01-31T02:33:15.927Z"
     },
     {
       "id": "camisa-polo-a-identificar-xxl-preto-1e5w1wansjtt-ztzduwlvbe3radcjhbpe",
