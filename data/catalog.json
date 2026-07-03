@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-03T17:15:03.644Z",
+    "syncedAt": "2026-07-03T19:03:46.550Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,26 +49,6 @@
     }
   ],
   "products": [
-    {
-      "id": "camisa-premium-premium-m-cinza-1emvicgags6z-sobc0wbfiopri3q3q3nv",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1emVIcGAGs6z-sobC0WbfiOPRi3q3Q3Nv",
-      "fileName": "20251112_180519.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1emVIcGAGs6z-sobC0WbfiOPRi3q3Q3Nv/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1emVIcGAGs6z-sobC0WbfiOPRi3q3Q3Nv&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
-      "createdTime": "2026-07-03T16:46:16.211Z",
-      "modifiedTime": "2026-07-03T16:46:16.236Z"
-    },
     {
       "id": "short-bermuda-a-identificar-g-cinza-16ky-oyzn8iyn-to4zdmngeypdv7pbjm",
       "title": "Short / Bermuda",
