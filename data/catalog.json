@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-03T19:03:46.550Z",
+    "syncedAt": "2026-07-03T20:54:16.902Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1948,26 +1948,6 @@
       "folderPath": "CAMISAS POLO  / POLO G",
       "createdTime": "2026-06-19T14:14:21.870Z",
       "modifiedTime": "2026-06-19T14:14:21.885Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-p-preto-13rs-2dpsxbjiazz167fjorbvysmpnbkb",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "P",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "13RS_2dpSXbjiAzZ167FjorBvYSmpNbKb",
-      "fileName": "20260129_170931.jpg",
-      "driveUrl": "https://drive.google.com/file/d/13RS_2dpSXbjiAzZ167FjorBvYSmpNbKb/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=13RS_2dpSXbjiAzZ167FjorBvYSmpNbKb&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO P",
-      "createdTime": "2026-06-18T17:31:33.097Z",
-      "modifiedTime": "2026-06-18T17:31:33.116Z"
     },
     {
       "id": "perfume-a-identificar-unico-cinza-1qqtz7wdm22-6qll2wil7xn01-xqguxqy",
