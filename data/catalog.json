@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-05T06:32:07.043Z",
+    "syncedAt": "2026-07-05T09:35:43.623Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3050,13 +3050,13 @@
       "modifiedTime": "2026-06-16T02:03:55.494Z"
     },
     {
-      "id": "short-bermuda-a-identificar-g-cinza-1fvmz1tox9aac35zydrenr-lpm0iowkhb",
+      "id": "short-bermuda-a-identificar-g-cor-a-identificar-1fvmz1tox9aac35zydrenr-lpm0iowkhb",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 85,
       "status": "available",
       "confidence": "path",
