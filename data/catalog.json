@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-06T18:51:31.093Z",
+    "syncedAt": "2026-07-06T20:48:05.890Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,46 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-feminina-farm-m-bege-1ee0kc5scmevapwhdnbpbfbxi1-m-4qvf",
+      "title": "Camisa feminina Farm",
+      "category": "Camisa feminina",
+      "brand": "Farm",
+      "size": "M",
+      "color": "Bege",
+      "colorSource": "imagem",
+      "price": 79.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1EE0kC5ScmEVapwhdNbPbFbXI1-m_4qVf",
+      "fileName": "IMG-20260331-WA0165.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1EE0kC5ScmEVapwhdNbPbFbXI1-m_4qVf/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1EE0kC5ScmEVapwhdNbPbFbXI1-m_4qVf&sz=w900",
+      "folderName": "CAMISA FEMINA FARM",
+      "folderPath": "CAMISA FEMINA FARM / FARM M",
+      "createdTime": "2026-07-06T19:00:16.247Z",
+      "modifiedTime": "2026-07-06T19:00:16.261Z"
+    },
+    {
+      "id": "camisa-premium-premium-p-cinza-1xt2udw-rbtup0yg-nielazncjo1ocj39",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
+      "brand": "Premium",
+      "size": "P",
+      "color": "Cinza",
+      "colorSource": "imagem",
+      "price": 79.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1XT2uDW-rBtuP0YG-nIELAzNcjO1Ocj39",
+      "fileName": "20260130_174427.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1XT2uDW-rBtuP0YG-nIELAzNcjO1Ocj39/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1XT2uDW-rBtuP0YG-nIELAzNcjO1Ocj39&sz=w900",
+      "folderName": "CAMISAS PREMIUM ",
+      "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
+      "createdTime": "2026-07-06T18:59:26.421Z",
+      "modifiedTime": "2026-07-06T18:59:26.452Z"
+    },
     {
       "id": "camisa-polo-a-identificar-gg-vinho-1eppwtjssgldkd4m-9ki0hqx39yvffhnr",
       "title": "Camisa polo",
