@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-06T08:11:52.187Z",
+    "syncedAt": "2026-07-06T12:37:57.823Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -4808,26 +4808,6 @@
       "folderPath": "SUÉTER  / SUÉTER G",
       "createdTime": "2026-06-08T01:48:40.652Z",
       "modifiedTime": "2026-06-08T01:48:40.665Z"
-    },
-    {
-      "id": "sueter-a-identificar-g-cinza-1yyln8eqsbkwtyqvfy46v-pe-v-lfc96b",
-      "title": "Sueter",
-      "category": "Sueter",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 115,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1YYln8eqSBkwTYQVFY46V_PE-V_lFC96b",
-      "fileName": "20260605_190959.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1YYln8eqSBkwTYQVFY46V_PE-V_lFC96b/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1YYln8eqSBkwTYQVFY46V_PE-V_lFC96b&sz=w900",
-      "folderName": "SUÉTER ",
-      "folderPath": "SUÉTER  / SUÉTER G",
-      "createdTime": "2026-06-08T01:48:40.625Z",
-      "modifiedTime": "2026-06-08T01:48:40.636Z"
     },
     {
       "id": "sueter-a-identificar-g-cinza-1j93grk993p5zcls1aptkx8qbaud9we9m",
