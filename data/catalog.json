@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-08T05:13:38.799Z",
+    "syncedAt": "2026-07-08T08:09:59.943Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -7750,13 +7750,13 @@
       "modifiedTime": "2026-04-02T02:19:01.979Z"
     },
     {
-      "id": "camisa-feminina-farm-g-bege-1iw89afqejtqvq-ahsfhypv-az2gjsbts",
+      "id": "camisa-feminina-farm-g-cor-a-identificar-1iw89afqejtqvq-ahsfhypv-az2gjsbts",
       "title": "Camisa feminina Farm",
       "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
-      "color": "Bege",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
