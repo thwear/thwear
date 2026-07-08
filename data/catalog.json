@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-08T12:15:37.066Z",
+    "syncedAt": "2026-07-08T15:11:10.392Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -948,26 +948,6 @@
       "folderPath": "CALÇAS DE SARJA  / CALÇAS 40",
       "createdTime": "2026-06-26T16:14:19.543Z",
       "modifiedTime": "2026-06-26T16:14:19.554Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-46-preto-16lw2z66zjqup14m4lvfpn0itn0sabxuo",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "16LW2z66zjQuP14m4LVFPn0itn0SabXuo",
-      "fileName": "20260610_184839.jpg",
-      "driveUrl": "https://drive.google.com/file/d/16LW2z66zjQuP14m4LVFPn0itn0SabXuo/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=16LW2z66zjQuP14m4LVFPn0itn0SabXuo&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 46",
-      "createdTime": "2026-06-26T16:14:05.301Z",
-      "modifiedTime": "2026-06-26T16:14:05.330Z"
     },
     {
       "id": "calca-jeans-a-identificar-46-cinza-179ff-5jxi-txcm-vgnq0m232co3w2g3s",
