@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-08T19:09:42.537Z",
+    "syncedAt": "2026-07-08T20:58:24.140Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -6010,13 +6010,13 @@
       "modifiedTime": "2026-05-18T10:15:25.403Z"
     },
     {
-      "id": "camisa-premium-premium-p-vinho-1-xjoh262jgwtriiahxzkr2-rsthjeptj",
+      "id": "camisa-premium-premium-p-cor-a-identificar-1-xjoh262jgwtriiahxzkr2-rsthjeptj",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
-      "color": "Vinho",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
@@ -6188,26 +6188,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 46",
       "createdTime": "2026-05-07T02:41:09.542Z",
       "modifiedTime": "2026-05-07T02:41:09.562Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-42-cinza-1hvqcx2koe-9fsalwnyjhsnvjvgl-0s17",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1hvqCX2KoE-9FsAlwnYJhsnvjVgl_0S17",
-      "fileName": "20260506_170243.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1hvqCX2KoE-9FsAlwnYJhsnvjVgl_0S17/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1hvqCX2KoE-9FsAlwnYJhsnvjVgl_0S17&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 42",
-      "createdTime": "2026-05-07T02:40:47.388Z",
-      "modifiedTime": "2026-05-07T02:40:47.396Z"
     },
     {
       "id": "short-bermuda-a-identificar-42-vermelho-1solhydtpfv92zl7zwaggecjc3qxarcja",
@@ -7308,26 +7288,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-04-05T21:55:15.025Z",
       "modifiedTime": "2026-04-05T21:55:15.036Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-preto-1vcdd7-ur-isjlhvfzpfata0piwr2xndm",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1VcdD7_Ur-IsJlHvFZPfaTa0PIwr2xndM",
-      "fileName": "20260401_175208.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1VcdD7_Ur-IsJlHvFZPfaTa0PIwr2xndM/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1VcdD7_Ur-IsJlHvFZPfaTa0PIwr2xndM&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-04-05T21:55:14.988Z",
-      "modifiedTime": "2026-04-05T21:55:15.011Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-preto-1wumn3bdlsdzn8n1dlfwx4ikkdfnjzhmy",
