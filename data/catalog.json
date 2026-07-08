@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-08T15:11:10.392Z",
+    "syncedAt": "2026-07-08T17:20:52.280Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1108,26 +1108,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-06-22T12:37:07.822Z",
       "modifiedTime": "2026-06-22T12:37:07.839Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-gg-vinho-1z5c-iragi5axnna5cdxumxtdtvhqzi8d",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Z5c-IRaGi5axNnA5cDXumxTDTvHqzi8d",
-      "fileName": "20260129_171156.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Z5c-IRaGi5axNnA5cDXumxTDTvHqzi8d/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Z5c-IRaGi5axNnA5cDXumxTDTvHqzi8d&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-06-20T16:13:38.646Z",
-      "modifiedTime": "2026-06-20T16:13:38.671Z"
     },
     {
       "id": "short-bermuda-a-identificar-38-preto-118hrpo69usn5los9l1u4vxjpt-b4wtpr",
@@ -11968,26 +11948,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
       "createdTime": "2025-10-22T02:25:53.149Z",
       "modifiedTime": "2025-10-22T02:25:53.157Z"
-    },
-    {
-      "id": "camisa-premium-premium-gg-preto-1wqpjhiajt2su5o752qtav-ds8-cowl4",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1WqpJhiAJt2sU5O752qtaV_Ds8-cOWL4_",
-      "fileName": "IMG-20251021-WA0284.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1WqpJhiAJt2sU5O752qtaV_Ds8-cOWL4_/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1WqpJhiAJt2sU5O752qtaV_Ds8-cOWL4_&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2025-10-22T02:25:40.051Z",
-      "modifiedTime": "2025-10-22T02:25:40.077Z"
     },
     {
       "id": "camisa-premium-premium-gg-cinza-1w1oogtlevyydpoq-xmc4m6vtqk-j3p60",
