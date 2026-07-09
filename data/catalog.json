@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-09T14:33:39.161Z",
+    "syncedAt": "2026-07-09T17:13:09.200Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3588,26 +3588,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 40",
       "createdTime": "2026-06-10T22:54:15.869Z",
       "modifiedTime": "2026-06-10T22:54:15.880Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-38-cinza-1gna7etvnlxwxrpga2wdnfyfz6ismih5b",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1GnA7eTvnlxWxrPGA2wdnFYFZ6ISMIh5b",
-      "fileName": "20260610_183032.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1GnA7eTvnlxWxrPGA2wdnFYFZ6ISMIh5b/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1GnA7eTvnlxWxrPGA2wdnFYFZ6ISMIh5b&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 38",
-      "createdTime": "2026-06-10T22:54:05.513Z",
-      "modifiedTime": "2026-06-10T22:54:05.527Z"
     },
     {
       "id": "calca-jeans-a-identificar-38-preto-1-u0dvywemwch1l8e4uod6euhexeoxcqs",
