@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-09T17:13:09.200Z",
+    "syncedAt": "2026-07-09T19:24:11.409Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1188,26 +1188,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 38",
       "createdTime": "2026-06-20T12:18:58.492Z",
       "modifiedTime": "2026-06-20T12:18:58.499Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-38-cinza-1hy-hreuvwpnqx15yuvjm-tppbbubgo2z",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1hY-HreuVwpnQX15YUVjm_tPpbBubGO2Z",
-      "fileName": "IMG-20260620-WA0010.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1hY-HreuVwpnQX15YUVjm_tPpbBubGO2Z/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1hY-HreuVwpnQX15YUVjm_tPpbBubGO2Z&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 38",
-      "createdTime": "2026-06-20T12:18:58.463Z",
-      "modifiedTime": "2026-06-20T12:18:58.468Z"
     },
     {
       "id": "short-bermuda-a-identificar-38-cinza-17rdkvxftefytnhcsyjwizaegsxpgwoa0",
@@ -3328,26 +3308,6 @@
       "folderPath": "SHORT DE SARJA / SHORT P",
       "createdTime": "2026-06-16T02:03:23.135Z",
       "modifiedTime": "2026-06-16T02:03:23.172Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-p-azul-11aolyujnldvhekr5kqrdwtlvjgjc1-ob",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "P",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "11aOLyuJnlDVheKr5kqrdwTLvJGjc1_ob",
-      "fileName": "IMG-20260615-WA0297.jpg",
-      "driveUrl": "https://drive.google.com/file/d/11aOLyuJnlDVheKr5kqrdwTLvJGjc1_ob/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=11aOLyuJnlDVheKr5kqrdwTLvJGjc1_ob&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT P",
-      "createdTime": "2026-06-16T02:03:23.096Z",
-      "modifiedTime": "2026-06-16T02:03:23.113Z"
     },
     {
       "id": "camisa-polo-a-identificar-gg-cinza-1xhe2uzpd7wguwrstceeccusskybpoqiu",
@@ -8410,26 +8370,6 @@
       "modifiedTime": "2026-03-18T09:50:55.718Z"
     },
     {
-      "id": "short-bermuda-a-identificar-m-cinza-12mukd9ngx5zizwr-xc4fgqr39ost9jln",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "12mUkd9Ngx5zizWR_xc4fgQr39Ost9jlN",
-      "fileName": "20260317_171342.jpg",
-      "driveUrl": "https://drive.google.com/file/d/12mUkd9Ngx5zizWR_xc4fgQr39Ost9jlN/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=12mUkd9Ngx5zizWR_xc4fgQr39Ost9jlN&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT M",
-      "createdTime": "2026-03-18T09:50:55.666Z",
-      "modifiedTime": "2026-03-18T09:50:55.679Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-m-cinza-1gorvzkuznpcr8f0j8kowc8gd6orxnzmg",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -8448,26 +8388,6 @@
       "folderPath": "SHORT DE SARJA / SHORT M",
       "createdTime": "2026-03-18T09:50:55.586Z",
       "modifiedTime": "2026-03-18T09:50:55.600Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-m-cinza-1yv-gol8jaw9hlz68wamhqoxaihlnxihg",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1yv-gOl8jaw9hlZ68WAMhQoXAIhlnXIhG",
-      "fileName": "20260317_172237.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1yv-gOl8jaw9hlZ68WAMhQoXAIhlnXIhG/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1yv-gOl8jaw9hlZ68WAMhQoXAIhlnXIhG&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT M",
-      "createdTime": "2026-03-18T09:50:55.522Z",
-      "modifiedTime": "2026-03-18T09:50:55.558Z"
     },
     {
       "id": "short-bermuda-a-identificar-gg-vinho-1waikqszh-yyxib-beyo67hb-by1tciyo",
