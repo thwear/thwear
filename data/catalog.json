@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-10T18:18:08.371Z",
+    "syncedAt": "2026-07-10T20:15:36.565Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -2590,26 +2590,6 @@
       "modifiedTime": "2026-06-18T17:25:22.342Z"
     },
     {
-      "id": "perfume-a-identificar-unico-bege-1-e0bfiuhyqz2cxuppiwsbvnqk2dpkuzr",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Bege",
-      "colorSource": "imagem",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1_e0BFiUHYQZ2CXuPpiwsBVNQk2dPKuzR",
-      "fileName": "ONE MILLION.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1_e0BFiUHYQZ2CXuPpiwsBVNQk2dPKuzR/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1_e0BFiUHYQZ2CXuPpiwsBVNQk2dPKuzR&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / FRANCESES (DESIGNER)",
-      "createdTime": "2026-06-18T16:34:54.710Z",
-      "modifiedTime": "2026-06-18T17:23:35.929Z"
-    },
-    {
       "id": "perfume-a-identificar-unico-azul-1uc8lreaxjdutiwdtvdfu5glktatugdo1",
       "title": "Perfume",
       "category": "Perfume",
@@ -2648,26 +2628,6 @@
       "folderPath": "PERFUMES ORIGINAIS  / FRANCESES (DESIGNER)",
       "createdTime": "2026-06-18T16:34:54.670Z",
       "modifiedTime": "2026-06-18T17:21:32.409Z"
-    },
-    {
-      "id": "perfume-a-identificar-unico-preto-16q6elnijqapt5ebqfgiu9sg7ais8evsi",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "16Q6elnijqApT5ebQfgiU9Sg7Ais8EVsi",
-      "fileName": "MONT BLANC LEGEND.jpg",
-      "driveUrl": "https://drive.google.com/file/d/16Q6elnijqApT5ebQfgiU9Sg7Ais8EVsi/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=16Q6elnijqApT5ebQfgiU9Sg7Ais8EVsi&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / FRANCESES (DESIGNER)",
-      "createdTime": "2026-06-18T16:34:54.645Z",
-      "modifiedTime": "2026-06-18T17:20:51.791Z"
     },
     {
       "id": "perfume-a-identificar-unico-amarelo-1wxt3vtypzng4ck0nyf37fvgjzxaon8cs",
@@ -5470,26 +5430,6 @@
       "modifiedTime": "2026-06-02T21:35:26.243Z"
     },
     {
-      "id": "perfume-a-identificar-unico-laranja-1epbdza4lzynrevp6yp8ocbizw54fbfp",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Laranja",
-      "colorSource": "imagem",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1EpbDzA4LzYnREvP6YP8OcbIZW54fbfp_",
-      "fileName": "ODYSSEY AOUD.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1EpbDzA4LzYnREvP6YP8OcbIZW54fbfp_/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1EpbDzA4LzYnREvP6YP8OcbIZW54fbfp_&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
-      "createdTime": "2026-05-27T19:21:38.792Z",
-      "modifiedTime": "2026-06-02T21:35:52.424Z"
-    },
-    {
       "id": "perfume-a-identificar-unico-amarelo-1ubdvro7-x55yrzr3ntzep-zvc1ixhhtu",
       "title": "Perfume",
       "category": "Perfume",
@@ -5868,26 +5808,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
       "createdTime": "2026-05-21T10:33:22.922Z",
       "modifiedTime": "2026-05-21T10:33:22.929Z"
-    },
-    {
-      "id": "perfume-a-identificar-unico-branco-1jfgg-istfkammpfmh6ms3ccoqganw6di",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Branco",
-      "colorSource": "texto",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1jfGG-iSTfKAmMPfmH6mS3CcoQGaNw6Di",
-      "fileName": "Armaf WHITE GOLD .jpg",
-      "driveUrl": "https://drive.google.com/file/d/1jfGG-iSTfKAmMPfmH6mS3CcoQGaNw6Di/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1jfGG-iSTfKAmMPfmH6mS3CcoQGaNw6Di&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
-      "createdTime": "2026-05-20T21:08:53.541Z",
-      "modifiedTime": "2026-05-27T19:00:24.936Z"
     },
     {
       "id": "perfume-a-identificar-unico-azul-1cmyrsi0oxunzv2q2q3mn9tlnk9eykrin",
