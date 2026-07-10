@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-10T16:15:48.352Z",
+    "syncedAt": "2026-07-10T18:18:08.371Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -788,26 +788,6 @@
       "folderPath": "CAMISAS POLO  / POLO GG",
       "createdTime": "2026-07-06T14:09:55.239Z",
       "modifiedTime": "2026-07-06T14:09:55.259Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-g-cinza-16ky-oyzn8iyn-to4zdmngeypdv7pbjm",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "16ky_OYZN8IYn-_TO4zDmNGEyPDv7pbJm",
-      "fileName": "20251117_183207.jpg",
-      "driveUrl": "https://drive.google.com/file/d/16ky_OYZN8IYn-_TO4zDmNGEyPDv7pbJm/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=16ky_OYZN8IYn-_TO4zDmNGEyPDv7pbJm&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT G",
-      "createdTime": "2026-07-03T16:09:58.676Z",
-      "modifiedTime": "2026-07-03T16:09:58.690Z"
     },
     {
       "id": "camisa-premium-premium-gg-preto-1lcmlvblklptyts6q5etw7ardslx4nqhh",
@@ -3610,26 +3590,6 @@
       "modifiedTime": "2026-06-16T02:03:55.552Z"
     },
     {
-      "id": "short-bermuda-a-identificar-g-bege-16kyzzgejfs-llc7egd8vflivpfnrpvjg",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Bege",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "16KyZZGejfs_lLc7EgD8VflIVPFnrPVJg",
-      "fileName": "IMG-20260615-WA0294.jpg",
-      "driveUrl": "https://drive.google.com/file/d/16KyZZGejfs_lLc7EgD8VflIVPFnrPVJg/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=16KyZZGejfs_lLc7EgD8VflIVPFnrPVJg&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT G",
-      "createdTime": "2026-06-16T02:03:55.511Z",
-      "modifiedTime": "2026-06-16T02:03:55.521Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-g-preto-1dpfftmimmskgtgkus3z6wbyht20t2nll",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -5250,26 +5210,6 @@
       "modifiedTime": "2026-06-08T01:48:19.248Z"
     },
     {
-      "id": "camisa-premium-premium-gg-cinza-1olgcue4nts3eeij65l2gna9caczo1jib",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1oLGcUE4NTs3eEIj65l2gnA9CacZo1JIb",
-      "fileName": "20260529_171117.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1oLGcUE4NTs3eEIj65l2gnA9CacZo1JIb/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1oLGcUE4NTs3eEIj65l2gnA9CacZo1JIb&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-06-01T01:08:32.285Z",
-      "modifiedTime": "2026-06-01T01:08:32.294Z"
-    },
-    {
       "id": "camisa-premium-premium-gg-cinza-1ej1q9zm3nulaivxd8fa6woe-gvjbyqgr",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -6388,26 +6328,6 @@
       "folderPath": "SHORT DE SARJA / SHORT GG",
       "createdTime": "2026-05-06T20:35:38.995Z",
       "modifiedTime": "2026-05-06T20:35:39.009Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-gg-preto-12qzsqqu3l-xjfargu19efyhjxeusulwr",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "12QZsQQu3L_xjfarGU19efyHJxeusUlwR",
-      "fileName": "20260506_171925.jpg",
-      "driveUrl": "https://drive.google.com/file/d/12QZsQQu3L_xjfarGU19efyHJxeusUlwR/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=12QZsQQu3L_xjfarGU19efyHJxeusUlwR&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT GG",
-      "createdTime": "2026-05-06T20:35:38.943Z",
-      "modifiedTime": "2026-05-06T20:35:38.980Z"
     },
     {
       "id": "perfume-a-identificar-unico-amarelo-1cte-ndzhr7xd8oldg9l70nwsy4fisls9",
