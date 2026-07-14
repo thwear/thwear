@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-14T17:04:21.672Z",
+    "syncedAt": "2026-07-14T19:04:18.432Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -4008,26 +4008,6 @@
       "folderPath": "CALÇAS DE SARJA  / CALÇAS 40",
       "createdTime": "2026-06-17T10:35:01.290Z",
       "modifiedTime": "2026-06-17T10:35:01.297Z"
-    },
-    {
-      "id": "calca-sarja-a-identificar-40-preto-1ydk1hkddbb9fkwwhonpjv9kmuerm7k8m",
-      "title": "Calca sarja",
-      "category": "Calca sarja",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 119.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1ydK1HKddBB9fkwWhONPJV9kMuERm7K8M",
-      "fileName": "PhotoGrid_Site_1781690865339.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1ydK1HKddBB9fkwWhONPJV9kMuERm7K8M/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1ydK1HKddBB9fkwWhONPJV9kMuERm7K8M&sz=w900",
-      "folderName": "CALÇAS DE SARJA ",
-      "folderPath": "CALÇAS DE SARJA  / CALÇAS 40",
-      "createdTime": "2026-06-17T10:35:01.273Z",
-      "modifiedTime": "2026-06-17T10:35:01.279Z"
     },
     {
       "id": "calca-sarja-a-identificar-40-cinza-1l5l443qxrbmrupecwxgazfo2khmjdfkt",
