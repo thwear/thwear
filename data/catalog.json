@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-14T11:19:18.042Z",
+    "syncedAt": "2026-07-14T13:11:31.723Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -4830,26 +4830,6 @@
       "modifiedTime": "2026-06-10T22:54:15.903Z"
     },
     {
-      "id": "calca-jeans-a-identificar-38-preto-1-u0dvywemwch1l8e4uod6euhexeoxcqs",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1_U0DvYwEmwch1l8e4uod6EUheXEoXcQS",
-      "fileName": "20260610_184506.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1_U0DvYwEmwch1l8e4uod6EUheXEoXcQS/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1_U0DvYwEmwch1l8e4uod6EUheXEoXcQS&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 38",
-      "createdTime": "2026-06-10T22:54:05.402Z",
-      "modifiedTime": "2026-06-10T22:54:05.415Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-gg-preto-1uqx2jirucj9vtghussadd4cgysec7vhi",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -8248,26 +8228,6 @@
       "folderPath": "CAMISA FEMINA FARM / FARM M",
       "createdTime": "2026-04-02T02:19:02.050Z",
       "modifiedTime": "2026-04-02T02:19:02.057Z"
-    },
-    {
-      "id": "camisa-feminina-farm-m-laranja-1la-cqvtx-n8wwbgp8-utcv633mjrirqy",
-      "title": "Camisa feminina Farm",
-      "category": "Camisa feminina",
-      "brand": "Farm",
-      "size": "M",
-      "color": "Laranja",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1lA-CQVtX_n8WWBgP8-utCV633MJrIRQy",
-      "fileName": "IMG-20260327-WA0031.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1lA-CQVtX_n8WWBgP8-utCV633MJrIRQy/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1lA-CQVtX_n8WWBgP8-utCV633MJrIRQy&sz=w900",
-      "folderName": "CAMISA FEMINA FARM",
-      "folderPath": "CAMISA FEMINA FARM / FARM M",
-      "createdTime": "2026-04-02T02:19:02.032Z",
-      "modifiedTime": "2026-04-02T02:19:02.038Z"
     },
     {
       "id": "camisa-feminina-farm-m-laranja-1weeuhjlwww6tmrdg3c8j8kpofbuoloeh",
