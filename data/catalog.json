@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-15T17:07:11.403Z",
+    "syncedAt": "2026-07-15T18:56:39.845Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1328,26 +1328,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-07-15T00:59:50.785Z",
       "modifiedTime": "2026-07-15T00:59:50.804Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-gg-vinho-1pwidjl0aun0hxsk2ehu1l7hdaxlwfn2b",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1pwIdjL0aUn0hxSK2ehu1l7HdaxlWFn2B",
-      "fileName": "20260129_171156.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1pwIdjL0aUn0hxSK2ehu1l7HdaxlWFn2B/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1pwIdjL0aUn0hxSK2ehu1l7HdaxlWFn2B&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-07-14T14:19:19.934Z",
-      "modifiedTime": "2026-07-14T14:19:19.955Z"
     },
     {
       "id": "calca-jeans-a-identificar-48-preto-17rhuhezgx-mskcg-zphd3dzbrgq-evk",
@@ -2888,26 +2868,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-07-06T18:59:26.421Z",
       "modifiedTime": "2026-07-06T18:59:26.452Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-gg-vinho-1eppwtjssgldkd4m-9ki0hqx39yvffhnr",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1EpPWtjSSgldkD4m_9kI0hQX39yvFFhnr",
-      "fileName": "20260311_165511.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1EpPWtjSSgldkD4m_9kI0hQX39yvFFhnr/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1EpPWtjSSgldkD4m_9kI0hQX39yvFFhnr&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-07-06T14:09:55.281Z",
-      "modifiedTime": "2026-07-06T14:09:55.327Z"
     },
     {
       "id": "camisa-premium-premium-gg-preto-1lcmlvblklptyts6q5etw7ardslx4nqhh",
