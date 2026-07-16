@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-16T15:27:28.244Z",
+    "syncedAt": "2026-07-16T17:04:40.622Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -6650,26 +6650,6 @@
       "modifiedTime": "2026-06-08T01:48:52.809Z"
     },
     {
-      "id": "sueter-a-identificar-gg-cinza-12lz-hsermvgd7j-3kol5u6zstiygvy8w",
-      "title": "Sueter",
-      "category": "Sueter",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 115,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "12lz_hSErmVgD7j-3kOL5U6ZSTiyGVY8w",
-      "fileName": "20260605_191211.jpg",
-      "driveUrl": "https://drive.google.com/file/d/12lz_hSErmVgD7j-3kOL5U6ZSTiyGVY8w/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=12lz_hSErmVgD7j-3kOL5U6ZSTiyGVY8w&sz=w900",
-      "folderName": "SUÉTER ",
-      "folderPath": "SUÉTER  / SUÉTER GG",
-      "createdTime": "2026-06-08T01:48:52.711Z",
-      "modifiedTime": "2026-06-08T01:48:52.723Z"
-    },
-    {
       "id": "sueter-a-identificar-gg-preto-1dqfl7jh3ynxxpkkmqtoraenk1g6e3uau",
       "title": "Sueter",
       "category": "Sueter",
@@ -6768,26 +6748,6 @@
       "folderPath": "SUÉTER  / SUÉTER G",
       "createdTime": "2026-06-08T01:48:40.652Z",
       "modifiedTime": "2026-06-08T01:48:40.665Z"
-    },
-    {
-      "id": "sueter-a-identificar-g-cinza-1j93grk993p5zcls1aptkx8qbaud9we9m",
-      "title": "Sueter",
-      "category": "Sueter",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 115,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1J93grK993p5ZCLS1APtkx8qbAuD9WE9M",
-      "fileName": "20260605_191211.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1J93grK993p5ZCLS1APtkx8qbAuD9WE9M/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1J93grK993p5ZCLS1APtkx8qbAuD9WE9M&sz=w900",
-      "folderName": "SUÉTER ",
-      "folderPath": "SUÉTER  / SUÉTER G",
-      "createdTime": "2026-06-08T01:48:40.601Z",
-      "modifiedTime": "2026-06-08T01:48:40.612Z"
     },
     {
       "id": "sueter-a-identificar-g-preto-1f1ap6apjb1sp-pw7mhv9-kanwuxl1lnh",
