@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-16T13:22:56.658Z",
+    "syncedAt": "2026-07-16T15:27:28.244Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -4188,26 +4188,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 44",
       "createdTime": "2026-06-20T12:18:39.915Z",
       "modifiedTime": "2026-06-20T12:18:39.921Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-44-cinza-1iwxw2z7545zxw13xde9poj4gamkeponq",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1IwXW2Z7545zxW13XdE9POj4gaMKePONQ",
-      "fileName": "IMG-20260620-WA0008.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1IwXW2Z7545zxW13XdE9POj4gaMKePONQ/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1IwXW2Z7545zxW13XdE9POj4gaMKePONQ&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 44",
-      "createdTime": "2026-06-20T12:18:39.896Z",
-      "modifiedTime": "2026-06-20T12:18:39.902Z"
     },
     {
       "id": "short-bermuda-a-identificar-44-preto-1k3qbw0npudupidmw25fbm-dt-bciywgp",
