@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-17T18:54:29.913Z",
+    "syncedAt": "2026-07-17T19:59:42.097Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -108,26 +108,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 44",
       "createdTime": "2026-07-16T17:31:00.623Z",
       "modifiedTime": "2026-07-16T17:31:00.648Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-42-cinza-11n69d9nodzk-cwtkwbjvtjwluw35me36",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "11N69d9noDZK-cWTKwBJVtjwLuW35me36",
-      "fileName": "20260610_183032.jpg",
-      "driveUrl": "https://drive.google.com/file/d/11N69d9noDZK-cWTKwBJVtjwLuW35me36/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=11N69d9noDZK-cWTKwBJVtjwLuW35me36&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 42",
-      "createdTime": "2026-07-16T17:28:18.005Z",
-      "modifiedTime": "2026-07-16T17:28:18.027Z"
     },
     {
       "id": "sueter-a-identificar-gg-cinza-1lrsdgpfkboi7dnu8et3knjkl60ncbjvu",
@@ -3908,26 +3888,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 38",
       "createdTime": "2026-06-20T12:18:58.553Z",
       "modifiedTime": "2026-06-20T12:18:58.560Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-38-cinza-1kmnyzxhyyock-i-dyp71ubpplzpaqd7",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1KMNyZxHyYocK-i-_dYP71UBpPlzpaqD7",
-      "fileName": "IMG-20260620-WA0008.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1KMNyZxHyYocK-i-_dYP71UBpPlzpaqD7/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1KMNyZxHyYocK-i-_dYP71UBpPlzpaqD7&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 38",
-      "createdTime": "2026-06-20T12:18:58.533Z",
-      "modifiedTime": "2026-06-20T12:18:58.540Z"
     },
     {
       "id": "short-bermuda-a-identificar-38-preto-1t1t3cuh7pm-clrfek3q-z1bsr5gw4v6h",
