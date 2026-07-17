@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-17T15:06:47.242Z",
+    "syncedAt": "2026-07-17T17:02:00.072Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -50,6 +50,26 @@
   ],
   "products": [
     {
+      "id": "calca-jeans-a-identificar-40-preto-1i6-lzrribbzumkc8hdkr-dsuwdz0cmbw",
+      "title": "Calca jeans",
+      "category": "Calca jeans",
+      "brand": "A identificar",
+      "size": "40",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1I6-LzrRIBbZuMKC8hdKr-DsUwDZ0cMBW",
+      "fileName": "20260610_183738.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1I6-LzrRIBbZuMKC8hdKr-DsUwDZ0cMBW/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1I6-LzrRIBbZuMKC8hdKr-DsUwDZ0cMBW&sz=w900",
+      "folderName": "CALÇAS JEANS ",
+      "folderPath": "CALÇAS JEANS  / CALÇAS 40",
+      "createdTime": "2026-07-17T16:33:20.048Z",
+      "modifiedTime": "2026-07-17T16:33:20.074Z"
+    },
+    {
       "id": "calca-jeans-a-identificar-46-preto-1uxxfzcytutm7fbpem48yzrcd425ng4pc",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -68,26 +88,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 46",
       "createdTime": "2026-07-16T17:33:47.397Z",
       "modifiedTime": "2026-07-16T17:33:47.415Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-40-cinza-1xvmyqo4ycmr7e4zerplahzy1vzqtz1cl",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1xvmyqO4YcmR7E4ZeRpLahZy1vZQTz1Cl",
-      "fileName": "20260610_183032.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1xvmyqO4YcmR7E4ZeRpLahZy1vZQTz1Cl/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1xvmyqO4YcmR7E4ZeRpLahZy1vZQTz1Cl&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 40",
-      "createdTime": "2026-07-16T17:33:11.165Z",
-      "modifiedTime": "2026-07-16T17:33:11.189Z"
     },
     {
       "id": "calca-jeans-a-identificar-44-preto-1lljmxkd4hfyfwvfzosz29fgrw1flhusk",
