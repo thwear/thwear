@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-20T17:26:50.731Z",
+    "syncedAt": "2026-07-20T19:26:33.205Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "calca-alfaiataria-a-identificar-38-preto-18wvupa-ls0rrojjxkt4z5ac8oyyz-lka",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
+      "brand": "A identificar",
+      "size": "38",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "18wvUpA-LS0rrOJJxkt4Z5Ac8oyyZ_lKA",
+      "fileName": "PhotoGrid_Plus_1765473384164.jpg",
+      "driveUrl": "https://drive.google.com/file/d/18wvUpA-LS0rrOJJxkt4Z5Ac8oyyZ_lKA/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=18wvUpA-LS0rrOJJxkt4Z5Ac8oyyZ_lKA&sz=w900",
+      "folderName": "CALÇAS DE ALFAIATARIA ",
+      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 38",
+      "createdTime": "2026-07-20T18:55:10.421Z",
+      "modifiedTime": "2026-07-20T18:55:10.443Z"
+    },
     {
       "id": "camisa-premium-premium-gg-azul-18yw8c9jjg0ku9b2rc13fekktsuw2gmdc",
       "title": "Camisa premium",
