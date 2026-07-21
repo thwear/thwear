@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-20T23:49:32.219Z",
+    "syncedAt": "2026-07-21T01:49:45.680Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5150,13 +5150,13 @@
       "modifiedTime": "2026-06-20T12:18:46.307Z"
     },
     {
-      "id": "short-bermuda-a-identificar-42-cor-a-identificar-1frzudawzdwouiedb7crbkkesgtumigyz",
+      "id": "short-bermuda-a-identificar-42-cinza-1frzudawzdwouiedb7crbkkesgtumigyz",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "42",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
@@ -7610,13 +7610,13 @@
       "modifiedTime": "2026-06-09T07:29:11.744Z"
     },
     {
-      "id": "sueter-a-identificar-gg-cor-a-identificar-1a-xql586tkixvy7u6rtadogjmdfxdwgk",
+      "id": "sueter-a-identificar-gg-cinza-1a-xql586tkixvy7u6rtadogjmdfxdwgk",
       "title": "Sueter",
       "category": "Sueter",
       "brand": "A identificar",
       "size": "GG",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 115,
       "status": "available",
       "confidence": "path",
