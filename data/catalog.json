@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-21T18:11:39.156Z",
+    "syncedAt": "2026-07-21T20:15:18.203Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-premium-premium-g-vinho-1o4ylk3u1yf-4yhgfggfgqut0lpays-m",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
+      "brand": "Premium",
+      "size": "G",
+      "color": "Vinho",
+      "colorSource": "imagem",
+      "price": 79.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1o4ylK3u1YF-4yhgFgGfGquT0lPaYs_M_",
+      "fileName": "20260514_180219.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1o4ylK3u1YF-4yhgFgGfGquT0lPaYs_M_/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1o4ylK3u1YF-4yhgFgGfGquT0lPaYs_M_&sz=w900",
+      "folderName": "CAMISAS PREMIUM ",
+      "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
+      "createdTime": "2026-07-21T19:48:21.986Z",
+      "modifiedTime": "2026-07-21T19:48:22.006Z"
+    },
     {
       "id": "calca-alfaiataria-a-identificar-38-preto-18wvupa-ls0rrojjxkt4z5ac8oyyz-lka",
       "title": "Calca alfaiataria",
