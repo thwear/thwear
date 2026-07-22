@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-22T10:17:03.038Z",
+    "syncedAt": "2026-07-22T12:23:21.848Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -7330,26 +7330,6 @@
       "modifiedTime": "2026-06-10T15:32:58.637Z"
     },
     {
-      "id": "camisa-polo-a-identificar-m-preto-19mcyk6l8xug9ktfqqj519avnmeq-zmtd",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "19mcyK6l8xUG9KtFqqJ519aVnmeq-zmtd",
-      "fileName": "20260521_173445.jpg",
-      "driveUrl": "https://drive.google.com/file/d/19mcyK6l8xUG9KtFqqJ519aVnmeq-zmtd/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=19mcyK6l8xUG9KtFqqJ519aVnmeq-zmtd&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-06-10T15:32:39.194Z",
-      "modifiedTime": "2026-06-10T15:32:39.221Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-p-preto-1dgli5-jgeyysg0qjav18-ch9qhirmjj3",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -7808,26 +7788,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-06-09T07:29:11.854Z",
       "modifiedTime": "2026-06-09T07:29:11.861Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-vinho-1zexsgscslqtfzso1u-yy-x1ngnh9fk4z",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1zEXsgsCSLqtfZso1u-YY-x1nGnH9Fk4Z",
-      "fileName": "IMG-20260609-WA0008.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1zEXsgsCSLqtfZso1u-YY-x1nGnH9Fk4Z/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1zEXsgsCSLqtfZso1u-YY-x1nGnH9Fk4Z&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-06-09T07:29:11.833Z",
-      "modifiedTime": "2026-06-09T07:29:11.842Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-preto-1ay9bukubbwwyvft-acpqd9layw-nnbhf",
@@ -8648,26 +8608,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-05-24T17:57:09.457Z",
       "modifiedTime": "2026-05-24T17:57:09.469Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-preto-1rp3wwdzxklybg-mxjhlyq8ngk9m4or9c",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Rp3wWdZxKlYbG_mxJhLYQ8NgK9m4Or9C",
-      "fileName": "20260521_173642.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Rp3wWdZxKlYbG_mxJhLYQ8NgK9m4Or9C/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Rp3wWdZxKlYbG_mxJhLYQ8NgK9m4Or9C&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-05-24T17:57:09.401Z",
-      "modifiedTime": "2026-05-24T17:57:09.415Z"
     },
     {
       "id": "camisa-polo-a-identificar-p-azul-1d97uoxdr8h7ocwfk0bgwkw41vl-ltvyx",
