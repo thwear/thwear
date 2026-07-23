@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-23T20:16:59.201Z",
+    "syncedAt": "2026-07-23T21:58:04.026Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-premium-premium-g-preto-1jyggvrljn7dlvkjd-ylijst8vuvzj8-c",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
+      "brand": "Premium",
+      "size": "G",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 79.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1JyggvRljN7DLVKjd-yliJST8VUVZj8-c",
+      "fileName": "20260521_172512.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1JyggvRljN7DLVKjd-yliJST8VUVZj8-c/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1JyggvRljN7DLVKjd-yliJST8VUVZj8-c&sz=w900",
+      "folderName": "CAMISAS PREMIUM ",
+      "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
+      "createdTime": "2026-07-23T20:43:22.878Z",
+      "modifiedTime": "2026-07-23T20:43:22.897Z"
+    },
     {
       "id": "calca-jeans-a-identificar-44-preto-16ghio16lzndd2rtlby2z6p-cqxwf0dxq",
       "title": "Calca jeans",
