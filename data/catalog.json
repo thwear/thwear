@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-23T13:26:10.491Z",
+    "syncedAt": "2026-07-23T15:49:03.454Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "calca-sarja-a-identificar-38-preto-1zguh3i7ino2pjh5vkc8fhcawoq1w4pbs",
+      "title": "Calca sarja",
+      "category": "Calca sarja",
+      "brand": "A identificar",
+      "size": "38",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 119.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1ZGuH3i7ino2pjh5VkC8fHcawoq1w4pBs",
+      "fileName": "PhotoGrid_Site_1781691171466.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1ZGuH3i7ino2pjh5VkC8fHcawoq1w4pBs/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1ZGuH3i7ino2pjh5VkC8fHcawoq1w4pBs&sz=w900",
+      "folderName": "CALÇAS DE SARJA ",
+      "folderPath": "CALÇAS DE SARJA  / CALÇAS 38",
+      "createdTime": "2026-07-23T15:22:23.765Z",
+      "modifiedTime": "2026-07-23T15:22:23.782Z"
+    },
     {
       "id": "short-bermuda-a-identificar-48-cinza-1vthgca2n7ungrgikzhlbbsg4cray3zah",
       "title": "Short / Bermuda",
