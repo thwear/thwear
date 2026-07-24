@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-24T20:11:51.627Z",
+    "syncedAt": "2026-07-24T21:57:04.111Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,46 @@
     }
   ],
   "products": [
+    {
+      "id": "short-bermuda-a-identificar-42-cinza-1thattgkclvahtj84z1-la9rbj8cp8qt6",
+      "title": "Short / Bermuda",
+      "category": "Short / Bermuda",
+      "brand": "A identificar",
+      "size": "42",
+      "color": "Cinza",
+      "colorSource": "imagem",
+      "price": 99.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1thaTTgKclvaHTj84Z1-la9rBj8cp8qT6",
+      "fileName": "PhotoGrid_Plus_1765844699968.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1thaTTgKclvaHTj84Z1-la9rBj8cp8qT6/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1thaTTgKclvaHTj84Z1-la9rBj8cp8qT6&sz=w900",
+      "folderName": "BERMUDAS DE SARJA",
+      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 42",
+      "createdTime": "2026-07-24T20:12:08.214Z",
+      "modifiedTime": "2026-07-24T20:12:08.232Z"
+    },
+    {
+      "id": "short-bermuda-a-identificar-44-cinza-1uzkxxxzjqm4bb3jyf2rvxbrtv-xtxn6b",
+      "title": "Short / Bermuda",
+      "category": "Short / Bermuda",
+      "brand": "A identificar",
+      "size": "44",
+      "color": "Cinza",
+      "colorSource": "imagem",
+      "price": 99.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1UZKxxxzJQM4bb3jyF2RVXBRtv_XtxN6b",
+      "fileName": "PhotoGrid_Plus_1765844490568.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1UZKxxxzJQM4bb3jyF2RVXBRtv_XtxN6b/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1UZKxxxzJQM4bb3jyF2RVXBRtv_XtxN6b&sz=w900",
+      "folderName": "BERMUDAS DE SARJA",
+      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 44",
+      "createdTime": "2026-07-24T20:11:57.220Z",
+      "modifiedTime": "2026-07-24T20:11:57.249Z"
+    },
     {
       "id": "camisa-premium-premium-g-preto-1jyggvrljn7dlvkjd-ylijst8vuvzj8-c",
       "title": "Camisa premium",
