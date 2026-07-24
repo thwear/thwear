@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-24T18:12:14.663Z",
+    "syncedAt": "2026-07-24T20:11:51.627Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -8248,26 +8248,6 @@
       "folderPath": "SUÉTER  / SUÉTER P",
       "createdTime": "2026-06-08T01:48:19.234Z",
       "modifiedTime": "2026-06-08T01:48:19.248Z"
-    },
-    {
-      "id": "camisa-premium-premium-gg-cinza-1ej1q9zm3nulaivxd8fa6woe-gvjbyqgr",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1ej1Q9ZM3nULaiVxD8fA6WoE-GvJByqgR",
-      "fileName": "20260529_172136.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1ej1Q9ZM3nULaiVxD8fA6WoE-GvJByqgR/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1ej1Q9ZM3nULaiVxD8fA6WoE-GvJByqgR&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-06-01T01:08:32.197Z",
-      "modifiedTime": "2026-06-01T01:08:32.205Z"
     },
     {
       "id": "camisa-premium-premium-p-vinho-1jvwbeszhtpadrmjs-xydu-b5wxx-y74e",
