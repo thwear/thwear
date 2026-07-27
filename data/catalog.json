@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-27T16:09:31.086Z",
+    "syncedAt": "2026-07-27T18:18:52.019Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5510,26 +5510,6 @@
       "modifiedTime": "2026-07-10T03:26:41.534Z"
     },
     {
-      "id": "calca-alfaiataria-a-identificar-38-preto-1yen7qmy7jmnqqyfcx1bytchbpyrgozsr",
-      "title": "Calca alfaiataria",
-      "category": "Calca alfaiataria",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1YEn7qMY7jMnQQYFCx1bYTCHbPYRGOZSr",
-      "fileName": "PhotoGrid_Plus_1765473447659.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1YEn7qMY7jMnQQYFCx1bYTCHbPYRGOZSr/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1YEn7qMY7jMnQQYFCx1bYTCHbPYRGOZSr&sz=w900",
-      "folderName": "CALÇAS DE ALFAIATARIA ",
-      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 38",
-      "createdTime": "2026-07-10T03:26:41.495Z",
-      "modifiedTime": "2026-07-10T03:26:41.506Z"
-    },
-    {
       "id": "calca-alfaiataria-a-identificar-38-cinza-1jzglbsuuqpbjulvxw6pu7-zyf7cmn43",
       "title": "Calca alfaiataria",
       "category": "Calca alfaiataria",
@@ -9428,26 +9408,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-04-29T23:44:54.722Z",
       "modifiedTime": "2026-04-29T23:44:54.735Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-vinho-1q9eygjr-siah0pvhgraqwr0x7asd9hmk",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1q9eyGJr-SIah0PVhgRaqwR0X7asD9hMk",
-      "fileName": "20260429_180639.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1q9eyGJr-SIah0PVhgRaqwR0X7asD9hMk/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1q9eyGJr-SIah0PVhgRaqwR0X7asD9hMk&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-04-29T23:44:54.485Z",
-      "modifiedTime": "2026-04-29T23:44:54.508Z"
     },
     {
       "id": "camisa-polo-a-identificar-p-preto-1mczc45h7c-jbloprvn40iktlzms6mb-w",
