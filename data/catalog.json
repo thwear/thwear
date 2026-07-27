@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-27T18:18:52.019Z",
+    "syncedAt": "2026-07-27T20:14:38.544Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -968,26 +968,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 44",
       "createdTime": "2026-07-23T18:37:59.468Z",
       "modifiedTime": "2026-07-23T18:37:59.487Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-38-preto-1jghthpe-gp192ny3ptii-wwmsrzw3yh3",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1JgHtHPE_gP192Ny3PtiI_WwmSRzW3YH3",
-      "fileName": "20260610_184506.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1JgHtHPE_gP192Ny3PtiI_WwmSRzW3YH3/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1JgHtHPE_gP192Ny3PtiI_WwmSRzW3YH3&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 38",
-      "createdTime": "2026-07-23T18:35:28.019Z",
-      "modifiedTime": "2026-07-23T18:35:28.037Z"
     },
     {
       "id": "calca-sarja-a-identificar-38-preto-1zguh3i7ino2pjh5vkc8fhcawoq1w4pbs",
