@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-27T20:14:38.544Z",
+    "syncedAt": "2026-07-27T21:57:43.938Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -13568,26 +13568,6 @@
       "folderPath": "CAMISA FEMINA FARM / FARM M",
       "createdTime": "2025-12-18T10:31:20.196Z",
       "modifiedTime": "2025-12-18T10:31:20.208Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-40-cinza-1mukgwa-v7pzjpolgbqzl1jjr8ntgjsc",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1MukGwA__v7PzjPOlGBqzl1jJR8nTgjSC",
-      "fileName": "PhotoGrid_Plus_1765844550567.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1MukGwA__v7PzjPOlGBqzl1jJR8nTgjSC/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1MukGwA__v7PzjPOlGBqzl1jJR8nTgjSC&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 40",
-      "createdTime": "2025-12-16T02:03:54.866Z",
-      "modifiedTime": "2025-12-16T02:03:54.878Z"
     },
     {
       "id": "camisa-social-a-identificar-m-marrom-1uklyvzz2cu2ezisp3j3xreuadgipy6lb",
