@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-28T17:28:16.749Z",
+    "syncedAt": "2026-07-28T19:09:47.854Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -810,26 +810,6 @@
       "modifiedTime": "2026-07-25T13:05:13.094Z"
     },
     {
-      "id": "short-bermuda-a-identificar-48-cinza-1lgjh2jvdghoprofslbifssxalcrvudzm",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "48",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1lgjH2jvdGHOPRofslbifSsXALCRvuDzm",
-      "fileName": "20251118_173709.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1lgjH2jvdGHOPRofslbifSsXALCRvuDzm/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1lgjH2jvdGHOPRofslbifSsXALCRvuDzm&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 48",
-      "createdTime": "2026-07-25T12:55:58.045Z",
-      "modifiedTime": "2026-07-25T12:55:58.058Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-44-preto-1btz0pdzddlbwdzfmsxw9wxn7gn34jyjp",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -848,26 +828,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 44",
       "createdTime": "2026-07-25T12:54:02.669Z",
       "modifiedTime": "2026-07-25T12:54:02.683Z"
-    },
-    {
-      "id": "camisa-premium-premium-gg-preto-1cmu0tbspjljlqcf2p06dkb9rt2zxjhlg",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1cmU0tBSpjLJLqcF2P06DKb9RT2zxjhlg",
-      "fileName": "20260205_162437.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1cmU0tBSpjLJLqcF2P06DKb9RT2zxjhlg/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1cmU0tBSpjLJLqcF2P06DKb9RT2zxjhlg&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-07-25T12:40:15.587Z",
-      "modifiedTime": "2026-07-25T12:40:15.602Z"
     },
     {
       "id": "camisa-polo-a-identificar-g-cinza-1zhn4wagt14gs2ikebgroqzrnujpbqji5",
@@ -6390,26 +6350,6 @@
       "modifiedTime": "2026-06-22T12:42:35.679Z"
     },
     {
-      "id": "short-bermuda-a-identificar-38-cinza-1jhmtn8wcse-ibbfrapdzchhuxy6ma6s",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1JHMTN8Wcse-IBbFRAPdzcHhuXY6Ma6s-",
-      "fileName": "IMG-20260620-WA0007.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1JHMTN8Wcse-IBbFRAPdzcHhuXY6Ma6s-/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1JHMTN8Wcse-IBbFRAPdzcHhuXY6Ma6s-&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 38",
-      "createdTime": "2026-06-20T12:18:58.492Z",
-      "modifiedTime": "2026-06-20T12:18:58.499Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-40-cinza-1dxsw1g7tnt2mclkhtdpi4g797tdise50",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -11408,26 +11348,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 48",
       "createdTime": "2026-03-18T02:51:48.784Z",
       "modifiedTime": "2026-03-18T02:51:48.796Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-48-preto-1am906ybezcfkgtafqayz-phvi56oukvf",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "48",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1aM906YBEzcfKGTafqayZ_PhVi56ouKvF",
-      "fileName": "PhotoGrid_Plus_1765843862091.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1aM906YBEzcfKGTafqayZ_PhVi56ouKvF/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1aM906YBEzcfKGTafqayZ_PhVi56ouKvF&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 48",
-      "createdTime": "2026-03-18T02:51:48.630Z",
-      "modifiedTime": "2026-03-18T02:51:48.651Z"
     },
     {
       "id": "camisa-polo-a-identificar-p-azul-1x46fy7bdj8q2ax0sf-tekqpdmznlsiff",
