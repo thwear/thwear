@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-07-30T15:04:15.187Z",
+    "syncedAt": "2026-07-30T17:16:51.101Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,46 @@
     }
   ],
   "products": [
+    {
+      "id": "calca-alfaiataria-a-identificar-38-preto-1l9ws7aobivyhodm6wavc08tj82ey5tsa",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
+      "brand": "A identificar",
+      "size": "38",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1l9ws7aoBIvYhodM6wAvC08TJ82EY5TSa",
+      "fileName": "PhotoGrid_Plus_1765473384164.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1l9ws7aoBIvYhodM6wAvC08TJ82EY5TSa/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1l9ws7aoBIvYhodM6wAvC08TJ82EY5TSa&sz=w900",
+      "folderName": "CALÇAS DE ALFAIATARIA ",
+      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 38",
+      "createdTime": "2026-07-30T15:31:19.322Z",
+      "modifiedTime": "2026-07-30T15:31:19.364Z"
+    },
+    {
+      "id": "calca-alfaiataria-a-identificar-38-preto-1efxuomwi00dqkbfn8q-dg-kvlplsqrmw",
+      "title": "Calca alfaiataria",
+      "category": "Calca alfaiataria",
+      "brand": "A identificar",
+      "size": "38",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1EFXUoMwi00dQkbFn8q_dg_KvLplSqrmw",
+      "fileName": "PhotoGrid_Plus_1765473447659.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1EFXUoMwi00dQkbFn8q_dg_KvLplSqrmw/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1EFXUoMwi00dQkbFn8q_dg_KvLplSqrmw&sz=w900",
+      "folderName": "CALÇAS DE ALFAIATARIA ",
+      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 38",
+      "createdTime": "2026-07-30T15:31:19.292Z",
+      "modifiedTime": "2026-07-30T15:31:19.308Z"
+    },
     {
       "id": "camisa-polo-a-identificar-gg-bege-1etae2x3qgbjiac4brjae198s92t0b9l4",
       "title": "Camisa polo",
