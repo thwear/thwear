@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-03T12:51:01.431Z",
+    "syncedAt": "2026-08-03T15:39:27.963Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3190,13 +3190,13 @@
       "modifiedTime": "2026-07-16T17:31:00.648Z"
     },
     {
-      "id": "camisa-premium-premium-gg-preto-1gwicgqx48bvpfq2jykxoqfqouq8te1gx",
+      "id": "camisa-premium-premium-gg-cor-a-identificar-1gwicgqx48bvpfq2jykxoqfqouq8te1gx",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
