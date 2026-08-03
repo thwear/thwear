@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-03T17:47:15.058Z",
+    "syncedAt": "2026-08-03T19:20:32.784Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -328,26 +328,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-08-02T19:31:43.511Z",
       "modifiedTime": "2026-08-02T19:31:43.528Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-cinza-1vywc5sasrdmdfcm3yjdyi9kxgulleack",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1VywC5saSrDMDfcm3Yjdyi9KXgUlleAck",
-      "fileName": "20260731_174553.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1VywC5saSrDMDfcm3Yjdyi9KXgUlleAck/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1VywC5saSrDMDfcm3Yjdyi9KXgUlleAck&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-08-02T19:31:43.491Z",
-      "modifiedTime": "2026-08-02T19:31:43.501Z"
     },
     {
       "id": "camisa-polo-a-identificar-p-azul-1okcuamlktb25fm7rybawkg3uuwopoxdg",
@@ -8568,26 +8548,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-06-01T01:07:56.871Z",
       "modifiedTime": "2026-06-01T01:07:56.881Z"
-    },
-    {
-      "id": "camisa-premium-premium-p-cinza-1-azhm6ujriprrq5hzagphwwuzqwxwljc",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "P",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1_AZHM6ujRiPrRQ5HzAgPhWwUZqwxWLJC",
-      "fileName": "20260529_172136.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1_AZHM6ujRiPrRQ5HzAgPhWwUZqwxWLJC/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1_AZHM6ujRiPrRQ5HzAgPhWwUZqwxWLJC&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
-      "createdTime": "2026-06-01T01:07:56.806Z",
-      "modifiedTime": "2026-06-01T01:07:56.815Z"
     },
     {
       "id": "perfume-a-identificar-unico-cinza-1cadlg-kpcwofieu3rwirhztsnp0xiems",
