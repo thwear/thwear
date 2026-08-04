@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-04T17:30:18.150Z",
+    "syncedAt": "2026-08-04T19:18:58.407Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1828,26 +1828,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 42",
       "createdTime": "2026-07-21T23:32:01.013Z",
       "modifiedTime": "2026-07-21T23:32:01.024Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-42-marrom-1eckim-tujmgt1or0apnmfvkbbnk1ncvz",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Marrom",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1eckIm_tujMgt1or0APnMfvkbBnk1nCvZ",
-      "fileName": "IMG-20260721-WA0291.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1eckIm_tujMgt1or0APnMfvkbBnk1nCvZ/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1eckIm_tujMgt1or0APnMfvkbBnk1nCvZ&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 42",
-      "createdTime": "2026-07-21T23:32:00.991Z",
-      "modifiedTime": "2026-07-21T23:32:00.999Z"
     },
     {
       "id": "short-bermuda-a-identificar-42-preto-1byfsnbioldd6xg1xxk5ocy-duitzjh2q",
