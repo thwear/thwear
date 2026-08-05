@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-05T17:21:48.659Z",
+    "syncedAt": "2026-08-05T19:16:18.771Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -12930,13 +12930,13 @@
       "modifiedTime": "2025-12-18T10:31:38.549Z"
     },
     {
-      "id": "camisa-feminina-farm-g-cor-a-identificar-1ycesdwzx65bvzu37yjtaxmhqth4floam",
+      "id": "camisa-feminina-farm-g-vermelho-1ycesdwzx65bvzu37yjtaxmhqth4floam",
       "title": "Camisa feminina Farm",
       "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Vermelho",
+      "colorSource": "imagem",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
