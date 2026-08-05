@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-05T15:09:14.386Z",
+    "syncedAt": "2026-08-05T17:21:48.659Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -7430,6 +7430,26 @@
       "modifiedTime": "2026-06-10T22:54:54.313Z"
     },
     {
+      "id": "calca-jeans-a-identificar-48-preto-1trjqml52kcr0-vq60xnhfempxzf8motw",
+      "title": "Calca jeans",
+      "category": "Calca jeans",
+      "brand": "A identificar",
+      "size": "48",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1TrJqML52Kcr0-Vq60XnhfEMPxZF8Motw",
+      "fileName": "20260610_184506.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1TrJqML52Kcr0-Vq60XnhfEMPxZF8Motw/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1TrJqML52Kcr0-Vq60XnhfEMPxZF8Motw&sz=w900",
+      "folderName": "CALÇAS JEANS ",
+      "folderPath": "CALÇAS JEANS  / CALÇAS 48",
+      "createdTime": "2026-06-10T22:54:54.275Z",
+      "modifiedTime": "2026-06-10T22:54:54.289Z"
+    },
+    {
       "id": "calca-jeans-a-identificar-46-cinza-1-ab9-nx36zgal9kmes-vddoghlna77sl",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -12910,13 +12930,13 @@
       "modifiedTime": "2025-12-18T10:31:38.549Z"
     },
     {
-      "id": "camisa-feminina-farm-g-vermelho-1ycesdwzx65bvzu37yjtaxmhqth4floam",
+      "id": "camisa-feminina-farm-g-cor-a-identificar-1ycesdwzx65bvzu37yjtaxmhqth4floam",
       "title": "Camisa feminina Farm",
       "category": "Camisa feminina",
       "brand": "Farm",
       "size": "G",
-      "color": "Vermelho",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
