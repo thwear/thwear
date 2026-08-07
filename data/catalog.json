@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-07T18:41:55.906Z",
+    "syncedAt": "2026-08-07T19:44:58.777Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-polo-a-identificar-gg-cinza-1oljj6p-q7gh9p4r2slf-q4aoslkploxl",
+      "title": "Camisa polo",
+      "category": "Camisa polo",
+      "brand": "A identificar",
+      "size": "GG",
+      "color": "Cinza",
+      "colorSource": "imagem",
+      "price": 99.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1oLJJ6p_q7gh9P4R2sLF-q4AoSLkpLoxL",
+      "fileName": "20260521_173903.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1oLJJ6p_q7gh9P4R2sLF-q4AoSLkpLoxL/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1oLJJ6p_q7gh9P4R2sLF-q4AoSLkpLoxL&sz=w900",
+      "folderName": "CAMISAS POLO ",
+      "folderPath": "CAMISAS POLO  / POLO GG",
+      "createdTime": "2026-08-07T18:48:49.440Z",
+      "modifiedTime": "2026-08-07T18:48:49.461Z"
+    },
     {
       "id": "sueter-a-identificar-p-cinza-1ar7jgla1ovdrnxclofrkwmjs1idmxmfw",
       "title": "Sueter",
@@ -4668,26 +4688,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 42",
       "createdTime": "2026-07-11T22:26:00.082Z",
       "modifiedTime": "2026-07-11T22:26:00.093Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-40-azul-1axjx09zwi2m0vaalhlj-d4c7tnryq1v",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1AXjX09Zwi2M0VAaLhLj-d4C7Tnryq1v_",
-      "fileName": "20260710_154332.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1AXjX09Zwi2M0VAaLhLj-d4C7Tnryq1v_/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1AXjX09Zwi2M0VAaLhLj-d4C7Tnryq1v_&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 40",
-      "createdTime": "2026-07-11T22:25:48.252Z",
-      "modifiedTime": "2026-07-11T22:25:48.266Z"
     },
     {
       "id": "calca-jeans-a-identificar-40-preto-1oo00n7kkyecopxrv5hiqko4excnbveif",
