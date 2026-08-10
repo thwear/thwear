@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-10T14:14:53.100Z",
+    "syncedAt": "2026-08-10T15:54:32.132Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-polo-a-identificar-g-azul-1nzhjzygoxrwhraxagcr-ztokxmqql5sv",
+      "title": "Camisa polo",
+      "category": "Camisa polo",
+      "brand": "A identificar",
+      "size": "G",
+      "color": "Azul",
+      "colorSource": "imagem",
+      "price": 99.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1nZHjZYgOxRWhRAxagCr_ztOKXmqql5sV",
+      "fileName": "20260731_173624.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1nZHjZYgOxRWhRAxagCr_ztOKXmqql5sV/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1nZHjZYgOxRWhRAxagCr_ztOKXmqql5sV&sz=w900",
+      "folderName": "CAMISAS POLO ",
+      "folderPath": "CAMISAS POLO  / POLO G",
+      "createdTime": "2026-08-10T15:16:07.222Z",
+      "modifiedTime": "2026-08-10T15:16:07.247Z"
+    },
     {
       "id": "cueca-premium-premium-unico-cinza-1jgbobttlmlqhbptpygmwxd8dnvdi53cr",
       "title": "Cueca premium",
@@ -5110,13 +5130,13 @@
       "modifiedTime": "2026-07-10T03:27:07.818Z"
     },
     {
-      "id": "calca-alfaiataria-a-identificar-42-cinza-1jjv-prx2wpsc10c07s1j72yfnzps87p",
+      "id": "calca-alfaiataria-a-identificar-42-cor-a-identificar-1jjv-prx2wpsc10c07s1j72yfnzps87p",
       "title": "Calca alfaiataria",
       "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "42",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
