@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-11T15:52:25.743Z",
+    "syncedAt": "2026-08-11T16:48:46.824Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -4710,13 +4710,13 @@
       "modifiedTime": "2026-07-11T22:25:35.465Z"
     },
     {
-      "id": "calca-jeans-a-identificar-38-cor-a-identificar-1ohdq5dsgi9onrzphpytqdiw-jue95w3f",
+      "id": "calca-jeans-a-identificar-38-azul-1ohdq5dsgi9onrzphpytqdiw-jue95w3f",
       "title": "Calca jeans",
       "category": "Calca jeans",
       "brand": "A identificar",
       "size": "38",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Azul",
+      "colorSource": "imagem",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
