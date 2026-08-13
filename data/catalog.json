@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-13T08:12:23.864Z",
+    "syncedAt": "2026-08-13T09:55:05.741Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3030,13 +3030,13 @@
       "modifiedTime": "2026-07-19T19:01:48.644Z"
     },
     {
-      "id": "camisa-premium-premium-p-azul-1hfxo-iabbqjinj7dbymrnq2vbd6g-o-s",
+      "id": "camisa-premium-premium-p-cor-a-identificar-1hfxo-iabbqjinj7dbymrnq2vbd6g-o-s",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
-      "color": "Azul",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
