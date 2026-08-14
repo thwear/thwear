@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-14T17:45:41.866Z",
+    "syncedAt": "2026-08-14T18:41:32.011Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,46 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-premium-premium-m-preto-1doty4qatw0totrifm0kdmolkhecnlxkp",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
+      "brand": "Premium",
+      "size": "M",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 79.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1DOty4QAtw0TOTRIFM0kdmOLkHEcNlXKP",
+      "fileName": "20260130_171819.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1DOty4QAtw0TOTRIFM0kdmOLkHEcNlXKP/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1DOty4QAtw0TOTRIFM0kdmOLkHEcNlXKP&sz=w900",
+      "folderName": "CAMISAS PREMIUM ",
+      "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
+      "createdTime": "2026-08-14T18:21:07.812Z",
+      "modifiedTime": "2026-08-14T18:21:07.829Z"
+    },
+    {
+      "id": "calca-jeans-a-identificar-44-azul-1i2k9iklxw-fqptj7onpvpk63juwtymrz",
+      "title": "Calca jeans",
+      "category": "Calca jeans",
+      "brand": "A identificar",
+      "size": "44",
+      "color": "Azul",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1I2K9iklXW_FqpTJ7onpVpK63jUWtYMrz",
+      "fileName": "20260710_161018.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1I2K9iklXW_FqpTJ7onpVpK63jUWtYMrz/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1I2K9iklXW_FqpTJ7onpVpK63jUWtYMrz&sz=w900",
+      "folderName": "CALÇAS JEANS ",
+      "folderPath": "CALÇAS JEANS  / CALÇAS 44",
+      "createdTime": "2026-08-14T18:20:17.660Z",
+      "modifiedTime": "2026-08-14T18:20:17.698Z"
+    },
     {
       "id": "calca-jeans-a-identificar-48-preto-1ttg5iwy5snw6vkhsskra38pkxcoojxfr",
       "title": "Calca jeans",
