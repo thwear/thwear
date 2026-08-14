@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-14T15:42:46.745Z",
+    "syncedAt": "2026-08-14T16:41:57.917Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1350,26 +1350,6 @@
       "modifiedTime": "2026-07-24T20:11:57.249Z"
     },
     {
-      "id": "camisa-premium-premium-g-preto-1jyggvrljn7dlvkjd-ylijst8vuvzj8-c",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1JyggvRljN7DLVKjd-yliJST8VUVZj8-c",
-      "fileName": "20260521_172512.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1JyggvRljN7DLVKjd-yliJST8VUVZj8-c/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1JyggvRljN7DLVKjd-yliJST8VUVZj8-c&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
-      "createdTime": "2026-07-23T20:43:22.878Z",
-      "modifiedTime": "2026-07-23T20:43:22.897Z"
-    },
-    {
       "id": "calca-sarja-a-identificar-38-preto-1zguh3i7ino2pjh5vkc8fhcawoq1w4pbs",
       "title": "Calca sarja",
       "category": "Calca sarja",
@@ -2528,26 +2508,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
       "createdTime": "2026-07-19T19:01:59.351Z",
       "modifiedTime": "2026-07-19T19:01:59.361Z"
-    },
-    {
-      "id": "camisa-premium-premium-g-preto-1no0rgbct2fktwunrgnbpb-y2bjsgdit5",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1No0RGbct2FkTWUnrGNbPb_y2BJsGdiT5",
-      "fileName": "20260716_165753.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1No0RGbct2FkTWUnrGNbPb_y2BJsGdiT5/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1No0RGbct2FkTWUnrGNbPb_y2BJsGdiT5&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
-      "createdTime": "2026-07-19T19:01:59.324Z",
-      "modifiedTime": "2026-07-19T19:01:59.334Z"
     },
     {
       "id": "camisa-premium-premium-g-cinza-1j-ktbd9b-9nurdxyq0omrrppnxogcpwc",
@@ -5508,26 +5468,6 @@
       "folderPath": "CAMISAS POLO  / POLO G",
       "createdTime": "2026-06-30T04:10:23.808Z",
       "modifiedTime": "2026-06-30T04:10:23.820Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-g-preto-1it-hc89emycbkqmvsdvantxugcw-a2g7",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1iT_Hc89eMYcBKQmvSDVANtxUgcw-A2G7",
-      "fileName": "20260622_165633.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1iT_Hc89eMYcBKQmvSDVANtxUgcw-A2G7/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1iT_Hc89eMYcBKQmvSDVANtxUgcw-A2G7&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-06-30T04:10:23.748Z",
-      "modifiedTime": "2026-06-30T04:10:23.770Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-azul-1oibyjp3xsoqkbjjpaywfmuphsjomgmqv",
