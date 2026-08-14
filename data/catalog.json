@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-14T12:43:35.907Z",
+    "syncedAt": "2026-08-14T14:09:59.178Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5168,26 +5168,6 @@
       "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 40",
       "createdTime": "2026-07-10T03:26:55.259Z",
       "modifiedTime": "2026-07-10T03:26:55.269Z"
-    },
-    {
-      "id": "calca-alfaiataria-a-identificar-40-preto-1fc8h4cwd2ehnhrn-p0i1m0-mxldj0dqx",
-      "title": "Calca alfaiataria",
-      "category": "Calca alfaiataria",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1fC8h4cWd2ehNhrN_p0I1m0_MXlDj0Dqx",
-      "fileName": "PhotoGrid_Plus_1773882180593.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1fC8h4cWd2ehNhrN_p0I1m0_MXlDj0Dqx/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1fC8h4cWd2ehNhrN_p0I1m0_MXlDj0Dqx&sz=w900",
-      "folderName": "CALÇAS DE ALFAIATARIA ",
-      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 40",
-      "createdTime": "2026-07-10T03:26:55.154Z",
-      "modifiedTime": "2026-07-10T03:26:55.176Z"
     },
     {
       "id": "calca-alfaiataria-a-identificar-38-cinza-113tvihtvd5n0hoagxtaox38ganbiyrcq",
