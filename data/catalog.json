@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-17T17:19:04.158Z",
+    "syncedAt": "2026-08-17T18:25:00.837Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -6670,24 +6670,24 @@
       "modifiedTime": "2026-06-18T17:24:32.246Z"
     },
     {
-      "id": "perfume-a-identificar-unico-preto-1rpid4y2-eg96wwbbbdduwvforumbnfnt",
+      "id": "perfume-a-identificar-unico-azul-18nyc0iwntzte3gug7je99l7vffur3kea",
       "title": "Perfume",
       "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
-      "color": "Preto",
+      "color": "Azul",
       "colorSource": "imagem",
       "price": null,
       "status": "available",
       "confidence": "path",
-      "driveFileId": "1rpID4y2-Eg96WWbBbdDUwVFoRuMBnfnT",
-      "fileName": "HAWAS BLACK.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1rpID4y2-Eg96WWbBbdDUwVFoRuMBnfnT/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1rpID4y2-Eg96WWbBbdDUwVFoRuMBnfnT&sz=w900",
+      "driveFileId": "18nYC0iwntzte3gug7Je99L7VfFur3kEa",
+      "fileName": "VULCAN FEU.jpg",
+      "driveUrl": "https://drive.google.com/file/d/18nYC0iwntzte3gug7Je99L7VfFur3kEa/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=18nYC0iwntzte3gug7Je99L7VfFur3kEa&sz=w900",
       "folderName": "PERFUMES ORIGINAIS ",
       "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
-      "createdTime": "2026-06-18T16:34:54.454Z",
-      "modifiedTime": "2026-06-18T17:12:57.834Z"
+      "createdTime": "2026-06-18T16:34:54.488Z",
+      "modifiedTime": "2026-06-18T17:12:44.282Z"
     },
     {
       "id": "calca-sarja-a-identificar-48-cinza-1lnf8j2dicotwyiwwdef-brwgjkf-lirq",
@@ -8468,26 +8468,6 @@
       "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
       "createdTime": "2026-05-20T21:08:53.512Z",
       "modifiedTime": "2026-05-27T18:59:50.292Z"
-    },
-    {
-      "id": "perfume-a-identificar-unico-azul-16wj9vriiwhulw0srbdvg31l4c7jrg0my",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "16Wj9VriiwHulw0sRbdvG31l4c7Jrg0my",
-      "fileName": "ARMAF LÉGENDE.jpg",
-      "driveUrl": "https://drive.google.com/file/d/16Wj9VriiwHulw0sRbdvG31l4c7Jrg0my/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=16Wj9VriiwHulw0sRbdvG31l4c7Jrg0my&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
-      "createdTime": "2026-05-20T21:08:53.423Z",
-      "modifiedTime": "2026-05-27T19:01:33.547Z"
     },
     {
       "id": "perfume-a-identificar-unico-amarelo-1y9yfzzp-sqkpz1wa5chpp0mckio96ok",
@@ -13128,26 +13108,6 @@
       "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
       "createdTime": "2025-11-18T21:56:49.228Z",
       "modifiedTime": "2025-11-18T23:12:13.214Z"
-    },
-    {
-      "id": "perfume-a-identificar-unico-preto-1n5nkchyuk69vyjdybahrtptnzxcnnmkt",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1n5NkCHyUK69vYJdYBaHRTPTNZXcnNMkt",
-      "fileName": "LIQUID BRUN.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1n5NkCHyUK69vYJdYBaHRTPTNZXcnNMkt/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1n5NkCHyUK69vYJdYBaHRTPTNZXcnNMkt&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
-      "createdTime": "2025-11-18T21:56:49.152Z",
-      "modifiedTime": "2025-11-18T23:07:39.788Z"
     },
     {
       "id": "perfume-a-identificar-unico-preto-1lbhbjmkuaforgr-1d-b-h6ystx2ux5np",
