@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-17T14:18:52.438Z",
+    "syncedAt": "2026-08-17T16:17:39.146Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1550,26 +1550,6 @@
       "modifiedTime": "2026-07-25T13:05:23.073Z"
     },
     {
-      "id": "short-bermuda-a-identificar-g-azul-1c44fvaxk4s5f5psyslnpawr-qhs7jbng",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1C44FVaxK4s5f5PSYslnPAWr-QHS7jbng",
-      "fileName": "IMG-20260725-WA0017.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1C44FVaxK4s5f5PSYslnPAWr-QHS7jbng/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1C44FVaxK4s5f5PSYslnPAWr-QHS7jbng&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT G",
-      "createdTime": "2026-07-25T13:05:23.024Z",
-      "modifiedTime": "2026-07-25T13:05:23.035Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-g-laranja-1ezyfsodkp0ti5ochvzcj0h2uim-sgm3l",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -1728,26 +1708,6 @@
       "folderPath": "SHORT DE SARJA / SHORT GG",
       "createdTime": "2026-07-25T13:05:13.290Z",
       "modifiedTime": "2026-07-25T13:05:13.306Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-gg-azul-1c9xgnqrdp-dkea6d5vwxlrqnqbxtlwgj",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1C9XGnQrdp_DKea6d5VwxLrqnqBXtlWgj",
-      "fileName": "IMG-20260725-WA0017.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1C9XGnQrdp_DKea6d5VwxLrqnqBXtlWgj/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1C9XGnQrdp_DKea6d5VwxLrqnqBXtlWgj&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT GG",
-      "createdTime": "2026-07-25T13:05:13.235Z",
-      "modifiedTime": "2026-07-25T13:05:13.256Z"
     },
     {
       "id": "short-bermuda-a-identificar-gg-laranja-1wmaawpdgg9agxvku-rglqe2mzey2rnvi",
@@ -5808,26 +5768,6 @@
       "folderPath": "SHORT DE SARJA / SHORT P",
       "createdTime": "2026-06-30T12:31:33.957Z",
       "modifiedTime": "2026-06-30T12:31:33.975Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-gg-preto-1mozivk-o1gtvti1w4rth5qcab-fxnudm",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1MoZiVk_O1Gtvti1w4rth5QcAB_FXNUDM",
-      "fileName": "20260622_165633.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1MoZiVk_O1Gtvti1w4rth5QcAB_FXNUDM/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1MoZiVk_O1Gtvti1w4rth5QcAB_FXNUDM&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-06-30T04:10:37.192Z",
-      "modifiedTime": "2026-06-30T04:10:37.201Z"
     },
     {
       "id": "camisa-polo-a-identificar-gg-preto-1kwmu-wbkxidmwxumlhk59irykcbtft4n",
