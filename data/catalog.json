@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-18T16:21:01.525Z",
+    "syncedAt": "2026-08-18T17:19:05.929Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5108,26 +5108,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 38",
       "createdTime": "2026-07-11T22:25:35.426Z",
       "modifiedTime": "2026-07-11T22:25:35.440Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-38-preto-1wbqalrvk5ff3vfm8tqbaflee1ruu9jep",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "38",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1wBQAlrvK5fF3vfM8tqbAflee1RUU9Jep",
-      "fileName": "20260710_155603.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1wBQAlrvK5fF3vfM8tqbAflee1RUU9Jep/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1wBQAlrvK5fF3vfM8tqbAflee1RUU9Jep&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 38",
-      "createdTime": "2026-07-11T22:25:35.401Z",
-      "modifiedTime": "2026-07-11T22:25:35.413Z"
     },
     {
       "id": "short-bermuda-a-identificar-46-cinza-1wmj-c1le4ookqsxw1xgqytmp3kmsypuz",
