@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-20T16:25:29.445Z",
+    "syncedAt": "2026-08-20T17:20:25.638Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -210,26 +210,6 @@
       "modifiedTime": "2026-08-17T01:13:22.060Z"
     },
     {
-      "id": "camisa-polo-a-identificar-gg-preto-1klsdnavmtnj5-bh7l6vna3-xflletcjj",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1KLSDnaVmtNJ5-Bh7L6VnA3-XFllEtcJj",
-      "fileName": "20260814_174819.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1KLSDnaVmtNJ5-Bh7L6VnA3-XFllEtcJj/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1KLSDnaVmtNJ5-Bh7L6VnA3-XFllEtcJj&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-08-17T01:13:22.012Z",
-      "modifiedTime": "2026-08-17T01:13:22.026Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-gg-cinza-1zmpx8difrrldhbzuksbpnxbst4klrldf",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -328,26 +308,6 @@
       "folderPath": "CAMISAS POLO  / POLO G",
       "createdTime": "2026-08-17T01:13:11.468Z",
       "modifiedTime": "2026-08-17T01:13:11.482Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-g-preto-1wnrcul8ydrkctsdayidrgnj2ydv9joyy",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1wNrcul8YDRkctSDaYIDrgNj2YDV9joyY",
-      "fileName": "20260814_174819.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1wNrcul8YDRkctSDaYIDrgNj2YDV9joyY/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1wNrcul8YDRkctSDaYIDrgNj2YDV9joyY&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-08-17T01:13:11.428Z",
-      "modifiedTime": "2026-08-17T01:13:11.446Z"
     },
     {
       "id": "camisa-polo-a-identificar-g-cinza-16hixrazs2edx9ewbiunsbrjbybqmi5mf",
@@ -11668,26 +11628,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 44",
       "createdTime": "2026-01-29T20:45:25.176Z",
       "modifiedTime": "2026-01-29T20:45:25.184Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-42-preto-1bbeg-tlvgrtd7vh2ly5e8avmiadhhst4",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1bBeg-TlvGrtd7VH2Ly5e8AVMIaDHHst4",
-      "fileName": "20251118_172949.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1bBeg-TlvGrtd7VH2Ly5e8AVMIaDHHst4/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1bBeg-TlvGrtd7VH2Ly5e8AVMIaDHHst4&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 42",
-      "createdTime": "2026-01-29T20:44:53.554Z",
-      "modifiedTime": "2026-01-29T20:44:53.564Z"
     },
     {
       "id": "short-bermuda-a-identificar-40-preto-18p2lsloqriiaif3x7qbpwekdvrzqn3qb",
