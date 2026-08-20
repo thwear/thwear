@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-20T15:25:37.280Z",
+    "syncedAt": "2026-08-20T16:25:29.445Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "short-bermuda-a-identificar-gg-azul-1a2qgdd3dotcvbguc2n9jwdycfqh0hbev",
+      "title": "Short / Bermuda",
+      "category": "Short / Bermuda",
+      "brand": "A identificar",
+      "size": "GG",
+      "color": "Azul",
+      "colorSource": "imagem",
+      "price": 85,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1A2qgDD3dOTCvbGUC2n9JWDyCfQh0HbeV",
+      "fileName": "20260724_155743.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1A2qgDD3dOTCvbGUC2n9JWDyCfQh0HbeV/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1A2qgDD3dOTCvbGUC2n9JWDyCfQh0HbeV&sz=w900",
+      "folderName": "SHORT DE SARJA",
+      "folderPath": "SHORT DE SARJA / SHORT GG",
+      "createdTime": "2026-08-20T15:42:50.630Z",
+      "modifiedTime": "2026-08-20T15:42:50.658Z"
+    },
     {
       "id": "camisa-polo-a-identificar-gg-marrom-1qddgbuzraxkm38j4z3fegfcjfdo6vthq",
       "title": "Camisa polo",
@@ -1688,26 +1708,6 @@
       "folderPath": "SHORT DE SARJA / SHORT GG",
       "createdTime": "2026-07-25T13:05:13.290Z",
       "modifiedTime": "2026-07-25T13:05:13.306Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-gg-laranja-1wmaawpdgg9agxvku-rglqe2mzey2rnvi",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Laranja",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1WMAAWpDGG9aGxVKu-RGLQe2mZey2rnvI",
-      "fileName": "IMG-20260725-WA0019.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1WMAAWpDGG9aGxVKu-RGLQe2mZey2rnvI/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1WMAAWpDGG9aGxVKu-RGLQe2mZey2rnvI&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT GG",
-      "createdTime": "2026-07-25T13:05:13.157Z",
-      "modifiedTime": "2026-07-25T13:05:13.199Z"
     },
     {
       "id": "short-bermuda-a-identificar-gg-cinza-1-w5ego8clfypeinuln7mmnleudrget6a",
@@ -3710,26 +3710,6 @@
       "modifiedTime": "2026-07-15T01:01:29.770Z"
     },
     {
-      "id": "camisa-premium-premium-gg-preto-16yxq4gzmdx1j9kmetg4khwzo6t-5c6t2",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "16yxQ4Gzmdx1j9KMEtg4KhWZO6t_5c6t2",
-      "fileName": "IMG-20260714-WA0365.jpg",
-      "driveUrl": "https://drive.google.com/file/d/16yxQ4Gzmdx1j9KMEtg4KhWZO6t_5c6t2/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=16yxQ4Gzmdx1j9KMEtg4KhWZO6t_5c6t2&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-07-15T01:01:29.702Z",
-      "modifiedTime": "2026-07-15T01:01:29.713Z"
-    },
-    {
       "id": "camisa-premium-premium-gg-vinho-1vz07-eh9mzqnhwgop-rgnpnzoqnwba7a",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -4850,26 +4830,6 @@
       "modifiedTime": "2026-07-11T22:26:31.564Z"
     },
     {
-      "id": "calca-jeans-a-identificar-46-preto-1hmj3i3bekpkoj8ct8y8tapzdzmigbfx",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Hmj3I3bEKPKoj8ct8y8tapzdZMIGbFx-",
-      "fileName": "20260710_154003.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Hmj3I3bEKPKoj8ct8y8tapzdZMIGbFx-/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Hmj3I3bEKPKoj8ct8y8tapzdZMIGbFx-&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 46",
-      "createdTime": "2026-07-11T22:26:20.168Z",
-      "modifiedTime": "2026-07-11T22:26:20.178Z"
-    },
-    {
       "id": "calca-jeans-a-identificar-46-azul-130u-uljgc1vdikuxr0mfz22t1yw6ogdo",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -4908,26 +4868,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 46",
       "createdTime": "2026-07-11T22:26:20.111Z",
       "modifiedTime": "2026-07-11T22:26:20.124Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-46-azul-1mbbj9lqegxsmd91nc2qvbmiejfp7ae9v",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1MbBj9lqEGxsmd91NC2QVBmIeJFp7ae9V",
-      "fileName": "20260710_155212.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1MbBj9lqEGxsmd91NC2QVBmIeJFp7ae9V/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1MbBj9lqEGxsmd91NC2QVBmIeJFp7ae9V&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 46",
-      "createdTime": "2026-07-11T22:26:20.086Z",
-      "modifiedTime": "2026-07-11T22:26:20.101Z"
     },
     {
       "id": "calca-jeans-a-identificar-46-preto-1d00d0okramzbrghcp6a8nj7os4mmr0sl",
@@ -7110,26 +7050,6 @@
       "modifiedTime": "2026-06-17T10:34:50.858Z"
     },
     {
-      "id": "short-bermuda-a-identificar-gg-vermelho-1z8xwh9pqo3nrsaogurx3cg90zc-qvdrm",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Vermelho",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Z8xwH9pqO3NrsaOGURx3cg90ZC-QVdrm",
-      "fileName": "IMG-20260615-WA0295.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Z8xwH9pqO3NrsaOGURx3cg90ZC-QVdrm/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Z8xwH9pqO3NrsaOGURx3cg90ZC-QVdrm&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT GG",
-      "createdTime": "2026-06-16T02:04:16.087Z",
-      "modifiedTime": "2026-06-16T02:04:16.095Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-g-vermelho-1xs3a-mhgcxt9vbpnbjw2ueowwwcttbut",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -7288,26 +7208,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 46",
       "createdTime": "2026-06-10T22:54:44.218Z",
       "modifiedTime": "2026-06-10T22:54:44.238Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-46-preto-18ti6chtdr7jmptb4-kiwwwaif-23-db",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "18Ti6chTDR7JMPTB4_KIWwWaif_-23_db",
-      "fileName": "20260610_184506.jpg",
-      "driveUrl": "https://drive.google.com/file/d/18Ti6chTDR7JMPTB4_KIWwWaif_-23_db/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=18Ti6chTDR7JMPTB4_KIWwWaif_-23_db&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 46",
-      "createdTime": "2026-06-10T22:54:44.197Z",
-      "modifiedTime": "2026-06-10T22:54:44.207Z"
     },
     {
       "id": "camisa-polo-a-identificar-p-preto-1dgli5-jgeyysg0qjav18-ch9qhirmjj3",
