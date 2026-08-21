@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-21T17:20:49.782Z",
+    "syncedAt": "2026-08-21T18:23:38.911Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5028,26 +5028,6 @@
       "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 44",
       "createdTime": "2026-07-10T03:27:40.897Z",
       "modifiedTime": "2026-07-10T03:27:40.910Z"
-    },
-    {
-      "id": "calca-alfaiataria-a-identificar-44-preto-1ghmpkqkfavrmtyswt-a9lzfvmyptjanq",
-      "title": "Calca alfaiataria",
-      "category": "Calca alfaiataria",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1ghmpkQKFavRMTyswT-a9LZfvmypTJanQ",
-      "fileName": "PhotoGrid_Plus_1765473447659.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1ghmpkQKFavRMTyswT-a9LZfvmypTJanQ/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1ghmpkQKFavRMTyswT-a9LZfvmypTJanQ&sz=w900",
-      "folderName": "CALÇAS DE ALFAIATARIA ",
-      "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 44",
-      "createdTime": "2026-07-10T03:27:40.873Z",
-      "modifiedTime": "2026-07-10T03:27:40.882Z"
     },
     {
       "id": "calca-alfaiataria-a-identificar-44-cinza-1o19hzusnrg8-ik7hb62mpfetv5uwqnwn",
