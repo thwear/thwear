@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-21T12:28:38.887Z",
+    "syncedAt": "2026-08-21T13:38:35.445Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -2610,13 +2610,13 @@
       "modifiedTime": "2026-07-21T23:30:55.307Z"
     },
     {
-      "id": "camisa-premium-premium-g-cor-a-identificar-1o4ylk3u1yf-4yhgfggfgqut0lpays-m",
+      "id": "camisa-premium-premium-g-vinho-1o4ylk3u1yf-4yhgfggfgqut0lpays-m",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Vinho",
+      "colorSource": "imagem",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
