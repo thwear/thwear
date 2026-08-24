@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-24T17:23:24.542Z",
+    "syncedAt": "2026-08-24T18:27:04.797Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "calca-jeans-a-identificar-44-preto-1sc3nfkgerkqdg7qibvww729inkazdigt",
+      "title": "Calca jeans",
+      "category": "Calca jeans",
+      "brand": "A identificar",
+      "size": "44",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1SC3nFKgErkQdg7QiBvWw729InKAZdiGT",
+      "fileName": "20260710_154834.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1SC3nFKgErkQdg7QiBvWw729InKAZdiGT/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1SC3nFKgErkQdg7QiBvWw729InKAZdiGT&sz=w900",
+      "folderName": "CALÇAS JEANS ",
+      "folderPath": "CALÇAS JEANS  / CALÇAS 44",
+      "createdTime": "2026-08-24T18:22:52.990Z",
+      "modifiedTime": "2026-08-24T18:22:53.011Z"
+    },
     {
       "id": "camisa-polo-a-identificar-gg-cinza-1midgttx-frluciykkcnqkfec1jxdiuyv",
       "title": "Camisa polo",
