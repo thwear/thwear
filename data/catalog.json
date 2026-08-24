@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-24T13:43:16.820Z",
+    "syncedAt": "2026-08-24T14:33:01.636Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -808,26 +808,6 @@
       "folderPath": "CALÇAS DE ALFAIATARIA  / CALÇAS 40",
       "createdTime": "2026-08-21T16:09:07.150Z",
       "modifiedTime": "2026-08-21T16:09:07.164Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-42-azul-1sepy6ngd9w1kzwfttgoabemfh2wps4wq",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1SEPY6ngd9w1KZwFTtgOABemFH2wPS4Wq",
-      "fileName": "20260710_154332.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1SEPY6ngd9w1KZwFTtgOABemFH2wPS4Wq/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1SEPY6ngd9w1KZwFTtgOABemFH2wPS4Wq&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 42",
-      "createdTime": "2026-08-21T14:51:17.594Z",
-      "modifiedTime": "2026-08-21T14:51:17.613Z"
     },
     {
       "id": "camisa-polo-a-identificar-g-bege-1dj2ymniroiwyvxenoiqi4sbv5pi-wguc",
@@ -5550,26 +5530,6 @@
       "modifiedTime": "2026-07-11T22:26:08.926Z"
     },
     {
-      "id": "calca-jeans-a-identificar-44-preto-1gwqd8x2q-wf-3f3y2e4fyzfawgfgxc62",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1GWQd8X2Q-wf-3F3y2E4fyZFaWGfgXC62",
-      "fileName": "20260710_154834.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1GWQd8X2Q-wf-3F3y2E4fyZFaWGfgXC62/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1GWQd8X2Q-wf-3F3y2E4fyZFaWGfgXC62&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 44",
-      "createdTime": "2026-07-11T22:26:08.878Z",
-      "modifiedTime": "2026-07-11T22:26:08.893Z"
-    },
-    {
       "id": "calca-jeans-a-identificar-40-preto-1oo00n7kkyecopxrv5hiqko4excnbveif",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -5588,26 +5548,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 40",
       "createdTime": "2026-07-11T22:25:48.222Z",
       "modifiedTime": "2026-07-11T22:25:48.237Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-40-azul-18sc-25t5sx1vpvgod2s7yjjy-pkfpfne",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "18Sc_25t5Sx1VPvgOD2s7yJjy_pKfPfNe",
-      "fileName": "20260710_155212.jpg",
-      "driveUrl": "https://drive.google.com/file/d/18Sc_25t5Sx1VPvgOD2s7yJjy_pKfPfNe/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=18Sc_25t5Sx1VPvgOD2s7yJjy_pKfPfNe&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 40",
-      "createdTime": "2026-07-11T22:25:48.196Z",
-      "modifiedTime": "2026-07-11T22:25:48.209Z"
     },
     {
       "id": "calca-jeans-a-identificar-38-preto-1tzjjq73yq4tglxml40l1xjzj6m6veyma",
