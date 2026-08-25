@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-25T22:17:18.912Z",
+    "syncedAt": "2026-08-25T23:19:04.108Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3910,13 +3910,13 @@
       "modifiedTime": "2026-07-21T23:30:55.487Z"
     },
     {
-      "id": "short-bermuda-a-identificar-38-cinza-1huy2xaywnfubi6p9rsw7y5dtdlhizn2x",
+      "id": "short-bermuda-a-identificar-38-cor-a-identificar-1huy2xaywnfubi6p9rsw7y5dtdlhizn2x",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "38",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
@@ -8130,13 +8130,13 @@
       "modifiedTime": "2026-06-17T10:35:01.297Z"
     },
     {
-      "id": "calca-sarja-a-identificar-40-cinza-1l5l443qxrbmrupecwxgazfo2khmjdfkt",
+      "id": "calca-sarja-a-identificar-40-cor-a-identificar-1l5l443qxrbmrupecwxgazfo2khmjdfkt",
       "title": "Calca sarja",
       "category": "Calca sarja",
       "brand": "A identificar",
       "size": "40",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 119.9,
       "status": "available",
       "confidence": "path",
@@ -8490,13 +8490,13 @@
       "modifiedTime": "2026-06-09T07:29:11.817Z"
     },
     {
-      "id": "camisa-polo-a-identificar-m-cinza-1qv4kibmi10forcdiivhndh-qp0pc-568",
+      "id": "camisa-polo-a-identificar-m-cor-a-identificar-1qv4kibmi10forcdiivhndh-qp0pc-568",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
@@ -12650,13 +12650,13 @@
       "modifiedTime": "2026-01-26T11:27:13.394Z"
     },
     {
-      "id": "short-bermuda-a-identificar-42-preto-1-p3nr99tl6iosdroij-tb-bcl2m7-csx",
+      "id": "short-bermuda-a-identificar-42-cor-a-identificar-1-p3nr99tl6iosdroij-tb-bcl2m7-csx",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "42",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
