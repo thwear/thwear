@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-25T12:33:06.501Z",
+    "syncedAt": "2026-08-25T13:43:09.021Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1670,13 +1670,13 @@
       "modifiedTime": "2026-08-21T16:09:07.164Z"
     },
     {
-      "id": "camisa-polo-a-identificar-g-cor-a-identificar-1dj2ymniroiwyvxenoiqi4sbv5pi-wguc",
+      "id": "camisa-polo-a-identificar-g-bege-1dj2ymniroiwyvxenoiqi4sbv5pi-wguc",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "G",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Bege",
+      "colorSource": "imagem",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
@@ -2930,13 +2930,13 @@
       "modifiedTime": "2026-07-25T13:05:32.834Z"
     },
     {
-      "id": "short-bermuda-a-identificar-m-cor-a-identificar-1futuhjfvcntryfufqxvjqv9kzrhd2wv0",
+      "id": "short-bermuda-a-identificar-m-cinza-1futuhjfvcntryfufqxvjqv9kzrhd2wv0",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "M",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 85,
       "status": "available",
       "confidence": "path",
@@ -3190,13 +3190,13 @@
       "modifiedTime": "2026-07-25T13:05:13.306Z"
     },
     {
-      "id": "short-bermuda-a-identificar-gg-cor-a-identificar-1-w5ego8clfypeinuln7mmnleudrget6a",
+      "id": "short-bermuda-a-identificar-gg-cinza-1-w5ego8clfypeinuln7mmnleudrget6a",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "GG",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 85,
       "status": "available",
       "confidence": "path",
@@ -4830,13 +4830,13 @@
       "modifiedTime": "2026-07-19T19:01:48.683Z"
     },
     {
-      "id": "camisa-premium-premium-m-cor-a-identificar-1jo-k0um-3owxd8rsnrvn2-yq4suahblt",
+      "id": "camisa-premium-premium-m-cinza-1jo-k0um-3owxd8rsnrvn2-yq4suahblt",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "M",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
@@ -6010,13 +6010,13 @@
       "modifiedTime": "2026-07-15T00:59:51.180Z"
     },
     {
-      "id": "camisa-premium-premium-p-cor-a-identificar-1hvjwsmtmxik-baektyjkns7uh9y-j7xy",
+      "id": "camisa-premium-premium-p-cinza-1hvjwsmtmxik-baektyjkns7uh9y-j7xy",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "P",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
