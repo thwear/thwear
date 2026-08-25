@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-25T14:36:17.950Z",
+    "syncedAt": "2026-08-25T15:36:32.408Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -850,13 +850,13 @@
       "modifiedTime": "2026-08-25T12:17:45.260Z"
     },
     {
-      "id": "calca-jeans-a-identificar-38-cor-a-identificar-14vlv10wmfwhi9mmjlmvrhpnfn9vy3fjk",
+      "id": "calca-jeans-a-identificar-38-preto-14vlv10wmfwhi9mmjlmvrhpnfn9vy3fjk",
       "title": "Calca jeans",
       "category": "Calca jeans",
       "brand": "A identificar",
       "size": "38",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Preto",
+      "colorSource": "imagem",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
@@ -4028,26 +4028,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 38",
       "createdTime": "2026-07-21T23:30:55.286Z",
       "modifiedTime": "2026-07-21T23:30:55.307Z"
-    },
-    {
-      "id": "camisa-premium-premium-g-vinho-1o4ylk3u1yf-4yhgfggfgqut0lpays-m",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "G",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1o4ylK3u1YF-4yhgFgGfGquT0lPaYs_M_",
-      "fileName": "20260514_180219.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1o4ylK3u1YF-4yhgFgGfGquT0lPaYs_M_/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1o4ylK3u1YF-4yhgFgGfGquT0lPaYs_M_&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
-      "createdTime": "2026-07-21T19:48:21.986Z",
-      "modifiedTime": "2026-07-21T19:48:22.006Z"
     },
     {
       "id": "camisa-premium-premium-gg-azul-18yw8c9jjg0ku9b2rc13fekktsuw2gmdc",
