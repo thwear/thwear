@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-26T00:44:20.478Z",
+    "syncedAt": "2026-08-26T02:20:47.087Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3290,13 +3290,13 @@
       "modifiedTime": "2026-07-21T23:32:25.462Z"
     },
     {
-      "id": "short-bermuda-a-identificar-48-cor-a-identificar-1bn6rqk74lgunkkyw14tkjwyttx6alkhn",
+      "id": "short-bermuda-a-identificar-48-preto-1bn6rqk74lgunkkyw14tkjwyttx6alkhn",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "48",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Preto",
+      "colorSource": "imagem",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
