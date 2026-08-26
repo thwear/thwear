@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-08-26T18:53:32.264Z",
+    "syncedAt": "2026-08-26T21:30:06.790Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1310,13 +1310,13 @@
       "modifiedTime": "2026-08-25T12:18:08.489Z"
     },
     {
-      "id": "calca-jeans-a-identificar-42-cor-a-identificar-1priaqfwi2fv4bsg-0fcgppmk8lkdtsgz",
+      "id": "calca-jeans-a-identificar-42-preto-1priaqfwi2fv4bsg-0fcgppmk8lkdtsgz",
       "title": "Calca jeans",
       "category": "Calca jeans",
       "brand": "A identificar",
       "size": "42",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Preto",
+      "colorSource": "imagem",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
@@ -4790,13 +4790,13 @@
       "modifiedTime": "2026-07-21T23:30:55.340Z"
     },
     {
-      "id": "short-bermuda-a-identificar-38-cor-a-identificar-1hl8enr6ecasxyy3jsvtoqc8svgw-pppq",
+      "id": "short-bermuda-a-identificar-38-cinza-1hl8enr6ecasxyy3jsvtoqc8svgw-pppq",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "38",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
