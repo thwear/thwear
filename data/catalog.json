@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-01T19:01:53.492Z",
+    "syncedAt": "2026-09-01T22:13:05.353Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-premium-premium-gg-cinza-1fi1ljeigdpsvbacsdppwwl4pukqi5usw",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
+      "brand": "Premium",
+      "size": "GG",
+      "color": "Cinza",
+      "colorSource": "imagem",
+      "price": 79.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1fi1lJEigdpsvbaCsDppWWl4pukQi5usW",
+      "fileName": "20260205_162643.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1fi1lJEigdpsvbaCsDppWWl4pukQi5usW/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1fi1lJEigdpsvbaCsDppWWl4pukQi5usW&sz=w900",
+      "folderName": "CAMISAS PREMIUM ",
+      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
+      "createdTime": "2026-09-01T20:34:21.773Z",
+      "modifiedTime": "2026-09-01T20:34:21.790Z"
+    },
     {
       "id": "short-bermuda-a-identificar-g-laranja-1wxczc58ajbu2oc3ybu5bsb6e-2lz1oa",
       "title": "Short / Bermuda",
@@ -388,26 +408,6 @@
       "folderPath": "CAMISAS POLO  / POLO P",
       "createdTime": "2026-08-31T09:58:01.971Z",
       "modifiedTime": "2026-08-31T09:58:01.991Z"
-    },
-    {
-      "id": "sueter-a-identificar-m-cinza-1z-fbw7y4twclltlh-7k5kg1ijnpbdaho",
-      "title": "Sueter",
-      "category": "Sueter",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 115,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1z_FBw7Y4twCllTLh_7K5KG1ijnpbDAHO",
-      "fileName": "20260605_191211.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1z_FBw7Y4twCllTLh_7K5KG1ijnpbDAHO/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1z_FBw7Y4twCllTLh_7K5KG1ijnpbDAHO&sz=w900",
-      "folderName": "SUÉTER ",
-      "folderPath": "SUÉTER  / SUÉTER M",
-      "createdTime": "2026-08-27T20:08:39.821Z",
-      "modifiedTime": "2026-08-27T20:08:39.839Z"
     },
     {
       "id": "calca-jeans-a-identificar-40-preto-1kijnzwf0xfxphsriysycmofk23-ukwhb",
@@ -7110,26 +7110,6 @@
       "modifiedTime": "2026-07-15T00:59:51.102Z"
     },
     {
-      "id": "camisa-premium-premium-p-preto-1s9lbas02zjq1cbf0dxqymlxwriu9q8xh",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "P",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1S9LBaS02Zjq1CBf0DxqYMLxwRIU9Q8Xh",
-      "fileName": "IMG-20260714-WA0365.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1S9LBaS02Zjq1CBf0DxqYMLxwRIU9Q8Xh/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1S9LBaS02Zjq1CBf0DxqYMLxwRIU9Q8Xh&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
-      "createdTime": "2026-07-15T00:59:51.057Z",
-      "modifiedTime": "2026-07-15T00:59:51.062Z"
-    },
-    {
       "id": "camisa-premium-premium-p-vinho-1xhrvshfmq-vsaer9txstmyzlpny5ja6z",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -8728,26 +8708,6 @@
       "folderPath": "CALÇAS DE SARJA  / CALÇAS 44",
       "createdTime": "2026-06-17T10:35:17.562Z",
       "modifiedTime": "2026-06-17T10:35:17.567Z"
-    },
-    {
-      "id": "calca-sarja-a-identificar-44-cinza-1xbfiggptpti83inc6dqq8kcsr7nqgl71",
-      "title": "Calca sarja",
-      "category": "Calca sarja",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 119.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1xbfigGpTPTi83iNC6DqQ8KcSr7NQgL71",
-      "fileName": "PhotoGrid_Site_1781690947954.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1xbfigGpTPTi83iNC6DqQ8KcSr7NQgL71/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1xbfigGpTPTi83iNC6DqQ8KcSr7NQgL71&sz=w900",
-      "folderName": "CALÇAS DE SARJA ",
-      "folderPath": "CALÇAS DE SARJA  / CALÇAS 44",
-      "createdTime": "2026-06-17T10:35:17.550Z",
-      "modifiedTime": "2026-06-17T10:35:17.555Z"
     },
     {
       "id": "calca-sarja-a-identificar-44-cinza-1jkzkwfbmx-s5jpl5kwytrc-brjnkkoxb",
