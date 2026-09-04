@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-03T22:03:10.539Z",
+    "syncedAt": "2026-09-04T00:38:28.632Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -12630,13 +12630,13 @@
       "modifiedTime": "2026-05-08T16:25:53.272Z"
     },
     {
-      "id": "camisa-premium-premium-gg-cinza-1lskqscp-ak3mt5vzrhbgx-mlyojbrfjr",
+      "id": "camisa-premium-premium-gg-cor-a-identificar-1lskqscp-ak3mt5vzrhbgx-mlyojbrfjr",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
