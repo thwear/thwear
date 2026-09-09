@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-08T22:11:41.576Z",
+    "syncedAt": "2026-09-09T00:56:30.535Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1510,13 +1510,13 @@
       "modifiedTime": "2026-08-31T09:58:15.080Z"
     },
     {
-      "id": "camisa-polo-a-identificar-g-preto-1nfzgqz-kx3tqgp-j06j394xfcgpjdw7l",
+      "id": "camisa-polo-a-identificar-g-cor-a-identificar-1nfzgqz-kx3tqgp-j06j394xfcgpjdw7l",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
@@ -3950,13 +3950,13 @@
       "modifiedTime": "2026-08-23T17:22:35.940Z"
     },
     {
-      "id": "camisa-polo-a-identificar-g-preto-1nrabink9tf-2w0pwmo5wtzwtwmslviyu",
+      "id": "camisa-polo-a-identificar-g-cor-a-identificar-1nrabink9tf-2w0pwmo5wtzwtwmslviyu",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
