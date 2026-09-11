@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-11T18:03:26.322Z",
+    "syncedAt": "2026-09-11T21:27:58.619Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -9690,13 +9690,13 @@
       "modifiedTime": "2026-06-13T17:17:37.517Z"
     },
     {
-      "id": "calca-jeans-a-identificar-48-cor-a-identificar-1trjqml52kcr0-vq60xnhfempxzf8motw",
+      "id": "calca-jeans-a-identificar-48-preto-1trjqml52kcr0-vq60xnhfempxzf8motw",
       "title": "Calca jeans",
       "category": "Calca jeans",
       "brand": "A identificar",
       "size": "48",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Preto",
+      "colorSource": "imagem",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
