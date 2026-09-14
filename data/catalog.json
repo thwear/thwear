@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-14T20:04:20.679Z",
+    "syncedAt": "2026-09-14T23:37:05.321Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -8510,13 +8510,13 @@
       "modifiedTime": "2026-06-30T04:09:57.109Z"
     },
     {
-      "id": "camisa-polo-a-identificar-p-azul-1c6jejmg9f2rkm-eqzvquh1ydonatg4h1",
+      "id": "camisa-polo-a-identificar-p-cor-a-identificar-1c6jejmg9f2rkm-eqzvquh1ydonatg4h1",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "P",
-      "color": "Azul",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
