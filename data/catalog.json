@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-21T11:30:07.201Z",
+    "syncedAt": "2026-09-21T17:28:29.244Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -2128,26 +2128,6 @@
       "folderPath": "CAMISAS POLO  / POLO P",
       "createdTime": "2026-08-31T09:58:01.971Z",
       "modifiedTime": "2026-08-31T09:58:01.991Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-46-azul-1fjdhafgyauj-kjahpfoidjvokxucd7ej",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1fjdhAfgYAuJ-KJahPFoiDJVOkXUcd7Ej",
-      "fileName": "20260710_154332.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1fjdhAfgYAuJ-KJahPFoiDJVOkXUcd7Ej/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1fjdhAfgYAuJ-KJahPFoiDJVOkXUcd7Ej&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 46",
-      "createdTime": "2026-08-27T20:05:39.689Z",
-      "modifiedTime": "2026-08-27T20:05:39.719Z"
     },
     {
       "id": "calca-alfaiataria-a-identificar-48-preto-1t1fitf0iumgbfgtcamofhjfjvwlpn9na",
