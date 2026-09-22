@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-22T19:25:13.403Z",
+    "syncedAt": "2026-09-22T22:33:56.908Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -628,26 +628,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 46",
       "createdTime": "2026-09-08T19:38:47.818Z",
       "modifiedTime": "2026-09-08T19:38:47.832Z"
-    },
-    {
-      "id": "calca-sarja-a-identificar-44-cinza-1cpgu0-pyt9124rzmvzns9idquljsd2ob",
-      "title": "Calca sarja",
-      "category": "Calca sarja",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 119.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1cpGU0_pyt9124RzMVzNs9IDqUlJsD2ob",
-      "fileName": "PhotoGrid_Site_1781690947954.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1cpGU0_pyt9124RzMVzNs9IDqUlJsD2ob/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1cpGU0_pyt9124RzMVzNs9IDqUlJsD2ob&sz=w900",
-      "folderName": "CALÇAS DE SARJA ",
-      "folderPath": "CALÇAS DE SARJA  / CALÇAS 44",
-      "createdTime": "2026-09-08T19:38:30.996Z",
-      "modifiedTime": "2026-09-08T19:38:31.019Z"
     },
     {
       "id": "short-bermuda-a-identificar-m-rosa-1cy-dn1n-l2oh-blnjrwmbttvt8zhif5q",
