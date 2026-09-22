@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-22T15:17:27.704Z",
+    "syncedAt": "2026-09-22T19:25:13.403Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -188,26 +188,6 @@
       "folderPath": "BERMUDAS DE SARJA / BERMUDAS 40",
       "createdTime": "2026-09-15T20:16:03.771Z",
       "modifiedTime": "2026-09-15T20:16:03.788Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-gg-preto-1wbug6b6qajf1k46qpjnhkjdjhkoc0xux",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1wbug6b6qAJf1k46qPJnHkjDJHkoC0xux",
-      "fileName": "20260429_180109.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1wbug6b6qAJf1k46qPJnHkjDJHkoC0xux/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1wbug6b6qAJf1k46qPJnHkjDJHkoC0xux&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-09-15T20:12:14.654Z",
-      "modifiedTime": "2026-09-15T20:12:14.679Z"
     },
     {
       "id": "camisa-premium-premium-gg-preto-1cfhb-7ng6klkzcq884btv0adxjxubkmh",
@@ -5090,26 +5070,6 @@
       "modifiedTime": "2026-07-25T13:05:13.306Z"
     },
     {
-      "id": "camisa-polo-a-identificar-g-cinza-1zhn4wagt14gs2ikebgroqzrnujpbqji5",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1zhN4wAgT14gs2IKeBGRoqzrnUjPbQJI5",
-      "fileName": "20260401_174914.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1zhN4wAgT14gs2IKeBGRoqzrnUjPbQJI5/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1zhN4wAgT14gs2IKeBGRoqzrnUjPbQJI5&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-07-25T12:20:16.191Z",
-      "modifiedTime": "2026-07-25T12:20:16.221Z"
-    },
-    {
       "id": "calca-sarja-a-identificar-38-preto-1zguh3i7ino2pjh5vkc8fhcawoq1w4pbs",
       "title": "Calca sarja",
       "category": "Calca sarja",
@@ -7468,26 +7428,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 46",
       "createdTime": "2026-07-11T22:26:20.060Z",
       "modifiedTime": "2026-07-11T22:26:20.071Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-46-azul-1f2b7nvgvesw2zihrb-9xlx5jjzdzoqn",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1F2B7NVgVeSW2ZiHrB__9xlX5jjzdzOqN",
-      "fileName": "20260710_161018.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1F2B7NVgVeSW2ZiHrB__9xlX5jjzdzOqN/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1F2B7NVgVeSW2ZiHrB__9xlX5jjzdzOqN&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 46",
-      "createdTime": "2026-07-11T22:26:19.991Z",
-      "modifiedTime": "2026-07-11T22:26:20.006Z"
     },
     {
       "id": "calca-jeans-a-identificar-38-preto-1tzjjq73yq4tglxml40l1xjzj6m6veyma",
@@ -10530,26 +10470,6 @@
       "modifiedTime": "2026-04-02T02:19:02.141Z"
     },
     {
-      "id": "camisa-feminina-farm-m-bege-1jbfmoppmtg8ku16rhv3i8ydvghzrsj7k",
-      "title": "Camisa feminina Farm",
-      "category": "Camisa feminina",
-      "brand": "Farm",
-      "size": "M",
-      "color": "Bege",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1jbfMoppmtG8kU16Rhv3i8YDVgHZrsJ7K",
-      "fileName": "IMG-20260325-WA0231.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1jbfMoppmtG8kU16Rhv3i8YDVgHZrsJ7K/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1jbfMoppmtG8kU16Rhv3i8YDVgHZrsJ7K&sz=w900",
-      "folderName": "CAMISA FEMINA FARM",
-      "folderPath": "CAMISA FEMINA FARM / FARM M",
-      "createdTime": "2026-04-02T02:19:02.110Z",
-      "modifiedTime": "2026-04-02T02:19:02.119Z"
-    },
-    {
       "id": "camisa-feminina-farm-m-laranja-1tyn0xzrzpt1hcnjkxqzbrntivmsau-pk",
       "title": "Camisa feminina Farm",
       "category": "Camisa feminina",
@@ -12608,26 +12528,6 @@
       "folderPath": "CAMISA FEMINA FARM / FARM M",
       "createdTime": "2025-12-18T10:31:20.247Z",
       "modifiedTime": "2025-12-18T10:31:20.258Z"
-    },
-    {
-      "id": "camisa-feminina-farm-m-laranja-1qkqlro9gp-kehjumcbtv6gnvz6lvtknu",
-      "title": "Camisa feminina Farm",
-      "category": "Camisa feminina",
-      "brand": "Farm",
-      "size": "M",
-      "color": "Laranja",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1QKQlRo9GP_KEhjUmCBTv6GnvZ6lvTknU",
-      "fileName": "IMG-20251205-WA0260.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1QKQlRo9GP_KEhjUmCBTv6GnvZ6lvTknU/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1QKQlRo9GP_KEhjUmCBTv6GnvZ6lvTknU&sz=w900",
-      "folderName": "CAMISA FEMINA FARM",
-      "folderPath": "CAMISA FEMINA FARM / FARM M",
-      "createdTime": "2025-12-18T10:31:20.196Z",
-      "modifiedTime": "2025-12-18T10:31:20.208Z"
     },
     {
       "id": "camisa-polo-a-identificar-p-azul-1di4w7eatksnhvotfr95im6qce0rx4hac",
