@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-22T10:37:42.509Z",
+    "syncedAt": "2026-09-22T15:17:27.704Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "camisa-premium-premium-m-preto-1rmr8er0fcxr5my94nzhch7kftxb8iixu",
+      "title": "Camisa premium",
+      "category": "Camisa premium",
+      "brand": "Premium",
+      "size": "M",
+      "color": "Preto",
+      "colorSource": "imagem",
+      "price": 79.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1RmR8Er0fcXR5MY94NZHch7kFTxb8IIxU",
+      "fileName": "20260716_165753.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1RmR8Er0fcXR5MY94NZHch7kFTxb8IIxU/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1RmR8Er0fcXR5MY94NZHch7kFTxb8IIxU&sz=w900",
+      "folderName": "CAMISAS PREMIUM ",
+      "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
+      "createdTime": "2026-09-22T13:47:12.674Z",
+      "modifiedTime": "2026-09-22T13:47:12.698Z"
+    },
     {
       "id": "camisa-polo-a-identificar-gg-azul-1vwordyj140-n2ximn5b0koyxczwdydfu",
       "title": "Camisa polo",
@@ -4228,26 +4248,6 @@
       "folderPath": "CAMISAS POLO  / POLO G",
       "createdTime": "2026-08-23T17:22:35.953Z",
       "modifiedTime": "2026-08-23T17:22:35.959Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-g-preto-1-mpncqm37y26uwmjmwk3jteavzabvuxu",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1_MpNcQm37y26uWMJMWK3JtEaVzAbVuxu",
-      "fileName": "IMG-20260823-WA0083.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1_MpNcQm37y26uWMJMWK3JtEaVzAbVuxu/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1_MpNcQm37y26uWMJMWK3JtEaVzAbVuxu&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-08-23T17:22:35.933Z",
-      "modifiedTime": "2026-08-23T17:22:35.940Z"
     },
     {
       "id": "camisa-polo-a-identificar-g-preto-1nrabink9tf-2w0pwmo5wtzwtwmslviyu",
@@ -8588,26 +8588,6 @@
       "folderPath": "CALÇAS DE SARJA  / CALÇAS 42",
       "createdTime": "2026-06-17T10:35:09.864Z",
       "modifiedTime": "2026-06-17T10:35:09.878Z"
-    },
-    {
-      "id": "calca-sarja-a-identificar-40-cinza-1th3medmj1fh938svj-prcoi2xdkvvwul",
-      "title": "Calca sarja",
-      "category": "Calca sarja",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 119.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Th3meDmj1fH938SVj-PrcOi2xdkvVwUl",
-      "fileName": "PhotoGrid_Site_1781690947954.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Th3meDmj1fH938SVj-PrcOi2xdkvVwUl/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Th3meDmj1fH938SVj-PrcOi2xdkvVwUl&sz=w900",
-      "folderName": "CALÇAS DE SARJA ",
-      "folderPath": "CALÇAS DE SARJA  / CALÇAS 40",
-      "createdTime": "2026-06-17T10:35:01.290Z",
-      "modifiedTime": "2026-06-17T10:35:01.297Z"
     },
     {
       "id": "calca-sarja-a-identificar-40-cinza-1l5l443qxrbmrupecwxgazfo2khmjdfkt",
