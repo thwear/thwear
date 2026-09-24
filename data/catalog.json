@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-24T13:17:23.076Z",
+    "syncedAt": "2026-09-24T18:05:36.479Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,6 +49,26 @@
     }
   ],
   "products": [
+    {
+      "id": "calca-jeans-a-identificar-44-azul-1rbkioqcgiinedxbvwrvbdjmi2hdcn1ck",
+      "title": "Calca jeans",
+      "category": "Calca jeans",
+      "brand": "A identificar",
+      "size": "44",
+      "color": "Azul",
+      "colorSource": "imagem",
+      "price": 129.9,
+      "status": "available",
+      "confidence": "path",
+      "driveFileId": "1rbKiOQCgiineDxbvwrVBdJMi2HdCN1cK",
+      "fileName": "20260824_144028.jpg",
+      "driveUrl": "https://drive.google.com/file/d/1rbKiOQCgiineDxbvwrVBdJMi2HdCN1cK/view?usp=drivesdk",
+      "image": "https://drive.google.com/thumbnail?id=1rbKiOQCgiineDxbvwrVBdJMi2HdCN1cK&sz=w900",
+      "folderName": "CALÇAS JEANS ",
+      "folderPath": "CALÇAS JEANS  / CALÇAS 44",
+      "createdTime": "2026-09-24T17:04:57.811Z",
+      "modifiedTime": "2026-09-24T17:04:57.841Z"
+    },
     {
       "id": "camisa-premium-premium-m-preto-1rmr8er0fcxr5my94nzhch7kftxb8iixu",
       "title": "Camisa premium",
@@ -430,26 +450,6 @@
       "modifiedTime": "2026-09-15T02:21:18.642Z"
     },
     {
-      "id": "camisa-polo-a-identificar-g-cinza-1x1dvtyifihruco24vjw1zrn8vvp0x3mu",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1x1dVTYiFIhRUco24vJw1ZRn8vvp0X3mU",
-      "fileName": "20260914_172814.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1x1dVTYiFIhRUco24vJw1ZRn8vvp0X3mU/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1x1dVTYiFIhRUco24vJw1ZRn8vvp0X3mU&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-09-15T02:21:18.571Z",
-      "modifiedTime": "2026-09-15T02:21:18.588Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-m-marrom-19siwugcfo9gxnng65wob1qothewq8duz",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -508,26 +508,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-09-15T02:21:05.639Z",
       "modifiedTime": "2026-09-15T02:21:05.651Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-cinza-1my55h8lrirjxaebw0duotex92xp28bdh",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1my55h8LrIRjxaEBW0dUOTex92Xp28bDh",
-      "fileName": "20260914_172045.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1my55h8LrIRjxaEBW0dUOTex92Xp28bDh/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1my55h8LrIRjxaEBW0dUOTex92Xp28bDh&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-09-15T02:21:05.604Z",
-      "modifiedTime": "2026-09-15T02:21:05.618Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-preto-1-5gymlt0xqm-jarbuyddx-gm29yohkk1",
@@ -7188,26 +7168,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-07-15T00:59:51.093Z",
       "modifiedTime": "2026-07-15T00:59:51.102Z"
-    },
-    {
-      "id": "camisa-premium-premium-p-vinho-1xhrvshfmq-vsaer9txstmyzlpny5ja6z",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "P",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1XHrVShfMq-VsAeR9txsTmYZLpny5JA6z",
-      "fileName": "IMG-20260714-WA0379.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1XHrVShfMq-VsAeR9txsTmYZLpny5JA6z/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1XHrVShfMq-VsAeR9txsTmYZLpny5JA6z&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
-      "createdTime": "2026-07-15T00:59:51.035Z",
-      "modifiedTime": "2026-07-15T00:59:51.045Z"
     },
     {
       "id": "camisa-premium-premium-p-cinza-1p24xuqurlqdqbm7wv0ytsqmjqaemu-gw",
