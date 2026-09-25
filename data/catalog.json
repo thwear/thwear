@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-25T15:41:57.888Z",
+    "syncedAt": "2026-09-25T19:43:48.276Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -7310,26 +7310,6 @@
       "modifiedTime": "2026-07-11T22:25:35.440Z"
     },
     {
-      "id": "short-bermuda-a-identificar-46-preto-1zwhmc1yifmxudohwx4txb7k33izp3cl1",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1ZWHmc1yIfMxUDoHwX4txb7k33izP3cl1",
-      "fileName": "PhotoGrid_Plus_1765843862091.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1ZWHmc1yIfMxUDoHwX4txb7k33izP3cl1/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1ZWHmc1yIfMxUDoHwX4txb7k33izP3cl1&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 46",
-      "createdTime": "2026-07-10T13:01:16.580Z",
-      "modifiedTime": "2026-07-10T13:01:16.610Z"
-    },
-    {
       "id": "calca-alfaiataria-a-identificar-44-preto-1-ndxodzfwsljea723w-3laublc7ygvrn",
       "title": "Calca alfaiataria",
       "category": "Calca alfaiataria",
@@ -11828,26 +11808,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-01-30T03:55:05.650Z",
       "modifiedTime": "2026-01-30T03:55:05.663Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-46-preto-11u-8o1o7wnulwovenmv6wcftpwimyeqs",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "11U-8o1o7wNULWoVENMV6WcFTPWimYEQS",
-      "fileName": "20251118_172949.jpg",
-      "driveUrl": "https://drive.google.com/file/d/11U-8o1o7wNULWoVENMV6WcFTPWimYEQS/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=11U-8o1o7wNULWoVENMV6WcFTPWimYEQS&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 46",
-      "createdTime": "2026-01-29T20:45:45.180Z",
-      "modifiedTime": "2026-01-29T20:45:45.201Z"
     },
     {
       "id": "short-bermuda-a-identificar-40-preto-18p2lsloqriiaif3x7qbpwekdvrzqn3qb",
