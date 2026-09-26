@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-09-26T11:59:10.493Z",
+    "syncedAt": "2026-09-26T15:51:48.120Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -7430,13 +7430,13 @@
       "modifiedTime": "2026-07-10T03:27:07.695Z"
     },
     {
-      "id": "calca-alfaiataria-a-identificar-38-preto-1d9osg49s73bn5ax7vb-qcjzzhk6dp-ha",
+      "id": "calca-alfaiataria-a-identificar-38-cor-a-identificar-1d9osg49s73bn5ax7vb-qcjzzhk6dp-ha",
       "title": "Calca alfaiataria",
       "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
