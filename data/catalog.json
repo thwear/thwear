@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-02T13:24:09.575Z",
+    "syncedAt": "2026-10-02T18:50:33.731Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3050,26 +3050,6 @@
       "modifiedTime": "2026-08-25T12:18:08.589Z"
     },
     {
-      "id": "calca-jeans-a-identificar-44-preto-14gvljavrwvdviarjbbyoaw-ark0v5lwb",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "14GVLJAVrwVDviARjBBYOaW-ArK0v5lwb",
-      "fileName": "IMG-20260825-WA0044.jpg",
-      "driveUrl": "https://drive.google.com/file/d/14GVLJAVrwVDviARjBBYOaW-ArK0v5lwb/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=14GVLJAVrwVDviARjBBYOaW-ArK0v5lwb&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 44",
-      "createdTime": "2026-08-25T12:18:08.547Z",
-      "modifiedTime": "2026-08-25T12:18:08.555Z"
-    },
-    {
       "id": "calca-jeans-a-identificar-44-azul-1mcunbxui-cgxztwivxhesqvcckurkfkc",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -3088,26 +3068,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 44",
       "createdTime": "2026-08-25T12:18:08.479Z",
       "modifiedTime": "2026-08-25T12:18:08.489Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-42-azul-1d9crti2xhq2ksglv7s0mxfl9xj4v5-l3",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1D9CRti2XhQ2kSGlv7s0MxfL9Xj4v5-l3",
-      "fileName": "IMG-20260825-WA0041.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1D9CRti2XhQ2kSGlv7s0MxfL9Xj4v5-l3/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1D9CRti2XhQ2kSGlv7s0MxfL9Xj4v5-l3&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 42",
-      "createdTime": "2026-08-25T12:18:01.277Z",
-      "modifiedTime": "2026-08-25T12:18:01.285Z"
     },
     {
       "id": "calca-jeans-a-identificar-42-azul-1s80yy-jouqz0f-p2yj3trzy-lvuuje-d",
@@ -4150,26 +4110,6 @@
       "modifiedTime": "2026-08-17T01:13:22.060Z"
     },
     {
-      "id": "camisa-polo-a-identificar-g-verde-1i-awjoelfpa4xyhmzsyn2xfw6vlm6tgl",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Verde",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1i-AwjoeLFPA4XYhMZSYN2XFw6vLm6TGL",
-      "fileName": "20260814_173849.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1i-AwjoeLFPA4XYhMZSYN2XFw6vLm6TGL/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1i-AwjoeLFPA4XYhMZSYN2XFw6vLm6TGL&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-08-17T01:13:11.537Z",
-      "modifiedTime": "2026-08-17T01:13:11.555Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-g-laranja-1xpbcvisi10zsocghwk4d6w3sbncjmhxh",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -4188,26 +4128,6 @@
       "folderPath": "CAMISAS POLO  / POLO G",
       "createdTime": "2026-08-17T01:13:11.468Z",
       "modifiedTime": "2026-08-17T01:13:11.482Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-g-marrom-1upt2j-dppmafbusvn8obvjk6vcbtwxqj",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Marrom",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1UPt2j-DPpmaFbuSVN8OBvjk6vCBTwxQJ",
-      "fileName": "20260814_175218.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1UPt2j-DPpmaFbuSVN8OBvjk6vCBTwxQJ/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1UPt2j-DPpmaFbuSVN8OBvjk6vCBTwxQJ&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-08-17T01:13:11.330Z",
-      "modifiedTime": "2026-08-17T01:13:11.346Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-verde-1hxhfa8dltyebmarxagdo1xz4u4yejwwy",
