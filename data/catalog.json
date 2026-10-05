@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-05T16:47:54.656Z",
+    "syncedAt": "2026-10-05T23:01:43.866Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -11868,26 +11868,6 @@
       "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
       "createdTime": "2025-12-06T15:19:33.310Z",
       "modifiedTime": "2026-05-08T16:23:28.000Z"
-    },
-    {
-      "id": "perfume-a-identificar-unico-marrom-1szukaxrvvixpayhntefotqslw0rxlkpm",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Marrom",
-      "colorSource": "imagem",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1sZUKAxrvVixPaYHntEfOTqSlW0RXLKPm",
-      "fileName": "LÉONIE.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1sZUKAxrvVixPaYHntEfOTqSlW0RXLKPm/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1sZUKAxrvVixPaYHntEfOTqSlW0RXLKPm&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
-      "createdTime": "2025-12-06T15:19:33.236Z",
-      "modifiedTime": "2026-05-08T16:23:07.260Z"
     },
     {
       "id": "perfume-a-identificar-unico-preto-1fjpj4byxgnokjsobynqp-f4il8gwo00e",
