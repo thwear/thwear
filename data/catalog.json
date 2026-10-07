@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-07T15:02:11.375Z",
+    "syncedAt": "2026-10-07T20:55:44.161Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -148,26 +148,6 @@
       "folderPath": "CAMISAS POLO  / POLO GG",
       "createdTime": "2026-10-05T02:07:07.919Z",
       "modifiedTime": "2026-10-05T02:07:07.937Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-g-vinho-14ndd-yme451-wkv-zkjtnxlvpxobj-9e",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Vinho",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "14NdD-YmE451_wKV-zKJTNXlVPXoBj-9E",
-      "fileName": "20260914_171427.jpg",
-      "driveUrl": "https://drive.google.com/file/d/14NdD-YmE451_wKV-zKJTNXlVPXoBj-9E/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=14NdD-YmE451_wKV-zKJTNXlVPXoBj-9E&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-10-05T02:06:33.912Z",
-      "modifiedTime": "2026-10-05T02:06:33.965Z"
     },
     {
       "id": "camisa-polo-a-identificar-g-azul-1pmgjc2v-7bxoqtpqdikaljorqxwlpee",
@@ -568,26 +548,6 @@
       "folderPath": "CAMISAS POLO  / POLO GG",
       "createdTime": "2026-09-15T02:21:29.485Z",
       "modifiedTime": "2026-09-15T02:21:29.498Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-g-azul-1tp2uotct9dn6onyes-iwzjyh9fcvcnt6",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Tp2UotCT9DN6ONyES-iwZjYh9FcVcNT6",
-      "fileName": "20260914_171721.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Tp2UotCT9DN6ONyES-iwZjYh9FcVcNT6/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Tp2UotCT9DN6ONyES-iwZjYh9FcVcNT6&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-09-15T02:21:18.686Z",
-      "modifiedTime": "2026-09-15T02:21:18.699Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-azul-1o0jl0bmhesztuie6hu-xfrhof4x5xdmh",
