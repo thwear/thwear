@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-09T14:13:12.071Z",
+    "syncedAt": "2026-10-09T19:56:30.297Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -288,26 +288,6 @@
       "folderPath": "CAMISAS POLO  / POLO P",
       "createdTime": "2026-09-30T17:47:22.493Z",
       "modifiedTime": "2026-09-30T17:47:22.508Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-p-preto-199d3v-avpbbd-kuf28axut3vx4qbgqb",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "P",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "199D3V-aVpbbd_KUF28axuT3VX4QbgqB_",
-      "fileName": "20260429_180400.jpg",
-      "driveUrl": "https://drive.google.com/file/d/199D3V-aVpbbd_KUF28axuT3VX4QbgqB_/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=199D3V-aVpbbd_KUF28axuT3VX4QbgqB_&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO P",
-      "createdTime": "2026-09-30T17:47:22.464Z",
-      "modifiedTime": "2026-09-30T17:47:22.477Z"
     },
     {
       "id": "calca-alfaiataria-a-identificar-40-preto-1upq3oksc-jah1qdftgt-kn9mj6nur5j8",
@@ -4210,26 +4190,6 @@
       "modifiedTime": "2026-08-17T01:12:52.831Z"
     },
     {
-      "id": "camisa-polo-a-identificar-p-azul-1tj0vqfdtc-vjp570qtrcgyzd-jzmsdsf",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "P",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Tj0VQfDTc_vJP570qtrcGYzD_jZMSdSF",
-      "fileName": "20260814_174130.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Tj0VQfDTc_vJP570qtrcGYzD_jZMSdSF/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Tj0VQfDTc_vJP570qtrcGYzD_jZMSdSF&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO P",
-      "createdTime": "2026-08-17T01:12:52.784Z",
-      "modifiedTime": "2026-08-17T01:12:52.799Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-p-laranja-1orahpnpk09chro1b-686xoi1z6lnprb8",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -4970,13 +4930,13 @@
       "modifiedTime": "2026-07-21T23:32:09.445Z"
     },
     {
-      "id": "short-bermuda-a-identificar-42-cor-a-identificar-1tgf546toko91m9cclh2xbziggufepggv",
+      "id": "short-bermuda-a-identificar-42-preto-1tgf546toko91m9cclh2xbziggufepggv",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "42",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Preto",
+      "colorSource": "imagem",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
