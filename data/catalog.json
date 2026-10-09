@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-09T06:59:55.427Z",
+    "syncedAt": "2026-10-09T14:13:12.071Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -3850,26 +3850,6 @@
       "modifiedTime": "2026-08-23T17:22:35.897Z"
     },
     {
-      "id": "camisa-polo-a-identificar-g-cinza-1v-d3gxrs3ddnwpy-3rhrjrycth478y7b",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1v_D3gxrs3dDNwpY-3RhrjRyCTh478y7B",
-      "fileName": "IMG-20260823-WA0090.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1v_D3gxrs3dDNwpY-3RhrjRyCTh478y7B/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1v_D3gxrs3dDNwpY-3RhrjRyCTh478y7B&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-08-23T17:22:35.867Z",
-      "modifiedTime": "2026-08-23T17:22:35.875Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-g-cinza-16btiyvkuhcjt4xyryhtb69atq7o2blsf",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -4990,13 +4970,13 @@
       "modifiedTime": "2026-07-21T23:32:09.445Z"
     },
     {
-      "id": "short-bermuda-a-identificar-42-preto-1tgf546toko91m9cclh2xbziggufepggv",
+      "id": "short-bermuda-a-identificar-42-cor-a-identificar-1tgf546toko91m9cclh2xbziggufepggv",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "42",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
