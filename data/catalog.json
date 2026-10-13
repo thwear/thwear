@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-13T19:41:00.746Z",
+    "syncedAt": "2026-10-13T23:32:43.451Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1848,26 +1848,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-09-30T17:42:30.741Z",
       "modifiedTime": "2026-09-30T17:42:30.766Z"
-    },
-    {
-      "id": "camisa-premium-premium-m-preto-1rmr8er0fcxr5my94nzhch7kftxb8iixu",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1RmR8Er0fcXR5MY94NZHch7kFTxb8IIxU",
-      "fileName": "20260716_165753.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1RmR8Er0fcXR5MY94NZHch7kFTxb8IIxU/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1RmR8Er0fcXR5MY94NZHch7kFTxb8IIxU&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
-      "createdTime": "2026-09-22T13:47:12.674Z",
-      "modifiedTime": "2026-09-22T13:47:12.698Z"
     },
     {
       "id": "short-bermuda-a-identificar-44-preto-1cwgpnyb-u4qfgts8gf6wvbl3evy0gbvs",
