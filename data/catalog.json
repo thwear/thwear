@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-14T08:15:35.027Z",
+    "syncedAt": "2026-10-14T14:14:22.200Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -6690,26 +6690,6 @@
       "modifiedTime": "2026-07-25T13:05:46.933Z"
     },
     {
-      "id": "short-bermuda-a-identificar-m-cinza-16ru5fgjdrjprfqnn3t9hqduuilfeldbe",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "16Ru5FGJdrJPrfQNn3t9hQdUuiLFeLdbE",
-      "fileName": "IMG-20260725-WA0016.jpg",
-      "driveUrl": "https://drive.google.com/file/d/16Ru5FGJdrJPrfQNn3t9hQdUuiLFeLdbE/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=16Ru5FGJdrJPrfQNn3t9hQdUuiLFeLdbE&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT M",
-      "createdTime": "2026-07-25T13:05:32.822Z",
-      "modifiedTime": "2026-07-25T13:05:32.834Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-gg-cinza-11qxzezv6f3ccf0zglkdhfvpixlzpuw91",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -9988,26 +9968,6 @@
       "folderPath": "CALÇAS DE SARJA  / CALÇAS 38",
       "createdTime": "2026-06-17T10:34:50.833Z",
       "modifiedTime": "2026-06-17T10:34:50.858Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-m-vermelho-1to0amt5tmohsjyzxc-kan4wusxtnuepc",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Vermelho",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1TO0aMT5tMoHsJyzXc-KAN4WUsxTNuepc",
-      "fileName": "IMG-20260615-WA0295.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1TO0aMT5tMoHsJyzXc-KAN4WUsxTNuepc/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1TO0aMT5tMoHsJyzXc-KAN4WUsxTNuepc&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT M",
-      "createdTime": "2026-06-16T02:03:44.050Z",
-      "modifiedTime": "2026-06-16T02:03:44.054Z"
     },
     {
       "id": "camisa-polo-a-identificar-gg-cinza-1xhe2uzpd7wguwrstceeccusskybpoqiu",
