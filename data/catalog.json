@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-17T14:41:46.053Z",
+    "syncedAt": "2026-10-17T17:39:07.196Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -770,13 +770,13 @@
       "modifiedTime": "2026-10-14T02:58:48.147Z"
     },
     {
-      "id": "calca-jeans-a-identificar-40-cor-a-identificar-185h3givucf8ac7dwrqtsuudnp4ufiia2",
+      "id": "calca-jeans-a-identificar-40-cinza-185h3givucf8ac7dwrqtsuudnp4ufiia2",
       "title": "Calca jeans",
       "category": "Calca jeans",
       "brand": "A identificar",
       "size": "40",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
