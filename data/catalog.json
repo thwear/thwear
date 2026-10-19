@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-19T05:31:27.963Z",
+    "syncedAt": "2026-10-19T11:42:31.151Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5010,13 +5010,13 @@
       "modifiedTime": "2026-08-26T10:56:08.984Z"
     },
     {
-      "id": "calca-alfaiataria-a-identificar-38-cinza-1bu6mtiukmbniiblqegu4grjcnjg9vbhn",
+      "id": "calca-alfaiataria-a-identificar-38-cor-a-identificar-1bu6mtiukmbniiblqegu4grjcnjg9vbhn",
       "title": "Calca alfaiataria",
       "category": "Calca alfaiataria",
       "brand": "A identificar",
       "size": "38",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
@@ -9050,13 +9050,13 @@
       "modifiedTime": "2026-06-30T04:09:57.276Z"
     },
     {
-      "id": "camisa-polo-a-identificar-p-preto-1nupequyyql4s6lpzhwqkldl7gyj5ifoz",
+      "id": "camisa-polo-a-identificar-p-cor-a-identificar-1nupequyyql4s6lpzhwqkldl7gyj5ifoz",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "P",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
