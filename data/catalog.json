@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-20T06:53:13.009Z",
+    "syncedAt": "2026-10-20T12:27:08.277Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -730,13 +730,13 @@
       "modifiedTime": "2026-10-20T02:22:24.600Z"
     },
     {
-      "id": "camisa-polo-a-identificar-gg-preto-15oy7qhaufqk5ki028apzlgos7flsd6mi",
+      "id": "camisa-polo-a-identificar-gg-cor-a-identificar-15oy7qhaufqk5ki028apzlgos7flsd6mi",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
