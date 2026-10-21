@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-21T19:51:55.471Z",
+    "syncedAt": "2026-10-21T22:54:37.406Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -49,26 +49,6 @@
     }
   ],
   "products": [
-    {
-      "id": "camisa-premium-premium-gg-cinza-1-dzqqs0kt9t3goehhsemagupierkuupq",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1-DzqQS0Kt9t3GoEhhSEmAGuPieRkUUpQ",
-      "fileName": "20260529_173044.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1-DzqQS0Kt9t3GoEhhSEmAGuPieRkUUpQ/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1-DzqQS0Kt9t3GoEhhSEmAGuPieRkUUpQ&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-10-21T19:34:29.490Z",
-      "modifiedTime": "2026-10-21T19:34:29.502Z"
-    },
     {
       "id": "camisa-premium-premium-gg-cinza-11mmw-uansl-7hmm2jlpxt28lydx0jboi",
       "title": "Camisa premium",
@@ -2430,13 +2410,13 @@
       "modifiedTime": "2026-10-13T10:11:50.418Z"
     },
     {
-      "id": "camisa-premium-premium-g-cor-a-identificar-1qw-e-b3u8pplm63yslpqg2hvxi1nikry",
+      "id": "camisa-premium-premium-g-cinza-1qw-e-b3u8pplm63yslpqg2hvxi1nikry",
       "title": "Camisa premium",
       "category": "Camisa premium",
       "brand": "Premium",
       "size": "G",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Cinza",
+      "colorSource": "imagem",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
@@ -12290,13 +12270,13 @@
       "modifiedTime": "2026-04-02T02:18:19.998Z"
     },
     {
-      "id": "camisa-feminina-farm-p-cor-a-identificar-1biey3yltqn4ht0hwifyyokvnjtdnbd0z",
+      "id": "camisa-feminina-farm-p-laranja-1biey3yltqn4ht0hwifyyokvnjtdnbd0z",
       "title": "Camisa feminina Farm",
       "category": "Camisa feminina",
       "brand": "Farm",
       "size": "P",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Laranja",
+      "colorSource": "imagem",
       "price": 79.9,
       "status": "available",
       "confidence": "path",
