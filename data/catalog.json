@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-21T00:16:17.966Z",
+    "syncedAt": "2026-10-21T05:37:40.594Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5870,13 +5870,13 @@
       "modifiedTime": "2026-08-25T12:18:15.529Z"
     },
     {
-      "id": "calca-jeans-a-identificar-46-cor-a-identificar-1auzoqtjqrdhjyz-wgore2a1ab-gpvqec",
+      "id": "calca-jeans-a-identificar-46-azul-1auzoqtjqrdhjyz-wgore2a1ab-gpvqec",
       "title": "Calca jeans",
       "category": "Calca jeans",
       "brand": "A identificar",
       "size": "46",
-      "color": "Cor a identificar",
-      "colorSource": "indefinida",
+      "color": "Azul",
+      "colorSource": "imagem",
       "price": 129.9,
       "status": "available",
       "confidence": "path",
