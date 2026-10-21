@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-21T05:37:40.594Z",
+    "syncedAt": "2026-10-21T11:05:41.806Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -4050,13 +4050,13 @@
       "modifiedTime": "2026-09-08T10:27:16.626Z"
     },
     {
-      "id": "short-bermuda-a-identificar-m-azul-1-h1mkjqrsalhq-xx-79q5ghe1siwkqbu",
+      "id": "short-bermuda-a-identificar-m-cor-a-identificar-1-h1mkjqrsalhq-xx-79q5ghe1siwkqbu",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "M",
-      "color": "Azul",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 85,
       "status": "available",
       "confidence": "path",
@@ -6330,13 +6330,13 @@
       "modifiedTime": "2026-08-23T17:22:57.069Z"
     },
     {
-      "id": "camisa-polo-a-identificar-p-preto-1kbaysxgfamjrv-iygz0cflhaf4h3mxp",
+      "id": "camisa-polo-a-identificar-p-cor-a-identificar-1kbaysxgfamjrv-iygz0cflhaf4h3mxp",
       "title": "Camisa polo",
       "category": "Camisa polo",
       "brand": "A identificar",
       "size": "P",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 99.9,
       "status": "available",
       "confidence": "path",
@@ -12570,13 +12570,13 @@
       "modifiedTime": "2026-03-18T09:51:26.960Z"
     },
     {
-      "id": "short-bermuda-a-identificar-m-preto-1wpkce5bc9lkhc0cv83aq4ubfs1grxozc",
+      "id": "short-bermuda-a-identificar-m-cor-a-identificar-1wpkce5bc9lkhc0cv83aq4ubfs1grxozc",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
       "brand": "A identificar",
       "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": 85,
       "status": "available",
       "confidence": "path",
@@ -14190,13 +14190,13 @@
       "modifiedTime": "2025-11-18T22:54:06.681Z"
     },
     {
-      "id": "perfume-a-identificar-unico-cinza-1o9ssb7hg6cqhhgvo56cqmmlqhkhbvrkr",
+      "id": "perfume-a-identificar-unico-cor-a-identificar-1o9ssb7hg6cqhhgvo56cqmmlqhkhbvrkr",
       "title": "Perfume",
       "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
-      "color": "Cinza",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": null,
       "status": "available",
       "confidence": "path",
