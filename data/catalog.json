@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-23T13:58:06.233Z",
+    "syncedAt": "2026-10-23T18:04:57.281Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -5930,26 +5930,6 @@
       "modifiedTime": "2026-08-25T12:18:08.489Z"
     },
     {
-      "id": "calca-jeans-a-identificar-40-preto-1ekgcriwytfjgdj5demcdnimznstopebb",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1EkGCRiwYTfjgdj5dEmCDNIMznSTOPebB",
-      "fileName": "IMG-20260825-WA0045.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1EkGCRiwYTfjgdj5dEmCDNIMznSTOPebB/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1EkGCRiwYTfjgdj5dEmCDNIMznSTOPebB&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 40",
-      "createdTime": "2026-08-25T12:17:54.271Z",
-      "modifiedTime": "2026-08-25T12:17:54.297Z"
-    },
-    {
       "id": "calca-jeans-a-identificar-38-preto-1a6gszijfhw-4sfhm3cnt3oyfzfngp18",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -8870,26 +8850,6 @@
       "modifiedTime": "2026-07-15T01:00:48.170Z"
     },
     {
-      "id": "camisa-premium-premium-m-preto-1ir1gjwx-qd83wbybohtzpxioz-8c5gmt",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Ir1GjWx_QD83wByBOHtzPXioZ_8C5Gmt",
-      "fileName": "IMG-20260714-WA0374.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Ir1GjWx_QD83wByBOHtzPXioZ_8C5Gmt/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Ir1GjWx_QD83wByBOHtzPXioZ_8C5Gmt&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
-      "createdTime": "2026-07-15T01:00:09.914Z",
-      "modifiedTime": "2026-07-15T01:00:09.920Z"
-    },
-    {
       "id": "camisa-premium-premium-m-cinza-11vihri0wlygme8gmbeoninajocskwzia",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -8988,26 +8948,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
       "createdTime": "2026-07-15T01:00:09.808Z",
       "modifiedTime": "2026-07-15T01:00:09.813Z"
-    },
-    {
-      "id": "camisa-premium-premium-m-preto-1nfsmtgh1h-ur2u9dwlorrsyumraxdcsx",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1nFSmTGh1h-ur2U9DwlorrsyUMRAXdCSx",
-      "fileName": "IMG-20260714-WA0365.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1nFSmTGh1h-ur2U9DwlorrsyUMRAXdCSx/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1nFSmTGh1h-ur2U9DwlorrsyUMRAXdCSx&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM M",
-      "createdTime": "2026-07-15T01:00:09.767Z",
-      "modifiedTime": "2026-07-15T01:00:09.776Z"
     },
     {
       "id": "camisa-premium-premium-m-vinho-165trbqzuxniq1hyeh8e3izbqk1gmx1dg",
