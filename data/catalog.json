@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-26T17:57:40.112Z",
+    "syncedAt": "2026-10-26T22:13:45.339Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -12608,26 +12608,6 @@
       "folderPath": "SHORT DE SARJA / SHORT P",
       "createdTime": "2026-03-18T09:51:26.948Z",
       "modifiedTime": "2026-03-18T09:51:26.960Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-m-preto-1wpkce5bc9lkhc0cv83aq4ubfs1grxozc",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1WpKCe5bc9lkHC0CV83AQ4UBFS1GrXozc",
-      "fileName": "20260317_171700.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1WpKCe5bc9lkHC0CV83AQ4UBFS1GrXozc/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1WpKCe5bc9lkHC0CV83AQ4UBFS1GrXozc&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT M",
-      "createdTime": "2026-03-18T09:50:55.743Z",
-      "modifiedTime": "2026-03-18T09:50:55.754Z"
     },
     {
       "id": "short-bermuda-a-identificar-gg-preto-1i-mwbsroqpypxlhzf-muul4fngi2azbb",
