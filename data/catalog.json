@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-27T07:04:57.980Z",
+    "syncedAt": "2026-10-27T13:47:56.452Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -2190,26 +2190,6 @@
       "modifiedTime": "2026-10-13T10:12:00.625Z"
     },
     {
-      "id": "camisa-premium-premium-gg-azul-1ufvgevdr1w-x-m9-cfztabeunlf-foes",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1UfVgEVDr1w-x-m9-CFZtABeUNlf_FOes",
-      "fileName": "IMG-20261013-WA0017.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1UfVgEVDr1w-x-m9-CFZtABeUNlf_FOes/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1UfVgEVDr1w-x-m9-CFZtABeUNlf_FOes&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-10-13T10:12:00.597Z",
-      "modifiedTime": "2026-10-13T10:12:00.604Z"
-    },
-    {
       "id": "camisa-premium-premium-gg-cinza-1cwnf-ixkg7cqmhpkv4iezbzuoatcni9",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -3870,26 +3850,6 @@
       "modifiedTime": "2026-09-14T19:13:36.999Z"
     },
     {
-      "id": "short-bermuda-a-identificar-46-cinza-1n5rsmcdr8a5g4mxl12l60vc4p-aapcqv",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "46",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1n5rsMCdr8a5g4mxl12l60VC4P_aApcqv",
-      "fileName": "20251118_173352.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1n5rsMCdr8a5g4mxl12l60VC4P_aApcqv/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1n5rsMCdr8a5g4mxl12l60VC4P_aApcqv&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 46",
-      "createdTime": "2026-09-08T19:38:47.818Z",
-      "modifiedTime": "2026-09-08T19:38:47.832Z"
-    },
-    {
       "id": "short-bermuda-a-identificar-m-rosa-1cy-dn1n-l2oh-blnjrwmbttvt8zhif5q",
       "title": "Short / Bermuda",
       "category": "Short / Bermuda",
@@ -4728,26 +4688,6 @@
       "folderPath": "SHORT DE SARJA / SHORT G",
       "createdTime": "2026-09-02T01:06:15.003Z",
       "modifiedTime": "2026-09-02T01:06:15.016Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-m-laranja-1jwjy2imigaxy30sixbsne7i1hid5lq7c",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Laranja",
-      "colorSource": "imagem",
-      "price": 85,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1Jwjy2IMIgAXy30SiXbsNE7I1Hid5lq7c",
-      "fileName": "IMG-20260725-WA0019.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1Jwjy2IMIgAXy30SiXbsNE7I1Hid5lq7c/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1Jwjy2IMIgAXy30SiXbsNE7I1Hid5lq7c&sz=w900",
-      "folderName": "SHORT DE SARJA",
-      "folderPath": "SHORT DE SARJA / SHORT M",
-      "createdTime": "2026-09-02T01:05:57.292Z",
-      "modifiedTime": "2026-09-02T01:05:57.296Z"
     },
     {
       "id": "short-bermuda-a-identificar-m-cinza-15kmcadohbfwfsjli4fnyas5lny0cgnaz",
