@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-10-28T16:54:32.226Z",
+    "syncedAt": "2026-10-28T21:27:06.283Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -6368,26 +6368,6 @@
       "folderPath": "CAMISAS POLO  / POLO P",
       "createdTime": "2026-08-23T17:22:56.915Z",
       "modifiedTime": "2026-08-23T17:22:56.948Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-cinza-1bl63aulzlbwdp-ub6xnpv4abblcequ8d",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1bL63aUlZLbWDP-uB6XNpV4abBLCeqU8d",
-      "fileName": "IMG-20260710-WA0291.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1bL63aUlZLbWDP-uB6XNpV4abBLCeqU8d/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1bL63aUlZLbWDP-uB6XNpV4abBLCeqU8d&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-08-23T17:22:46.976Z",
-      "modifiedTime": "2026-08-23T17:22:46.984Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-preto-1ojouy8llerdwm8b-hldsn3qoiwc0-nxs",
