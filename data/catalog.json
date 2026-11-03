@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-11-03T11:29:53.108Z",
+    "syncedAt": "2026-11-03T18:51:52.274Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -2670,26 +2670,6 @@
       "modifiedTime": "2026-10-14T02:59:07.755Z"
     },
     {
-      "id": "calca-jeans-a-identificar-44-cinza-1zefnh-mcn6t9d8mgvtmjtsmdjoc0czu5",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1zEfnh_MCN6t9d8mGVTmjTsmdjoC0Czu5",
-      "fileName": "20261013_173120.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1zEfnh_MCN6t9d8mGVTmjTsmdjoC0Czu5/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1zEfnh_MCN6t9d8mGVTmjTsmdjoC0Czu5&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 44",
-      "createdTime": "2026-10-14T02:59:07.727Z",
-      "modifiedTime": "2026-10-14T02:59:07.734Z"
-    },
-    {
       "id": "calca-jeans-a-identificar-44-azul-1kg8g-wuundp8hugyvdrrqf2zpzcgf9ut",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -4548,26 +4528,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
       "createdTime": "2026-09-30T17:42:30.791Z",
       "modifiedTime": "2026-09-30T17:42:30.830Z"
-    },
-    {
-      "id": "short-bermuda-a-identificar-44-preto-1cwgpnyb-u4qfgts8gf6wvbl3evy0gbvs",
-      "title": "Short / Bermuda",
-      "category": "Short / Bermuda",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1cWGpnYb-U4QFGts8gf6wvBl3Evy0GbvS",
-      "fileName": "PhotoGrid_Plus_1765844366265.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1cWGpnYb-U4QFGts8gf6wvBl3Evy0GbvS/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1cWGpnYb-U4QFGts8gf6wvBl3Evy0GbvS&sz=w900",
-      "folderName": "BERMUDAS DE SARJA",
-      "folderPath": "BERMUDAS DE SARJA / BERMUDAS 44",
-      "createdTime": "2026-09-15T20:35:16.378Z",
-      "modifiedTime": "2026-09-15T20:35:16.408Z"
     },
     {
       "id": "short-bermuda-a-identificar-40-cinza-19p2m-x-jasygrc-bunrly9fn9yqtwfh0",
