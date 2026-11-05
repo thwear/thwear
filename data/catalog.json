@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-11-05T07:35:25.781Z",
+    "syncedAt": "2026-11-05T15:57:38.363Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -2288,26 +2288,6 @@
       "folderPath": "CAMISAS POLO  / POLO G",
       "createdTime": "2026-10-20T02:22:33.459Z",
       "modifiedTime": "2026-10-20T02:22:33.472Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-gg-preto-1dyjwlikkvpmoxztwvgizirtdt13wlevg",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1DyJWlikKVPmOXZTWvgizIRtdt13wLevG",
-      "fileName": "IMG-20260617-WA0283.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1DyJWlikKVPmOXZTWvgizIRtdt13wLevG/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1DyJWlikKVPmOXZTWvgizIRtdt13wLevG&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-10-20T02:22:24.681Z",
-      "modifiedTime": "2026-10-20T02:22:24.690Z"
     },
     {
       "id": "camisa-polo-a-identificar-gg-preto-1m7e8-drumigbjcuicz-94bvsi2kacace",
