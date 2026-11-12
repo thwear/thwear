@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-11-11T18:13:47.762Z",
+    "syncedAt": "2026-11-12T01:11:10.509Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -588,26 +588,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-11-04T18:21:38.747Z",
       "modifiedTime": "2026-11-04T18:21:38.769Z"
-    },
-    {
-      "id": "camisa-premium-premium-gg-preto-1c1cf9mcereltqgebdblzjkdzm9jtvtxp",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1c1CF9mceRELtQgEBDBlzJKdzm9jtvTXP",
-      "fileName": "20260514_181140.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1c1CF9mceRELtQgEBDBlzJKdzm9jtvTXP/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1c1CF9mceRELtQgEBDBlzJKdzm9jtvTXP&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-11-03T19:16:18.959Z",
-      "modifiedTime": "2026-11-03T19:16:18.984Z"
     },
     {
       "id": "camisa-premium-premium-m-preto-1l7phdoqh-nubfywhvc7pzrxarjzidcvz",
@@ -3330,26 +3310,6 @@
       "modifiedTime": "2026-10-14T02:58:38.225Z"
     },
     {
-      "id": "camisa-premium-premium-gg-cinza-1cwnf-ixkg7cqmhpkv4iezbzuoatcni9",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1cwnf-Ixkg7cQmHpKV4IEZBZuoatcNI9_",
-      "fileName": "IMG-20261013-WA0015.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1cwnf-Ixkg7cQmHpKV4IEZBZuoatcNI9_/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1cwnf-Ixkg7cQmHpKV4IEZBZuoatcNI9_&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-10-13T10:12:00.551Z",
-      "modifiedTime": "2026-10-13T10:12:00.559Z"
-    },
-    {
       "id": "camisa-premium-premium-gg-bege-1hope4-cuknfyhmgvd90hztfjg5yfjo38",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -3368,26 +3328,6 @@
       "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
       "createdTime": "2026-10-13T10:12:00.408Z",
       "modifiedTime": "2026-10-13T10:12:00.416Z"
-    },
-    {
-      "id": "camisa-premium-premium-gg-cinza-1nrhjmknz2qmea6xo2vb4nrdlaoi8ikye",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1nrhjmKNZ2qMEA6xO2vb4NrDlAOI8IKYe",
-      "fileName": "IMG-20261013-WA0013.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1nrhjmKNZ2qMEA6xO2vb4NrDlAOI8IKYe/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1nrhjmKNZ2qMEA6xO2vb4NrDlAOI8IKYe&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-10-13T10:12:00.374Z",
-      "modifiedTime": "2026-10-13T10:12:00.385Z"
     },
     {
       "id": "camisa-premium-premium-gg-vinho-19zlygaoj4kmsev3nt2d-vg1r8qc2c1ek",
@@ -8610,26 +8550,6 @@
       "modifiedTime": "2026-07-19T19:01:36.690Z"
     },
     {
-      "id": "camisa-premium-premium-gg-cinza-1e0tbjhlgtkm741bxkklyzdjz0abhpw4g",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "GG",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1E0TBJhlgtkm741bXKkLyZDjZ0aBhPw4g",
-      "fileName": "IMG-20260714-WA0370.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1E0TBJhlgtkm741bXKkLyZDjZ0aBhPw4g/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1E0TBJhlgtkm741bXKkLyZDjZ0aBhPw4g&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM GG",
-      "createdTime": "2026-07-15T01:01:29.870Z",
-      "modifiedTime": "2026-07-15T01:01:29.879Z"
-    },
-    {
       "id": "camisa-premium-premium-gg-bege-1hpuvfpw7oq3rp3hj9wjl-bozluj71axm",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -12408,26 +12328,6 @@
       "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
       "createdTime": "2026-02-05T15:25:14.154Z",
       "modifiedTime": "2026-05-08T16:27:16.167Z"
-    },
-    {
-      "id": "perfume-a-identificar-unico-vermelho-1vabkfgir8ho7fp1xspu9wsobgmsvpsvd",
-      "title": "Perfume",
-      "category": "Perfume",
-      "brand": "A identificar",
-      "size": "Unico",
-      "color": "Vermelho",
-      "colorSource": "imagem",
-      "price": null,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1vAbKFGIR8ho7FP1xsPU9wSOBgMSVPsVD",
-      "fileName": "YARA ELIXIR.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1vAbKFGIR8ho7FP1xsPU9wSOBgMSVPsVD/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1vAbKFGIR8ho7FP1xsPU9wSOBgMSVPsVD&sz=w900",
-      "folderName": "PERFUMES ORIGINAIS ",
-      "folderPath": "PERFUMES ORIGINAIS  / ÁRABES",
-      "createdTime": "2026-02-05T15:25:14.093Z",
-      "modifiedTime": "2026-05-08T16:27:43.520Z"
     },
     {
       "id": "camisa-premium-premium-gg-cinza-10mnwqwypqonqo5vljxcpu30sfeuvuq6b",
