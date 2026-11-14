@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-11-13T18:57:59.116Z",
+    "syncedAt": "2026-11-14T00:08:57.610Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -1790,26 +1790,6 @@
       "modifiedTime": "2026-10-25T21:29:18.666Z"
     },
     {
-      "id": "camisa-polo-a-identificar-gg-preto-1mtibqb26-utiocnss2pnwxk-jg4z-swi",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "GG",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1mtIbqB26-utioCnss2PnWxK-jg4z_swi",
-      "fileName": "20261024_135146.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1mtIbqB26-utioCnss2PnWxK-jg4z_swi/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1mtIbqB26-utioCnss2PnWxK-jg4z_swi&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO GG",
-      "createdTime": "2026-10-25T21:29:18.629Z",
-      "modifiedTime": "2026-10-25T21:29:18.640Z"
-    },
-    {
       "id": "camisa-polo-a-identificar-g-cinza-17hnkbb0fshal5rkmolvqsa-qq8-qkust",
       "title": "Camisa polo",
       "category": "Camisa polo",
@@ -2768,26 +2748,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 48",
       "createdTime": "2026-10-14T02:59:27.014Z",
       "modifiedTime": "2026-10-14T02:59:27.025Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-48-cinza-1zcovl6iuvvzgpfmkp42s3yuudhuzkdml",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "48",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1zcovl6iuVVZGpFmKP42S3yuudHUzkdMl",
-      "fileName": "20261013_173120.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1zcovl6iuVVZGpFmKP42S3yuudHUzkdMl/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1zcovl6iuVVZGpFmKP42S3yuudHUzkdMl&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 48",
-      "createdTime": "2026-10-14T02:59:26.990Z",
-      "modifiedTime": "2026-10-14T02:59:27.000Z"
     },
     {
       "id": "calca-jeans-a-identificar-48-azul-1hcbasqxillemb7jc9dfvzvl1sf6k7pnl",
@@ -6468,26 +6428,6 @@
       "folderPath": "CAMISAS POLO  / POLO G",
       "createdTime": "2026-08-23T17:22:35.973Z",
       "modifiedTime": "2026-08-23T17:22:35.979Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-g-preto-1fahuzlgwnspzfywbj4dluykgtssao1bm",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "G",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1fAHUZLGwnspZfYwBj4DLuykGtsSaO1bm",
-      "fileName": "IMG-20260823-WA0080.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1fAHUZLGwnspZfYwBj4DLuykGtsSaO1bm/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1fAHUZLGwnspZfYwBj4DLuykGtsSaO1bm&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO G",
-      "createdTime": "2026-08-23T17:22:35.953Z",
-      "modifiedTime": "2026-08-23T17:22:35.959Z"
     },
     {
       "id": "camisa-polo-a-identificar-g-azul-1mhdyvsterunauwvcvjx577ktah6-wsdn",
