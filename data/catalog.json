@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-11-17T14:00:42.713Z",
+    "syncedAt": "2026-11-17T22:04:53.573Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -488,26 +488,6 @@
       "folderPath": "CAMISAS POLO  / POLO M",
       "createdTime": "2026-11-16T17:36:39.298Z",
       "modifiedTime": "2026-11-16T17:36:39.319Z"
-    },
-    {
-      "id": "camisa-polo-a-identificar-m-preto-1khbcdsr3zgogozgf1voppeps6vganeyp",
-      "title": "Camisa polo",
-      "category": "Camisa polo",
-      "brand": "A identificar",
-      "size": "M",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 99.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1kHBCDsR3ZgoGOzgF1Voppeps6vgaNEYp",
-      "fileName": "20250704_164715.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1kHBCDsR3ZgoGOzgF1Voppeps6vgaNEYp/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1kHBCDsR3ZgoGOzgF1Voppeps6vgaNEYp&sz=w900",
-      "folderName": "CAMISAS POLO ",
-      "folderPath": "CAMISAS POLO  / POLO M",
-      "createdTime": "2026-11-16T17:36:39.224Z",
-      "modifiedTime": "2026-11-16T17:36:39.238Z"
     },
     {
       "id": "camisa-polo-a-identificar-m-vinho-1kr1qr41ykqzbmvd0grqnre72bvplktyu",
@@ -1468,26 +1448,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 48",
       "createdTime": "2026-11-07T11:57:20.821Z",
       "modifiedTime": "2026-11-07T11:57:20.866Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-42-azul-1ifkbypsamtvjm3uxjncx7-fapfz2c8sd",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "42",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1iFkbyPsamTvJm3uxJNCx7_FaPfZ2C8Sd",
-      "fileName": "20260824_142838.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1iFkbyPsamTvJm3uxJNCx7_FaPfZ2C8Sd/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1iFkbyPsamTvJm3uxJNCx7_FaPfZ2C8Sd&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 42",
-      "createdTime": "2026-11-06T18:51:46.358Z",
-      "modifiedTime": "2026-11-06T18:51:46.378Z"
     },
     {
       "id": "camisa-premium-premium-m-preto-1l7phdoqh-nubfywhvc7pzrxarjzidcvz",
@@ -3750,26 +3710,6 @@
       "modifiedTime": "2026-10-14T02:59:07.674Z"
     },
     {
-      "id": "calca-jeans-a-identificar-44-preto-1h3q5wud4gkll-5eug49btxzls2xsul6d",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "44",
-      "color": "Preto",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1H3Q5wUD4GkLL_5euG49bTxZlS2XsUl6D",
-      "fileName": "20261013_174354.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1H3Q5wUD4GkLL_5euG49bTxZlS2XsUl6D/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1H3Q5wUD4GkLL_5euG49bTxZlS2XsUl6D&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 44",
-      "createdTime": "2026-10-14T02:59:07.635Z",
-      "modifiedTime": "2026-10-14T02:59:07.647Z"
-    },
-    {
       "id": "calca-jeans-a-identificar-42-azul-1aok9ivzkxylwtvse6flhcxc23fiowya2",
       "title": "Calca jeans",
       "category": "Calca jeans",
@@ -3848,26 +3788,6 @@
       "folderPath": "CALÇAS JEANS  / CALÇAS 40",
       "createdTime": "2026-10-14T02:58:48.109Z",
       "modifiedTime": "2026-10-14T02:58:48.119Z"
-    },
-    {
-      "id": "calca-jeans-a-identificar-40-azul-1xzkv5otdxwq9xk-jz-0vkmq4jwt9jkze",
-      "title": "Calca jeans",
-      "category": "Calca jeans",
-      "brand": "A identificar",
-      "size": "40",
-      "color": "Azul",
-      "colorSource": "imagem",
-      "price": 129.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1xzkv5otdxwQ9xK_jz_0VKmq4JWT9JKzE",
-      "fileName": "20261013_173510.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1xzkv5otdxwQ9xK_jz_0VKmq4JWT9JKzE/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1xzkv5otdxwQ9xK_jz_0VKmq4JWT9JKzE&sz=w900",
-      "folderName": "CALÇAS JEANS ",
-      "folderPath": "CALÇAS JEANS  / CALÇAS 40",
-      "createdTime": "2026-10-14T02:58:48.084Z",
-      "modifiedTime": "2026-10-14T02:58:48.094Z"
     },
     {
       "id": "calca-jeans-a-identificar-38-azul-1rspvuxjbcxv4v3iwamawxdjtfoazisu1",
