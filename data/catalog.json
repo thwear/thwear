@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-11-19T19:18:03.456Z",
+    "syncedAt": "2026-11-20T01:33:45.172Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -8290,26 +8290,6 @@
       "modifiedTime": "2026-07-15T01:00:48.394Z"
     },
     {
-      "id": "camisa-premium-premium-g-cinza-1i-maidiqxizu-87ujfknw-1-a29sihg2",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "G",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1i_maIDIQXizU-87UjFKNw-1_a29sIHg2",
-      "fileName": "IMG-20260714-WA0383.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1i_maIDIQXizU-87UjFKNw-1_a29sIHg2/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1i_maIDIQXizU-87UjFKNw-1_a29sIHg2&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM G",
-      "createdTime": "2026-07-15T01:00:48.231Z",
-      "modifiedTime": "2026-07-15T01:00:48.246Z"
-    },
-    {
       "id": "camisa-premium-premium-g-vinho-1pzxndlzbjdblkgbkttbr-rru5fbp0o5v",
       "title": "Camisa premium",
       "category": "Camisa premium",
@@ -8870,13 +8850,13 @@
       "modifiedTime": "2026-06-20T12:18:25.736Z"
     },
     {
-      "id": "perfume-a-identificar-unico-verde-1nclivqwhtas-n0qlgmv83alpblfa-pkq",
+      "id": "perfume-a-identificar-unico-cor-a-identificar-1nclivqwhtas-n0qlgmv83alpblfa-pkq",
       "title": "Perfume",
       "category": "Perfume",
       "brand": "A identificar",
       "size": "Unico",
-      "color": "Verde",
-      "colorSource": "imagem",
+      "color": "Cor a identificar",
+      "colorSource": "indefinida",
       "price": null,
       "status": "available",
       "confidence": "path",
