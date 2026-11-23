@@ -3,7 +3,7 @@
     "provider": "Google Drive",
     "rootFolderId": "1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
     "rootUrl": "https://drive.google.com/drive/folders/1E6XqPMoxn-xq36Kf4wVkYW3JlupTyjIU",
-    "syncedAt": "2026-11-23T03:33:22.572Z",
+    "syncedAt": "2026-11-23T13:53:07.530Z",
     "note": "Gerado automaticamente pelo sync do catalogo."
   },
   "priceRules": [
@@ -8628,26 +8628,6 @@
       "folderPath": "SUÉTER  / SUÉTER P",
       "createdTime": "2026-06-08T01:48:19.234Z",
       "modifiedTime": "2026-06-08T01:48:19.248Z"
-    },
-    {
-      "id": "camisa-premium-premium-p-cinza-1o-8pf4a9tpwnoh65btb190lhzjzhi3qn",
-      "title": "Camisa premium",
-      "category": "Camisa premium",
-      "brand": "Premium",
-      "size": "P",
-      "color": "Cinza",
-      "colorSource": "imagem",
-      "price": 79.9,
-      "status": "available",
-      "confidence": "path",
-      "driveFileId": "1o-8PF4a9tPwnoH65BTb190lHzJZhi3qn",
-      "fileName": "20260529_171256.jpg",
-      "driveUrl": "https://drive.google.com/file/d/1o-8PF4a9tPwnoH65BTb190lHzJZhi3qn/view?usp=drivesdk",
-      "image": "https://drive.google.com/thumbnail?id=1o-8PF4a9tPwnoH65BTb190lHzJZhi3qn&sz=w900",
-      "folderName": "CAMISAS PREMIUM ",
-      "folderPath": "CAMISAS PREMIUM  / PREMIUM P",
-      "createdTime": "2026-06-01T01:07:56.871Z",
-      "modifiedTime": "2026-06-01T01:07:56.881Z"
     },
     {
       "id": "perfume-a-identificar-unico-vinho-1xtaxfljpdp2mdijbiajfdhbowuypr96s",
